@@ -1,4 +1,6 @@
 <?php
+ob_start(); // Buffer output so header() works after HTML has been sent
+
 // CRM Configuration File
 // Edit these settings to match your environment
 
