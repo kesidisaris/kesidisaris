@@ -1,0 +1,374 @@
+/* CRM Custom Styles */
+:root {
+    --sidebar-width: 240px;
+    --navbar-height: 56px;
+    --sidebar-bg: #1e2a3a;
+    --sidebar-hover: #2d3f55;
+    --sidebar-active: #0d6efd;
+    --sidebar-text: #c8d6e5;
+    --sidebar-section: #8899aa;
+}
+
+/* ================================================================
+   LAYOUT
+   ================================================================ */
+body.crm-body {
+    background-color: #f0f2f5;
+    font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+    font-size: 0.9rem;
+}
+
+.crm-wrapper {
+    display: flex;
+    min-height: 100vh;
+    padding-top: var(--navbar-height);
+}
+
+/* ================================================================
+   SIDEBAR
+   ================================================================ */
+.crm-sidebar {
+    width: var(--sidebar-width);
+    min-height: calc(100vh - var(--navbar-height));
+    background-color: var(--sidebar-bg);
+    position: fixed;
+    left: 0;
+    top: var(--navbar-height);
+    bottom: 0;
+    z-index: 1020;
+    overflow-y: auto;
+    transition: transform 0.3s ease;
+    display: flex;
+    flex-direction: column;
+}
+
+.sidebar-inner {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    padding: 1rem 0;
+}
+
+.sidebar-nav {
+    flex: 1;
+}
+
+.sidebar-section-label {
+    font-size: 0.65rem;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--sidebar-section);
+    padding: 1rem 1rem 0.3rem;
+    margin-top: 0.5rem;
+}
+
+.sidebar-nav .nav-link {
+    color: var(--sidebar-text);
+    padding: 0.5rem 1rem;
+    border-radius: 0;
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    font-size: 0.875rem;
+    transition: background 0.15s, color 0.15s;
+}
+
+.sidebar-nav .nav-link i {
+    font-size: 1rem;
+    width: 1.2rem;
+    text-align: center;
+    flex-shrink: 0;
+}
+
+.sidebar-nav .nav-link:hover {
+    background-color: var(--sidebar-hover);
+    color: #fff;
+}
+
+.sidebar-nav .nav-link.active {
+    background-color: var(--sidebar-active);
+    color: #fff;
+    font-weight: 600;
+}
+
+.sidebar-footer {
+    padding: 1rem;
+    border-top: 1px solid rgba(255,255,255,0.08);
+    margin-top: auto;
+}
+
+/* ================================================================
+   MAIN CONTENT
+   ================================================================ */
+.crm-main {
+    margin-left: var(--sidebar-width);
+    flex: 1;
+    min-width: 0;
+    transition: margin-left 0.3s ease;
+}
+
+/* ================================================================
+   MOBILE
+   ================================================================ */
+@media (max-width: 991.98px) {
+    .crm-sidebar {
+        transform: translateX(calc(-1 * var(--sidebar-width)));
+    }
+    .crm-sidebar.open {
+        transform: translateX(0);
+        box-shadow: 4px 0 20px rgba(0,0,0,0.3);
+    }
+    .crm-main {
+        margin-left: 0;
+    }
+    .sidebar-overlay {
+        display: none;
+        position: fixed;
+        inset: 0;
+        background: rgba(0,0,0,0.5);
+        z-index: 1019;
+    }
+    .sidebar-overlay.active {
+        display: block;
+    }
+}
+
+/* ================================================================
+   CARDS & STATS
+   ================================================================ */
+.stat-card {
+    border: none;
+    border-radius: 12px;
+    transition: transform 0.2s, box-shadow 0.2s;
+    overflow: hidden;
+}
+
+.stat-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 25px rgba(0,0,0,0.12);
+}
+
+.stat-card .card-body {
+    padding: 1.5rem;
+}
+
+.stat-icon {
+    width: 52px;
+    height: 52px;
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.5rem;
+    flex-shrink: 0;
+}
+
+.stat-number {
+    font-size: 2rem;
+    font-weight: 700;
+    line-height: 1;
+}
+
+.stat-label {
+    font-size: 0.8rem;
+    color: #6c757d;
+    margin-top: 0.2rem;
+}
+
+/* ================================================================
+   PAGE HEADER
+   ================================================================ */
+.page-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 1.5rem;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+}
+
+.page-header h1 {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: #1a2332;
+    margin: 0;
+}
+
+/* ================================================================
+   TABLES
+   ================================================================ */
+.table-crm th {
+    background-color: #f8f9fa;
+    font-size: 0.8rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: #6c757d;
+    white-space: nowrap;
+    border-top: none;
+}
+
+.table-crm td {
+    vertical-align: middle;
+}
+
+.table-crm .action-col {
+    width: 100px;
+    text-align: right;
+    white-space: nowrap;
+}
+
+/* ================================================================
+   FORMS
+   ================================================================ */
+.form-section {
+    background: #fff;
+    border-radius: 12px;
+    padding: 1.5rem;
+    margin-bottom: 1.5rem;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.06);
+}
+
+.form-section-title {
+    font-size: 0.85rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: #6c757d;
+    margin-bottom: 1.25rem;
+    padding-bottom: 0.75rem;
+    border-bottom: 1px solid #e9ecef;
+}
+
+/* ================================================================
+   OFFER ITEMS TABLE
+   ================================================================ */
+.offer-items-table {
+    font-size: 0.85rem;
+}
+
+.offer-items-table input,
+.offer-items-table select {
+    font-size: 0.85rem;
+    padding: 0.3rem 0.5rem;
+}
+
+.offer-items-table .btn-remove-line {
+    width: 32px;
+    height: 32px;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.totals-box {
+    background: #f8f9fa;
+    border-radius: 8px;
+    padding: 1rem 1.5rem;
+}
+
+.totals-box .total-row {
+    display: flex;
+    justify-content: space-between;
+    padding: 0.3rem 0;
+    font-size: 0.9rem;
+}
+
+.totals-box .total-row.grand-total {
+    font-size: 1.1rem;
+    font-weight: 700;
+    border-top: 2px solid #dee2e6;
+    padding-top: 0.5rem;
+    margin-top: 0.25rem;
+}
+
+/* ================================================================
+   BADGES & STATUS
+   ================================================================ */
+.badge {
+    font-size: 0.72rem;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+    padding: 0.35em 0.65em;
+}
+
+/* ================================================================
+   SEARCH BAR
+   ================================================================ */
+.search-bar {
+    background: #fff;
+    border-radius: 12px;
+    padding: 1rem 1.25rem;
+    margin-bottom: 1.25rem;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.06);
+}
+
+/* ================================================================
+   DETAIL VIEW
+   ================================================================ */
+.detail-label {
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: #6c757d;
+    margin-bottom: 0.2rem;
+}
+
+.detail-value {
+    font-size: 0.95rem;
+    color: #1a2332;
+}
+
+/* ================================================================
+   LOGIN PAGE
+   ================================================================ */
+.login-wrapper {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(135deg, #1e2a3a 0%, #0d6efd 100%);
+}
+
+.login-card {
+    width: 100%;
+    max-width: 420px;
+    border: none;
+    border-radius: 16px;
+    box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+}
+
+.login-logo {
+    font-size: 3rem;
+    color: #0d6efd;
+    margin-bottom: 0.5rem;
+}
+
+/* ================================================================
+   UTILITIES
+   ================================================================ */
+.text-truncate-custom {
+    max-width: 200px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    display: inline-block;
+}
+
+.cursor-pointer { cursor: pointer; }
+
+.card-shadow {
+    border: none;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+    border-radius: 12px;
+}
+
+/* Make pagination consistent */
+.pagination .page-link {
+    border-radius: 6px;
+    margin: 0 2px;
+    font-size: 0.8rem;
+}
