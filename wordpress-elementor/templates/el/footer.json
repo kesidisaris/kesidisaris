@@ -1,0 +1,381 @@
+{
+ "title": "Footer",
+ "type": "section",
+ "version": "0.4",
+ "page_settings": [],
+ "content": [
+  {
+   "id": "1064005c",
+   "elType": "container",
+   "settings": {
+    "flex_direction": "column",
+    "flex_gap": {
+     "unit": "px",
+     "size": 22,
+     "column": "22",
+     "row": "22",
+     "isLinked": true
+    },
+    "content_width": "boxed",
+    "boxed_width": {
+     "unit": "px",
+     "size": 1180
+    },
+    "background_background": "classic",
+    "background_color": "#1A3153",
+    "padding": {
+     "unit": "px",
+     "top": "60",
+     "right": "20",
+     "bottom": "30",
+     "left": "20",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "40",
+     "right": "20",
+     "bottom": "24",
+     "left": "20",
+     "isLinked": false
+    }
+   },
+   "elements": [
+    {
+     "id": "1efa2197",
+     "elType": "container",
+     "settings": {
+      "flex_direction": "row",
+      "flex_gap": {
+       "unit": "px",
+       "size": 40,
+       "column": "40",
+       "row": "40",
+       "isLinked": true
+      },
+      "flex_direction_mobile": "column",
+      "flex_wrap": "wrap",
+      "flex_align_items": "flex-start"
+     },
+     "elements": [
+      {
+       "id": "e64d1bcb",
+       "elType": "container",
+       "settings": {
+        "flex_direction": "column",
+        "flex_gap": {
+         "unit": "px",
+         "size": 16,
+         "column": "16",
+         "row": "16",
+         "isLinked": true
+        },
+        "width": {
+         "unit": "%",
+         "size": 38
+        },
+        "width_mobile": {
+         "unit": "%",
+         "size": 100
+        },
+        "width_tablet": {
+         "unit": "%",
+         "size": 100
+        }
+       },
+       "elements": [
+        {
+         "id": "b683d2e6",
+         "elType": "widget",
+         "settings": {
+          "editor": "<strong style='color:#fff'>Γαστρεντερολογικό – Ηπατολογικό Ιατρείο & Ενδοσκοπικό Κέντρο</strong><br>Νέα Μουδανιά Χαλκιδικής",
+          "text_color": "#E8E2D4",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "14",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 15
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        }
+       ],
+       "isInner": true
+      },
+      {
+       "id": "847fd9b4",
+       "elType": "container",
+       "settings": {
+        "flex_direction": "column",
+        "flex_gap": {
+         "unit": "px",
+         "size": 16,
+         "column": "16",
+         "row": "16",
+         "isLinked": true
+        },
+        "width": {
+         "unit": "%",
+         "size": 32
+        },
+        "width_mobile": {
+         "unit": "%",
+         "size": 100
+        },
+        "width_tablet": {
+         "unit": "%",
+         "size": 50
+        }
+       },
+       "elements": [
+        {
+         "id": "4fcca39a",
+         "elType": "widget",
+         "settings": {
+          "editor": "Τηλ. ραντεβού: <a style='color:#fff' href='tel:+302373025770'>23730 25770</a><br>Απευθείας με τον ιατρό: <a style='color:#fff' href='tel:+306972931794'>697 293 1794</a>",
+          "text_color": "#E8E2D4",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "14",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 15
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        }
+       ],
+       "isInner": true
+      },
+      {
+       "id": "7394988f",
+       "elType": "container",
+       "settings": {
+        "flex_direction": "column",
+        "flex_gap": {
+         "unit": "px",
+         "size": 16,
+         "column": "16",
+         "row": "16",
+         "isLinked": true
+        },
+        "width": {
+         "unit": "%",
+         "size": 30
+        },
+        "width_mobile": {
+         "unit": "%",
+         "size": 100
+        },
+        "width_tablet": {
+         "unit": "%",
+         "size": 50
+        }
+       },
+       "elements": [
+        {
+         "id": "702753a1",
+         "elType": "widget",
+         "settings": {
+          "icon_list": [
+           {
+            "text": "Αρχική",
+            "selected_icon": {
+             "value": "fas fa-angle-right",
+             "library": "fa-solid"
+            },
+            "_id": "66245bf",
+            "link": {
+             "url": "/",
+             "is_external": "",
+             "nofollow": "",
+             "custom_attributes": ""
+            }
+           },
+           {
+            "text": "Ο Ιατρός",
+            "selected_icon": {
+             "value": "fas fa-angle-right",
+             "library": "fa-solid"
+            },
+            "_id": "fec21bb",
+            "link": {
+             "url": "/o-iatros/",
+             "is_external": "",
+             "nofollow": "",
+             "custom_attributes": ""
+            }
+           },
+           {
+            "text": "Υπηρεσίες",
+            "selected_icon": {
+             "value": "fas fa-angle-right",
+             "library": "fa-solid"
+            },
+            "_id": "abf3ad3",
+            "link": {
+             "url": "/ypiresies/",
+             "is_external": "",
+             "nofollow": "",
+             "custom_attributes": ""
+            }
+           },
+           {
+            "text": "Παθήσεις",
+            "selected_icon": {
+             "value": "fas fa-angle-right",
+             "library": "fa-solid"
+            },
+            "_id": "a65e688",
+            "link": {
+             "url": "/pathiseis/",
+             "is_external": "",
+             "nofollow": "",
+             "custom_attributes": ""
+            }
+           },
+           {
+            "text": "Επικοινωνία",
+            "selected_icon": {
+             "value": "fas fa-angle-right",
+             "library": "fa-solid"
+            },
+            "_id": "5f987c7",
+            "link": {
+             "url": "/epikoinonia/",
+             "is_external": "",
+             "nofollow": "",
+             "custom_attributes": ""
+            }
+           }
+          ],
+          "space_between": {
+           "unit": "px",
+           "size": 6
+          },
+          "icon_color": "#C5B598",
+          "text_color": "#E8E2D4",
+          "icon_size": {
+           "unit": "px",
+           "size": 16
+          },
+          "icon_typography_typography": "custom",
+          "icon_typography_font_family": "Noto Sans",
+          "icon_typography_font_size": {
+           "unit": "px",
+           "size": 15
+          },
+          "icon_typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "icon_typography_font_weight": "400"
+         },
+         "elements": [],
+         "widgetType": "icon-list"
+        }
+       ],
+       "isInner": true
+      }
+     ],
+     "isInner": true
+    },
+    {
+     "id": "3f76be1d",
+     "elType": "widget",
+     "settings": {
+      "style": "solid",
+      "weight": {
+       "unit": "px",
+       "size": 1
+      },
+      "color": "#3B5273",
+      "width": {
+       "unit": "px",
+       "size": 100
+      },
+      "align": "left",
+      "gap": {
+       "unit": "px",
+       "size": 8
+      }
+     },
+     "elements": [],
+     "widgetType": "divider"
+    },
+    {
+     "id": "3985c3cf",
+     "elType": "widget",
+     "settings": {
+      "editor": "© 2026 · Οι πληροφορίες του ιστότοπου είναι ενημερωτικού χαρακτήρα και δεν υποκαθιστούν την ιατρική εξέταση ή συμβουλή.",
+      "text_color": "#9FB0C8",
+      "align": "center",
+      "_margin": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "14",
+       "left": "0",
+       "isLinked": false
+      },
+      "typography_typography": "custom",
+      "typography_font_family": "Noto Sans",
+      "typography_font_size": {
+       "unit": "px",
+       "size": 13
+      },
+      "typography_font_size_mobile": {
+       "unit": "px",
+       "size": 16
+      },
+      "typography_font_weight": "400",
+      "typography_line_height": {
+       "unit": "em",
+       "size": 1.75
+      }
+     },
+     "elements": [],
+     "widgetType": "text-editor"
+    }
+   ],
+   "isInner": false
+  }
+ ]
+}

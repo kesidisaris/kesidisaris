@@ -5,7 +5,7 @@
  "page_settings": [],
  "content": [
   {
-   "id": "3985c3cf",
+   "id": "1064005c",
    "elType": "container",
    "settings": {
     "flex_direction": "column",
@@ -42,7 +42,7 @@
    },
    "elements": [
     {
-     "id": "7394988f",
+     "id": "1efa2197",
      "elType": "container",
      "settings": {
       "flex_direction": "row",
@@ -59,7 +59,7 @@
      },
      "elements": [
       {
-       "id": "702753a1",
+       "id": "e64d1bcb",
        "elType": "container",
        "settings": {
         "flex_direction": "column",
@@ -85,73 +85,10 @@
        },
        "elements": [
         {
-         "id": "337ea2df",
-         "elType": "widget",
-         "settings": {
-          "editor": "<strong style='color:#fff'>Γαστρεντερολογικό – Ηπατολογικό Ιατρείο & Ενδοσκοπικό Κέντρο</strong><br>Νέα Μουδανιά Χαλκιδικής",
-          "text_color": "#E8E2D4",
-          "align": "left",
-          "_margin": {
-           "unit": "px",
-           "top": "0",
-           "right": "0",
-           "bottom": "14",
-           "left": "0",
-           "isLinked": false
-          },
-          "typography_typography": "custom",
-          "typography_font_family": "Noto Sans",
-          "typography_font_size": {
-           "unit": "px",
-           "size": 15
-          },
-          "typography_font_size_mobile": {
-           "unit": "px",
-           "size": 16
-          },
-          "typography_font_weight": "400",
-          "typography_line_height": {
-           "unit": "em",
-           "size": 1.75
-          }
-         },
-         "elements": [],
-         "widgetType": "text-editor"
-        }
-       ],
-       "isInner": true
-      },
-      {
-       "id": "e64d1bcb",
-       "elType": "container",
-       "settings": {
-        "flex_direction": "column",
-        "flex_gap": {
-         "unit": "px",
-         "size": 16,
-         "column": "16",
-         "row": "16",
-         "isLinked": true
-        },
-        "width": {
-         "unit": "%",
-         "size": 32
-        },
-        "width_mobile": {
-         "unit": "%",
-         "size": 100
-        },
-        "width_tablet": {
-         "unit": "%",
-         "size": 50
-        }
-       },
-       "elements": [
-        {
          "id": "b683d2e6",
          "elType": "widget",
          "settings": {
-          "editor": "Τηλ. ραντεβού: <a style='color:#fff' href='tel:+302373025770'>23730 25770</a><br>Απευθείας με τον ιατρό: <a style='color:#fff' href='tel:+306972931794'>697 293 1794</a>",
+          "editor": "<strong style='color:#fff'>Praxis für Gastroenterologie & Hepatologie · Endoskopiezentrum</strong><br>Nea Moudania, Chalkidiki",
           "text_color": "#E8E2D4",
           "align": "left",
           "_margin": {
@@ -198,6 +135,69 @@
         },
         "width": {
          "unit": "%",
+         "size": 32
+        },
+        "width_mobile": {
+         "unit": "%",
+         "size": 100
+        },
+        "width_tablet": {
+         "unit": "%",
+         "size": 50
+        }
+       },
+       "elements": [
+        {
+         "id": "4fcca39a",
+         "elType": "widget",
+         "settings": {
+          "editor": "Terminvereinbarung: <a style='color:#fff' href='tel:+302373025770'>23730 25770</a><br>Direkt mit dem Arzt sprechen: <a style='color:#fff' href='tel:+306972931794'>697 293 1794</a>",
+          "text_color": "#E8E2D4",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "14",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 15
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        }
+       ],
+       "isInner": true
+      },
+      {
+       "id": "7394988f",
+       "elType": "container",
+       "settings": {
+        "flex_direction": "column",
+        "flex_gap": {
+         "unit": "px",
+         "size": 16,
+         "column": "16",
+         "row": "16",
+         "isLinked": true
+        },
+        "width": {
+         "unit": "%",
          "size": 30
         },
         "width_mobile": {
@@ -211,75 +211,75 @@
        },
        "elements": [
         {
-         "id": "5f987c71",
+         "id": "702753a1",
          "elType": "widget",
          "settings": {
           "icon_list": [
            {
-            "text": "Αρχική",
-            "selected_icon": {
-             "value": "fas fa-angle-right",
-             "library": "fa-solid"
-            },
-            "_id": "4fcca39",
-            "link": {
-             "url": "/",
-             "is_external": "",
-             "nofollow": "",
-             "custom_attributes": ""
-            }
-           },
-           {
-            "text": "Ο Ιατρός",
+            "text": "Startseite",
             "selected_icon": {
              "value": "fas fa-angle-right",
              "library": "fa-solid"
             },
             "_id": "66245bf",
             "link": {
-             "url": "/o-iatros/",
+             "url": "/de/",
              "is_external": "",
              "nofollow": "",
              "custom_attributes": ""
             }
            },
            {
-            "text": "Υπηρεσίες",
+            "text": "Der Arzt",
             "selected_icon": {
              "value": "fas fa-angle-right",
              "library": "fa-solid"
             },
             "_id": "fec21bb",
             "link": {
-             "url": "/ypiresies/",
+             "url": "/de/arzt/",
              "is_external": "",
              "nofollow": "",
              "custom_attributes": ""
             }
            },
            {
-            "text": "Παθήσεις",
+            "text": "Leistungen",
             "selected_icon": {
              "value": "fas fa-angle-right",
              "library": "fa-solid"
             },
             "_id": "abf3ad3",
             "link": {
-             "url": "/pathiseis/",
+             "url": "/de/leistungen/",
              "is_external": "",
              "nofollow": "",
              "custom_attributes": ""
             }
            },
            {
-            "text": "Επικοινωνία",
+            "text": "Erkrankungen",
             "selected_icon": {
              "value": "fas fa-angle-right",
              "library": "fa-solid"
             },
             "_id": "a65e688",
             "link": {
-             "url": "/epikoinonia/",
+             "url": "/de/erkrankungen/",
+             "is_external": "",
+             "nofollow": "",
+             "custom_attributes": ""
+            }
+           },
+           {
+            "text": "Kontakt",
+            "selected_icon": {
+             "value": "fas fa-angle-right",
+             "library": "fa-solid"
+            },
+            "_id": "5f987c7",
+            "link": {
+             "url": "/de/kontakt/",
              "is_external": "",
              "nofollow": "",
              "custom_attributes": ""
@@ -318,7 +318,7 @@
      "isInner": true
     },
     {
-     "id": "1efa2197",
+     "id": "3f76be1d",
      "elType": "widget",
      "settings": {
       "style": "solid",
@@ -341,10 +341,10 @@
      "widgetType": "divider"
     },
     {
-     "id": "3f76be1d",
+     "id": "3985c3cf",
      "elType": "widget",
      "settings": {
-      "editor": "© 2026 · Οι πληροφορίες του ιστότοπου είναι ενημερωτικού χαρακτήρα και δεν υποκαθιστούν την ιατρική εξέταση ή συμβουλή.",
+      "editor": "© 2026 · Die Informationen auf dieser Website dienen der allgemeinen Information und ersetzen keine ärztliche Untersuchung oder Beratung.",
       "text_color": "#9FB0C8",
       "align": "center",
       "_margin": {

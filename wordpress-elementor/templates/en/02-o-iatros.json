@@ -1,0 +1,1318 @@
+{
+ "title": "The Doctor",
+ "type": "page",
+ "version": "0.4",
+ "page_settings": [],
+ "content": [
+  {
+   "id": "ddd1dfb2",
+   "elType": "container",
+   "settings": {
+    "flex_direction": "column",
+    "flex_gap": {
+     "unit": "px",
+     "size": 8,
+     "column": "8",
+     "row": "8",
+     "isLinked": true
+    },
+    "content_width": "boxed",
+    "boxed_width": {
+     "unit": "px",
+     "size": 1180
+    },
+    "background_background": "classic",
+    "background_color": "#1A3153",
+    "padding": {
+     "unit": "px",
+     "top": "80",
+     "right": "20",
+     "bottom": "70",
+     "left": "20",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "50",
+     "right": "20",
+     "bottom": "45",
+     "left": "20",
+     "isLinked": false
+    }
+   },
+   "elements": [
+    {
+     "id": "daf61a26",
+     "elType": "widget",
+     "settings": {
+      "title": "The Doctor & the team",
+      "header_size": "p",
+      "title_color": "#C5B598",
+      "align": "left",
+      "_margin": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "6",
+       "left": "0",
+       "isLinked": false
+      },
+      "typography_typography": "custom",
+      "typography_font_family": "Noto Sans",
+      "typography_font_size": {
+       "unit": "px",
+       "size": 14
+      },
+      "typography_font_weight": "700",
+      "typography_letter_spacing": {
+       "unit": "px",
+       "size": 2
+      },
+      "typography_text_transform": "uppercase"
+     },
+     "elements": [],
+     "widgetType": "heading"
+    },
+    {
+     "id": "3b982ef8",
+     "elType": "widget",
+     "settings": {
+      "title": "The Doctor",
+      "header_size": "h1",
+      "align": "left",
+      "title_color": "#FFFFFF",
+      "_margin": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "12",
+       "left": "0",
+       "isLinked": false
+      },
+      "typography_typography": "custom",
+      "typography_font_family": "Noto Serif",
+      "typography_font_size": {
+       "unit": "px",
+       "size": 46
+      },
+      "typography_font_size_mobile": {
+       "unit": "px",
+       "size": 30
+      },
+      "typography_font_weight": "700",
+      "typography_line_height": {
+       "unit": "em",
+       "size": 1.25
+      }
+     },
+     "elements": [],
+     "widgetType": "heading"
+    }
+   ],
+   "isInner": false
+  },
+  {
+   "id": "f91e1d4c",
+   "elType": "container",
+   "settings": {
+    "flex_direction": "column",
+    "flex_gap": {
+     "unit": "px",
+     "size": 28,
+     "column": "28",
+     "row": "28",
+     "isLinked": true
+    },
+    "content_width": "boxed",
+    "boxed_width": {
+     "unit": "px",
+     "size": 1180
+    },
+    "background_background": "classic",
+    "background_color": "#FFFFFF",
+    "padding": {
+     "unit": "px",
+     "top": "90",
+     "right": "20",
+     "bottom": "90",
+     "left": "20",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "55",
+     "right": "20",
+     "bottom": "55",
+     "left": "20",
+     "isLinked": false
+    }
+   },
+   "elements": [
+    {
+     "id": "1ff49b78",
+     "elType": "container",
+     "settings": {
+      "flex_direction": "row",
+      "flex_gap": {
+       "unit": "px",
+       "size": 40,
+       "column": "40",
+       "row": "40",
+       "isLinked": true
+      },
+      "flex_direction_mobile": "column",
+      "flex_wrap": "wrap",
+      "flex_align_items": "flex-start"
+     },
+     "elements": [
+      {
+       "id": "759cde66",
+       "elType": "container",
+       "settings": {
+        "flex_direction": "column",
+        "flex_gap": {
+         "unit": "px",
+         "size": 16,
+         "column": "16",
+         "row": "16",
+         "isLinked": true
+        },
+        "width": {
+         "unit": "%",
+         "size": 36
+        },
+        "width_mobile": {
+         "unit": "%",
+         "size": 100
+        },
+        "width_tablet": {
+         "unit": "%",
+         "size": 100
+        }
+       },
+       "elements": [
+        {
+         "id": "18c26797",
+         "elType": "widget",
+         "settings": {
+          "image": {
+           "url": "",
+           "id": ""
+          },
+          "image_size": "large",
+          "align": "center",
+          "image_border_radius": {
+           "unit": "px",
+           "top": "20",
+           "right": "20",
+           "bottom": "20",
+           "left": "20",
+           "isLinked": false
+          }
+         },
+         "elements": [],
+         "widgetType": "image"
+        },
+        {
+         "id": "5be6128e",
+         "elType": "widget",
+         "settings": {
+          "editor": "<em>Add the doctor's photo here (Image widget → Choose Image).</em>",
+          "text_color": "#8A8F99",
+          "align": "center",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "14",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 13
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        }
+       ],
+       "isInner": true
+      },
+      {
+       "id": "89463e85",
+       "elType": "container",
+       "settings": {
+        "flex_direction": "column",
+        "flex_gap": {
+         "unit": "px",
+         "size": 16,
+         "column": "16",
+         "row": "16",
+         "isLinked": true
+        },
+        "width": {
+         "unit": "%",
+         "size": 64
+        },
+        "width_mobile": {
+         "unit": "%",
+         "size": 100
+        },
+        "width_tablet": {
+         "unit": "%",
+         "size": 100
+        }
+       },
+       "elements": [
+        {
+         "id": "d8f56413",
+         "elType": "widget",
+         "settings": {
+          "title": "The Doctor",
+          "header_size": "p",
+          "title_color": "#C5B598",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "6",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 14
+          },
+          "typography_font_weight": "700",
+          "typography_letter_spacing": {
+           "unit": "px",
+           "size": 2
+          },
+          "typography_text_transform": "uppercase"
+         },
+         "elements": [],
+         "widgetType": "heading"
+        },
+        {
+         "id": "580d7b71",
+         "elType": "widget",
+         "settings": {
+          "title": "Our journey",
+          "header_size": "h2",
+          "align": "left",
+          "title_color": "#1A3153",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "16",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Serif",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 38
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 28
+          },
+          "typography_font_weight": "700",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.25
+          }
+         },
+         "elements": [],
+         "widgetType": "heading"
+        },
+        {
+         "id": "9a8dca03",
+         "elType": "widget",
+         "settings": {
+          "editor": "Raised in Nea Moudania, Chalkidiki, with roots in Simantra and Nea Triglia, the doctor began studying at the School of Medicine of the Aristotle University of Thessaloniki in 2008.",
+          "text_color": "#2B3445",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "14",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 17
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        },
+        {
+         "id": "43b7a3a6",
+         "elType": "widget",
+         "settings": {
+          "editor": "Graduating in 2014 after six years of study, and following military service as a doctor with the 31st Brigade in Evros, the doctor worked for four years at the General Hospital of Chalkidiki, training in the Internal Medicine Department.",
+          "text_color": "#2B3445",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "14",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 17
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        },
+        {
+         "id": "ce9ff57f",
+         "elType": "widget",
+         "settings": {
+          "editor": "Training in Gastroenterology continued at the General Hospital of Thessaloniki “G. Papanikolaou”, where the specialty was completed after four years of training and clinical work in the Gastroenterology Department.",
+          "text_color": "#2B3445",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "14",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 17
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        },
+        {
+         "id": "0b1f9163",
+         "elType": "widget",
+         "settings": {
+          "editor": "Postgraduate training in Germany followed, with a specialization in intestinal ultrasound at the Carl Gustav Carus University Hospital in Dresden, further broadening clinical and diagnostic experience.",
+          "text_color": "#2B3445",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "14",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 17
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        },
+        {
+         "id": "bacfb3d0",
+         "elType": "widget",
+         "settings": {
+          "editor": "In 2024 the doctor returned to Chalkidiki, the region where they grew up, with the aim of bringing the experience and knowledge gained over the years back home. With this vision, a modern Gastroenterology – Hepatology Clinic and Endoscopy Center was created in Nea Moudania, focused on the patient, modern medicine and high-quality healthcare services for our community.",
+          "text_color": "#2B3445",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "14",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 17
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        }
+       ],
+       "isInner": true
+      }
+     ],
+     "isInner": true
+    }
+   ],
+   "isInner": false
+  },
+  {
+   "id": "5c941cf0",
+   "elType": "container",
+   "settings": {
+    "flex_direction": "column",
+    "flex_gap": {
+     "unit": "px",
+     "size": 28,
+     "column": "28",
+     "row": "28",
+     "isLinked": true
+    },
+    "content_width": "boxed",
+    "boxed_width": {
+     "unit": "px",
+     "size": 1180
+    },
+    "background_background": "classic",
+    "background_color": "#F4F0E8",
+    "padding": {
+     "unit": "px",
+     "top": "90",
+     "right": "20",
+     "bottom": "90",
+     "left": "20",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "55",
+     "right": "20",
+     "bottom": "55",
+     "left": "20",
+     "isLinked": false
+    }
+   },
+   "elements": [
+    {
+     "id": "ec1b8ca1",
+     "elType": "widget",
+     "settings": {
+      "title": "Education",
+      "header_size": "p",
+      "title_color": "#C5B598",
+      "align": "left",
+      "_margin": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "6",
+       "left": "0",
+       "isLinked": false
+      },
+      "typography_typography": "custom",
+      "typography_font_family": "Noto Sans",
+      "typography_font_size": {
+       "unit": "px",
+       "size": 14
+      },
+      "typography_font_weight": "700",
+      "typography_letter_spacing": {
+       "unit": "px",
+       "size": 2
+      },
+      "typography_text_transform": "uppercase"
+     },
+     "elements": [],
+     "widgetType": "heading"
+    },
+    {
+     "id": "60e7a113",
+     "elType": "widget",
+     "settings": {
+      "title": "Career milestones",
+      "header_size": "h2",
+      "align": "left",
+      "title_color": "#1A3153",
+      "_margin": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "16",
+       "left": "0",
+       "isLinked": false
+      },
+      "typography_typography": "custom",
+      "typography_font_family": "Noto Serif",
+      "typography_font_size": {
+       "unit": "px",
+       "size": 38
+      },
+      "typography_font_size_mobile": {
+       "unit": "px",
+       "size": 28
+      },
+      "typography_font_weight": "700",
+      "typography_line_height": {
+       "unit": "em",
+       "size": 1.25
+      }
+     },
+     "elements": [],
+     "widgetType": "heading"
+    },
+    {
+     "id": "dc98d2c1",
+     "elType": "widget",
+     "settings": {
+      "icon_list": [
+       {
+        "text": "2008–2014 · School of Medicine, Aristotle University of Thessaloniki",
+        "selected_icon": {
+         "value": "fas fa-graduation-cap",
+         "library": "fa-solid"
+        },
+        "_id": "142c3fe"
+       },
+       {
+        "text": "Military service as a doctor · 31st Brigade, Evros",
+        "selected_icon": {
+         "value": "fas fa-graduation-cap",
+         "library": "fa-solid"
+        },
+        "_id": "8d5288f"
+       },
+       {
+        "text": "4 years · Internal Medicine Department, General Hospital of Chalkidiki",
+        "selected_icon": {
+         "value": "fas fa-graduation-cap",
+         "library": "fa-solid"
+        },
+        "_id": "4b0dbb4"
+       },
+       {
+        "text": "4 years · Gastroenterology residency, General Hospital of Thessaloniki “G. Papanikolaou”",
+        "selected_icon": {
+         "value": "fas fa-graduation-cap",
+         "library": "fa-solid"
+        },
+        "_id": "d453dd3"
+       },
+       {
+        "text": "Postgraduate training in intestinal ultrasound · Carl Gustav Carus University Hospital, Dresden",
+        "selected_icon": {
+         "value": "fas fa-graduation-cap",
+         "library": "fa-solid"
+        },
+        "_id": "a0ee89a"
+       },
+       {
+        "text": "Training program of the International Bowel Ultrasound Group (IBUS)",
+        "selected_icon": {
+         "value": "fas fa-graduation-cap",
+         "library": "fa-solid"
+        },
+        "_id": "9e574f7"
+       },
+       {
+        "text": "2024 · Return to Chalkidiki and founding of the clinic in Nea Moudania",
+        "selected_icon": {
+         "value": "fas fa-graduation-cap",
+         "library": "fa-solid"
+        },
+        "_id": "e2acf72"
+       }
+      ],
+      "space_between": {
+       "unit": "px",
+       "size": 16
+      },
+      "icon_color": "#1A3153",
+      "text_color": "#2B3445",
+      "icon_size": {
+       "unit": "px",
+       "size": 16
+      },
+      "icon_typography_typography": "custom",
+      "icon_typography_font_family": "Noto Sans",
+      "icon_typography_font_size": {
+       "unit": "px",
+       "size": 18
+      },
+      "icon_typography_font_size_mobile": {
+       "unit": "px",
+       "size": 16
+      },
+      "icon_typography_font_weight": "400"
+     },
+     "elements": [],
+     "widgetType": "icon-list"
+    }
+   ],
+   "isInner": false
+  },
+  {
+   "id": "146d3f31",
+   "elType": "container",
+   "settings": {
+    "flex_direction": "column",
+    "flex_gap": {
+     "unit": "px",
+     "size": 28,
+     "column": "28",
+     "row": "28",
+     "isLinked": true
+    },
+    "content_width": "boxed",
+    "boxed_width": {
+     "unit": "px",
+     "size": 1180
+    },
+    "background_background": "classic",
+    "background_color": "#FFFFFF",
+    "padding": {
+     "unit": "px",
+     "top": "90",
+     "right": "20",
+     "bottom": "90",
+     "left": "20",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "55",
+     "right": "20",
+     "bottom": "55",
+     "left": "20",
+     "isLinked": false
+    },
+    "_element_id": "prosopiko"
+   },
+   "elements": [
+    {
+     "id": "fc377a4c",
+     "elType": "container",
+     "settings": {
+      "flex_direction": "row",
+      "flex_gap": {
+       "unit": "px",
+       "size": 40,
+       "column": "40",
+       "row": "40",
+       "isLinked": true
+      },
+      "flex_direction_mobile": "column",
+      "flex_wrap": "wrap",
+      "flex_align_items": "flex-start"
+     },
+     "elements": [
+      {
+       "id": "c5e7ce8a",
+       "elType": "container",
+       "settings": {
+        "flex_direction": "column",
+        "flex_gap": {
+         "unit": "px",
+         "size": 16,
+         "column": "16",
+         "row": "16",
+         "isLinked": true
+        },
+        "width": {
+         "unit": "%",
+         "size": 36
+        },
+        "width_mobile": {
+         "unit": "%",
+         "size": 100
+        },
+        "width_tablet": {
+         "unit": "%",
+         "size": 100
+        }
+       },
+       "elements": [
+        {
+         "id": "93cd59bf",
+         "elType": "widget",
+         "settings": {
+          "title": "Our staff",
+          "header_size": "p",
+          "title_color": "#C5B598",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "6",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 14
+          },
+          "typography_font_weight": "700",
+          "typography_letter_spacing": {
+           "unit": "px",
+           "size": 2
+          },
+          "typography_text_transform": "uppercase"
+         },
+         "elements": [],
+         "widgetType": "heading"
+        },
+        {
+         "id": "3139d32c",
+         "elType": "widget",
+         "settings": {
+          "title": "By your side at every stage",
+          "header_size": "h2",
+          "align": "left",
+          "title_color": "#1A3153",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "16",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Serif",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 38
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 28
+          },
+          "typography_font_weight": "700",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.25
+          }
+         },
+         "elements": [],
+         "widgetType": "heading"
+        },
+        {
+         "id": "b45ed1f0",
+         "elType": "widget",
+         "settings": {
+          "style": "solid",
+          "weight": {
+           "unit": "px",
+           "size": 3
+          },
+          "color": "#C5B598",
+          "width": {
+           "unit": "px",
+           "size": 60
+          },
+          "align": "left",
+          "gap": {
+           "unit": "px",
+           "size": 8
+          }
+         },
+         "elements": [],
+         "widgetType": "divider"
+        }
+       ],
+       "isInner": true
+      },
+      {
+       "id": "4a15544d",
+       "elType": "container",
+       "settings": {
+        "flex_direction": "column",
+        "flex_gap": {
+         "unit": "px",
+         "size": 16,
+         "column": "16",
+         "row": "16",
+         "isLinked": true
+        },
+        "width": {
+         "unit": "%",
+         "size": 64
+        },
+        "width_mobile": {
+         "unit": "%",
+         "size": 100
+        },
+        "width_tablet": {
+         "unit": "%",
+         "size": 100
+        }
+       },
+       "elements": [
+        {
+         "id": "11ce5dd2",
+         "elType": "widget",
+         "settings": {
+          "editor": "The nursing staff of our center consists of healthcare professionals with long-standing experience in healthcare institutions in Greece and abroad, as well as specialized experience in gastroenterology and endoscopic procedures.",
+          "text_color": "#2B3445",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "14",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 17
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        },
+        {
+         "id": "0bbb2599",
+         "elType": "widget",
+         "settings": {
+          "editor": "The safety, care and comfort of the patient at every stage of the examination is our team's top priority. From preparation and reception, through monitoring during the endoscopy, to recovery after sedation, the nursing staff is always at the patient's side.",
+          "text_color": "#2B3445",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "14",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 17
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        },
+        {
+         "id": "a9488d99",
+         "elType": "widget",
+         "settings": {
+          "editor": "Close cooperation between the doctor and the nursing staff ensures the smooth and safe performance of endoscopic examinations, with continuous monitoring and immediate response to each patient's needs.",
+          "text_color": "#2B3445",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "14",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 17
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        },
+        {
+         "id": "3a578a8e",
+         "elType": "widget",
+         "settings": {
+          "editor": "With professionalism, discretion and a human approach, our aim is for every patient to feel they are in a safe and well-organized environment, where the quality of medical care is combined with respect for their personal needs.",
+          "text_color": "#2B3445",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "14",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 17
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        }
+       ],
+       "isInner": true
+      }
+     ],
+     "isInner": true
+    }
+   ],
+   "isInner": false
+  },
+  {
+   "id": "d58842de",
+   "elType": "container",
+   "settings": {
+    "flex_direction": "column",
+    "flex_gap": {
+     "unit": "px",
+     "size": 14,
+     "column": "14",
+     "row": "14",
+     "isLinked": true
+    },
+    "content_width": "boxed",
+    "boxed_width": {
+     "unit": "px",
+     "size": 1180
+    },
+    "background_background": "classic",
+    "background_color": "#1A3153",
+    "padding": {
+     "unit": "px",
+     "top": "75",
+     "right": "20",
+     "bottom": "75",
+     "left": "20",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "50",
+     "right": "20",
+     "bottom": "50",
+     "left": "20",
+     "isLinked": false
+    },
+    "flex_align_items": "center"
+   },
+   "elements": [
+    {
+     "id": "19db3ad0",
+     "elType": "widget",
+     "settings": {
+      "title": "Book your appointment",
+      "header_size": "h2",
+      "align": "center",
+      "title_color": "#FFFFFF",
+      "_margin": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "16",
+       "left": "0",
+       "isLinked": false
+      },
+      "typography_typography": "custom",
+      "typography_font_family": "Noto Serif",
+      "typography_font_size": {
+       "unit": "px",
+       "size": 34
+      },
+      "typography_font_size_mobile": {
+       "unit": "px",
+       "size": 26
+      },
+      "typography_font_weight": "700",
+      "typography_line_height": {
+       "unit": "em",
+       "size": 1.25
+      }
+     },
+     "elements": [],
+     "widgetType": "heading"
+    },
+    {
+     "id": "614ff3d7",
+     "elType": "widget",
+     "settings": {
+      "editor": "The clinic operates by appointment only, so that every patient has the time they need and unnecessary waiting and crowding in the waiting room are avoided.",
+      "text_color": "#E8E2D4",
+      "align": "center",
+      "_margin": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "14",
+       "left": "0",
+       "isLinked": false
+      },
+      "typography_typography": "custom",
+      "typography_font_family": "Noto Sans",
+      "typography_font_size": {
+       "unit": "px",
+       "size": 17
+      },
+      "typography_font_size_mobile": {
+       "unit": "px",
+       "size": 16
+      },
+      "typography_font_weight": "400",
+      "typography_line_height": {
+       "unit": "em",
+       "size": 1.75
+      }
+     },
+     "elements": [],
+     "widgetType": "text-editor"
+    },
+    {
+     "id": "a2bc372f",
+     "elType": "container",
+     "settings": {
+      "flex_direction": "row",
+      "flex_gap": {
+       "unit": "px",
+       "size": 8,
+       "column": "8",
+       "row": "8",
+       "isLinked": true
+      },
+      "flex_direction_mobile": "column",
+      "flex_wrap": "wrap",
+      "flex_justify_content": "center"
+     },
+     "elements": [
+      {
+       "id": "47294739",
+       "elType": "widget",
+       "settings": {
+        "text": "Book an appointment: 23730 25770",
+        "link": {
+         "url": "tel:+302373025770",
+         "is_external": "",
+         "nofollow": "",
+         "custom_attributes": ""
+        },
+        "align": "center",
+        "size": "md",
+        "button_text_color": "#1A3153",
+        "background_color": "#C5B598",
+        "button_background_hover_color": "#C5B598",
+        "hover_color": "#1A3153",
+        "border_radius": {
+         "unit": "px",
+         "top": "50",
+         "right": "50",
+         "bottom": "50",
+         "left": "50",
+         "isLinked": false
+        },
+        "text_padding": {
+         "unit": "px",
+         "top": "16",
+         "right": "32",
+         "bottom": "16",
+         "left": "32",
+         "isLinked": false
+        },
+        "_margin": {
+         "unit": "px",
+         "top": "0",
+         "right": "8",
+         "bottom": "8",
+         "left": "0",
+         "isLinked": false
+        },
+        "typography_typography": "custom",
+        "typography_font_family": "Noto Sans",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 16
+        },
+        "typography_font_weight": "600",
+        "selected_icon": {
+         "value": "fas fa-phone-alt",
+         "library": "fa-solid"
+        },
+        "icon_align": "left",
+        "icon_indent": {
+         "unit": "px",
+         "size": 10
+        }
+       },
+       "elements": [],
+       "widgetType": "button"
+      },
+      {
+       "id": "7412b293",
+       "elType": "widget",
+       "settings": {
+        "text": "Speak directly with the doctor: 697 293 1794",
+        "link": {
+         "url": "tel:+306972931794",
+         "is_external": "",
+         "nofollow": "",
+         "custom_attributes": ""
+        },
+        "align": "center",
+        "size": "md",
+        "button_text_color": "#FFFFFF",
+        "background_color": "rgba(255,255,255,0)",
+        "button_background_hover_color": "#FFFFFF",
+        "hover_color": "#1A3153",
+        "border_radius": {
+         "unit": "px",
+         "top": "50",
+         "right": "50",
+         "bottom": "50",
+         "left": "50",
+         "isLinked": false
+        },
+        "text_padding": {
+         "unit": "px",
+         "top": "16",
+         "right": "32",
+         "bottom": "16",
+         "left": "32",
+         "isLinked": false
+        },
+        "_margin": {
+         "unit": "px",
+         "top": "0",
+         "right": "8",
+         "bottom": "8",
+         "left": "0",
+         "isLinked": false
+        },
+        "typography_typography": "custom",
+        "typography_font_family": "Noto Sans",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 16
+        },
+        "typography_font_weight": "600",
+        "border_border": "solid",
+        "border_width": {
+         "unit": "px",
+         "top": "2",
+         "right": "2",
+         "bottom": "2",
+         "left": "2",
+         "isLinked": false
+        },
+        "border_color": "#FFFFFF"
+       },
+       "elements": [],
+       "widgetType": "button"
+      }
+     ],
+     "isInner": true
+    }
+   ],
+   "isInner": false
+  }
+ ]
+}

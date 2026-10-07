@@ -1,0 +1,3501 @@
+{
+ "title": "Services",
+ "type": "page",
+ "version": "0.4",
+ "page_settings": [],
+ "content": [
+  {
+   "id": "02f06b90",
+   "elType": "container",
+   "settings": {
+    "flex_direction": "column",
+    "flex_gap": {
+     "unit": "px",
+     "size": 8,
+     "column": "8",
+     "row": "8",
+     "isLinked": true
+    },
+    "content_width": "boxed",
+    "boxed_width": {
+     "unit": "px",
+     "size": 1180
+    },
+    "background_background": "classic",
+    "background_color": "#1A3153",
+    "padding": {
+     "unit": "px",
+     "top": "80",
+     "right": "20",
+     "bottom": "70",
+     "left": "20",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "50",
+     "right": "20",
+     "bottom": "45",
+     "left": "20",
+     "isLinked": false
+    }
+   },
+   "elements": [
+    {
+     "id": "8da0365b",
+     "elType": "widget",
+     "settings": {
+      "title": "Services",
+      "header_size": "p",
+      "title_color": "#C5B598",
+      "align": "left",
+      "_margin": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "6",
+       "left": "0",
+       "isLinked": false
+      },
+      "typography_typography": "custom",
+      "typography_font_family": "Noto Sans",
+      "typography_font_size": {
+       "unit": "px",
+       "size": 14
+      },
+      "typography_font_weight": "700",
+      "typography_letter_spacing": {
+       "unit": "px",
+       "size": 2
+      },
+      "typography_text_transform": "uppercase"
+     },
+     "elements": [],
+     "widgetType": "heading"
+    },
+    {
+     "id": "dc5c0eed",
+     "elType": "widget",
+     "settings": {
+      "title": "Services",
+      "header_size": "h1",
+      "align": "left",
+      "title_color": "#FFFFFF",
+      "_margin": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "12",
+       "left": "0",
+       "isLinked": false
+      },
+      "typography_typography": "custom",
+      "typography_font_family": "Noto Serif",
+      "typography_font_size": {
+       "unit": "px",
+       "size": 46
+      },
+      "typography_font_size_mobile": {
+       "unit": "px",
+       "size": 30
+      },
+      "typography_font_weight": "700",
+      "typography_line_height": {
+       "unit": "em",
+       "size": 1.25
+      }
+     },
+     "elements": [],
+     "widgetType": "heading"
+    },
+    {
+     "id": "f143262f",
+     "elType": "widget",
+     "settings": {
+      "editor": "Modern diagnostic and endoscopic examinations, with an emphasis on safety, comfort and quality.",
+      "text_color": "#E8E2D4",
+      "align": "left",
+      "_margin": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "14",
+       "left": "0",
+       "isLinked": false
+      },
+      "typography_typography": "custom",
+      "typography_font_family": "Noto Sans",
+      "typography_font_size": {
+       "unit": "px",
+       "size": 18
+      },
+      "typography_font_size_mobile": {
+       "unit": "px",
+       "size": 16
+      },
+      "typography_font_weight": "400",
+      "typography_line_height": {
+       "unit": "em",
+       "size": 1.75
+      }
+     },
+     "elements": [],
+     "widgetType": "text-editor"
+    }
+   ],
+   "isInner": false
+  },
+  {
+   "id": "b3aa7efe",
+   "elType": "container",
+   "settings": {
+    "flex_direction": "column",
+    "flex_gap": {
+     "unit": "px",
+     "size": 24,
+     "column": "24",
+     "row": "24",
+     "isLinked": true
+    },
+    "content_width": "boxed",
+    "boxed_width": {
+     "unit": "px",
+     "size": 1180
+    },
+    "background_background": "classic",
+    "background_color": "#FFFFFF",
+    "padding": {
+     "unit": "px",
+     "top": "26",
+     "right": "20",
+     "bottom": "18",
+     "left": "20",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "20",
+     "right": "12",
+     "bottom": "12",
+     "left": "12",
+     "isLinked": false
+    }
+   },
+   "elements": [
+    {
+     "id": "4458a885",
+     "elType": "container",
+     "settings": {
+      "flex_direction": "row",
+      "flex_gap": {
+       "unit": "px",
+       "size": 4,
+       "column": "4",
+       "row": "4",
+       "isLinked": true
+      },
+      "flex_direction_mobile": "column",
+      "flex_wrap": "wrap",
+      "flex_justify_content": "center"
+     },
+     "elements": [
+      {
+       "id": "5d65a441",
+       "elType": "widget",
+       "settings": {
+        "text": "Clinical examination",
+        "link": {
+         "url": "#klinikh",
+         "is_external": "",
+         "nofollow": "",
+         "custom_attributes": ""
+        },
+        "align": "left",
+        "size": "md",
+        "button_text_color": "#1A3153",
+        "background_color": "#F4F0E8",
+        "button_background_hover_color": "#C5B598",
+        "hover_color": "#1A3153",
+        "border_radius": {
+         "unit": "px",
+         "top": "50",
+         "right": "50",
+         "bottom": "50",
+         "left": "50",
+         "isLinked": false
+        },
+        "text_padding": {
+         "unit": "px",
+         "top": "16",
+         "right": "32",
+         "bottom": "16",
+         "left": "32",
+         "isLinked": false
+        },
+        "_margin": {
+         "unit": "px",
+         "top": "0",
+         "right": "8",
+         "bottom": "8",
+         "left": "0",
+         "isLinked": false
+        },
+        "typography_typography": "custom",
+        "typography_font_family": "Noto Sans",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 16
+        },
+        "typography_font_weight": "600"
+       },
+       "elements": [],
+       "widgetType": "button"
+      },
+      {
+       "id": "29a3b2e9",
+       "elType": "widget",
+       "settings": {
+        "text": "Gastroscopy",
+        "link": {
+         "url": "#gastroskopisi",
+         "is_external": "",
+         "nofollow": "",
+         "custom_attributes": ""
+        },
+        "align": "left",
+        "size": "md",
+        "button_text_color": "#1A3153",
+        "background_color": "#F4F0E8",
+        "button_background_hover_color": "#C5B598",
+        "hover_color": "#1A3153",
+        "border_radius": {
+         "unit": "px",
+         "top": "50",
+         "right": "50",
+         "bottom": "50",
+         "left": "50",
+         "isLinked": false
+        },
+        "text_padding": {
+         "unit": "px",
+         "top": "16",
+         "right": "32",
+         "bottom": "16",
+         "left": "32",
+         "isLinked": false
+        },
+        "_margin": {
+         "unit": "px",
+         "top": "0",
+         "right": "8",
+         "bottom": "8",
+         "left": "0",
+         "isLinked": false
+        },
+        "typography_typography": "custom",
+        "typography_font_family": "Noto Sans",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 16
+        },
+        "typography_font_weight": "600"
+       },
+       "elements": [],
+       "widgetType": "button"
+      },
+      {
+       "id": "5ec42e08",
+       "elType": "widget",
+       "settings": {
+        "text": "Colonoscopy",
+        "link": {
+         "url": "#kolonoskopisi",
+         "is_external": "",
+         "nofollow": "",
+         "custom_attributes": ""
+        },
+        "align": "left",
+        "size": "md",
+        "button_text_color": "#1A3153",
+        "background_color": "#F4F0E8",
+        "button_background_hover_color": "#C5B598",
+        "hover_color": "#1A3153",
+        "border_radius": {
+         "unit": "px",
+         "top": "50",
+         "right": "50",
+         "bottom": "50",
+         "left": "50",
+         "isLinked": false
+        },
+        "text_padding": {
+         "unit": "px",
+         "top": "16",
+         "right": "32",
+         "bottom": "16",
+         "left": "32",
+         "isLinked": false
+        },
+        "_margin": {
+         "unit": "px",
+         "top": "0",
+         "right": "8",
+         "bottom": "8",
+         "left": "0",
+         "isLinked": false
+        },
+        "typography_typography": "custom",
+        "typography_font_family": "Noto Sans",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 16
+        },
+        "typography_font_weight": "600"
+       },
+       "elements": [],
+       "widgetType": "button"
+      },
+      {
+       "id": "5af30553",
+       "elType": "widget",
+       "settings": {
+        "text": "Polypectomy",
+        "link": {
+         "url": "#polypektomi",
+         "is_external": "",
+         "nofollow": "",
+         "custom_attributes": ""
+        },
+        "align": "left",
+        "size": "md",
+        "button_text_color": "#1A3153",
+        "background_color": "#F4F0E8",
+        "button_background_hover_color": "#C5B598",
+        "hover_color": "#1A3153",
+        "border_radius": {
+         "unit": "px",
+         "top": "50",
+         "right": "50",
+         "bottom": "50",
+         "left": "50",
+         "isLinked": false
+        },
+        "text_padding": {
+         "unit": "px",
+         "top": "16",
+         "right": "32",
+         "bottom": "16",
+         "left": "32",
+         "isLinked": false
+        },
+        "_margin": {
+         "unit": "px",
+         "top": "0",
+         "right": "8",
+         "bottom": "8",
+         "left": "0",
+         "isLinked": false
+        },
+        "typography_typography": "custom",
+        "typography_font_family": "Noto Sans",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 16
+        },
+        "typography_font_weight": "600"
+       },
+       "elements": [],
+       "widgetType": "button"
+      },
+      {
+       "id": "35a240ae",
+       "elType": "widget",
+       "settings": {
+        "text": "Intestinal ultrasound",
+        "link": {
+         "url": "#entheriko-yperixografima",
+         "is_external": "",
+         "nofollow": "",
+         "custom_attributes": ""
+        },
+        "align": "left",
+        "size": "md",
+        "button_text_color": "#1A3153",
+        "background_color": "#F4F0E8",
+        "button_background_hover_color": "#C5B598",
+        "hover_color": "#1A3153",
+        "border_radius": {
+         "unit": "px",
+         "top": "50",
+         "right": "50",
+         "bottom": "50",
+         "left": "50",
+         "isLinked": false
+        },
+        "text_padding": {
+         "unit": "px",
+         "top": "16",
+         "right": "32",
+         "bottom": "16",
+         "left": "32",
+         "isLinked": false
+        },
+        "_margin": {
+         "unit": "px",
+         "top": "0",
+         "right": "8",
+         "bottom": "8",
+         "left": "0",
+         "isLinked": false
+        },
+        "typography_typography": "custom",
+        "typography_font_family": "Noto Sans",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 16
+        },
+        "typography_font_weight": "600"
+       },
+       "elements": [],
+       "widgetType": "button"
+      },
+      {
+       "id": "ab9099a4",
+       "elType": "widget",
+       "settings": {
+        "text": "Liver elastography",
+        "link": {
+         "url": "#elastografia",
+         "is_external": "",
+         "nofollow": "",
+         "custom_attributes": ""
+        },
+        "align": "left",
+        "size": "md",
+        "button_text_color": "#1A3153",
+        "background_color": "#F4F0E8",
+        "button_background_hover_color": "#C5B598",
+        "hover_color": "#1A3153",
+        "border_radius": {
+         "unit": "px",
+         "top": "50",
+         "right": "50",
+         "bottom": "50",
+         "left": "50",
+         "isLinked": false
+        },
+        "text_padding": {
+         "unit": "px",
+         "top": "16",
+         "right": "32",
+         "bottom": "16",
+         "left": "32",
+         "isLinked": false
+        },
+        "_margin": {
+         "unit": "px",
+         "top": "0",
+         "right": "8",
+         "bottom": "8",
+         "left": "0",
+         "isLinked": false
+        },
+        "typography_typography": "custom",
+        "typography_font_family": "Noto Sans",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 16
+        },
+        "typography_font_weight": "600"
+       },
+       "elements": [],
+       "widgetType": "button"
+      }
+     ],
+     "isInner": true
+    }
+   ],
+   "isInner": false
+  },
+  {
+   "id": "6123fdf7",
+   "elType": "container",
+   "settings": {
+    "flex_direction": "column",
+    "flex_gap": {
+     "unit": "px",
+     "size": 28,
+     "column": "28",
+     "row": "28",
+     "isLinked": true
+    },
+    "content_width": "boxed",
+    "boxed_width": {
+     "unit": "px",
+     "size": 1180
+    },
+    "background_background": "classic",
+    "background_color": "#FFFFFF",
+    "padding": {
+     "unit": "px",
+     "top": "90",
+     "right": "20",
+     "bottom": "90",
+     "left": "20",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "55",
+     "right": "20",
+     "bottom": "55",
+     "left": "20",
+     "isLinked": false
+    },
+    "_element_id": "klinikh"
+   },
+   "elements": [
+    {
+     "id": "7656af72",
+     "elType": "container",
+     "settings": {
+      "flex_direction": "row",
+      "flex_gap": {
+       "unit": "px",
+       "size": 40,
+       "column": "40",
+       "row": "40",
+       "isLinked": true
+      },
+      "flex_direction_mobile": "column",
+      "flex_wrap": "wrap",
+      "flex_align_items": "flex-start"
+     },
+     "elements": [
+      {
+       "id": "3eabedcb",
+       "elType": "container",
+       "settings": {
+        "flex_direction": "column",
+        "flex_gap": {
+         "unit": "px",
+         "size": 16,
+         "column": "16",
+         "row": "16",
+         "isLinked": true
+        },
+        "width": {
+         "unit": "%",
+         "size": 50
+        },
+        "width_mobile": {
+         "unit": "%",
+         "size": 100
+        },
+        "width_tablet": {
+         "unit": "%",
+         "size": 100
+        }
+       },
+       "elements": [
+        {
+         "id": "efc89849",
+         "elType": "widget",
+         "settings": {
+          "title": "Service",
+          "header_size": "p",
+          "title_color": "#C5B598",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "6",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 14
+          },
+          "typography_font_weight": "700",
+          "typography_letter_spacing": {
+           "unit": "px",
+           "size": 2
+          },
+          "typography_text_transform": "uppercase"
+         },
+         "elements": [],
+         "widgetType": "heading"
+        },
+        {
+         "id": "aefcfad8",
+         "elType": "widget",
+         "settings": {
+          "title": "Clinical examination – Appointment",
+          "header_size": "h2",
+          "align": "left",
+          "title_color": "#1A3153",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "16",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Serif",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 38
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 28
+          },
+          "typography_font_weight": "700",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.25
+          }
+         },
+         "elements": [],
+         "widgetType": "heading"
+        },
+        {
+         "id": "a5e5a5ab",
+         "elType": "widget",
+         "settings": {
+          "style": "solid",
+          "weight": {
+           "unit": "px",
+           "size": 3
+          },
+          "color": "#C5B598",
+          "width": {
+           "unit": "px",
+           "size": 60
+          },
+          "align": "left",
+          "gap": {
+           "unit": "px",
+           "size": 8
+          }
+         },
+         "elements": [],
+         "widgetType": "divider"
+        },
+        {
+         "id": "12476f57",
+         "elType": "widget",
+         "settings": {
+          "editor": "Starting with a full medical history and a clinical examination, we can investigate acute, subacute and chronic conditions of the gastrointestinal system and the liver.",
+          "text_color": "#2B3445",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "14",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 17
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        },
+        {
+         "id": "9bf00273",
+         "elType": "widget",
+         "settings": {
+          "editor": "The clinical examination is complemented, where necessary, by point-of-care ultrasound (POCUS), providing the possibility of immediate additional assessment.",
+          "text_color": "#2B3445",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "14",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 17
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        }
+       ],
+       "isInner": true
+      },
+      {
+       "id": "29d4beef",
+       "elType": "container",
+       "settings": {
+        "flex_direction": "column",
+        "flex_gap": {
+         "unit": "px",
+         "size": 16,
+         "column": "16",
+         "row": "16",
+         "isLinked": true
+        },
+        "width": {
+         "unit": "%",
+         "size": 50
+        },
+        "width_mobile": {
+         "unit": "%",
+         "size": 100
+        },
+        "width_tablet": {
+         "unit": "%",
+         "size": 100
+        }
+       },
+       "elements": [
+        {
+         "id": "a28defe3",
+         "elType": "widget",
+         "settings": {
+          "editor": "Our clinic operates <strong>by appointment only</strong>, so that every patient has the time they need, and to avoid unnecessary waiting and crowding in the waiting room.",
+          "text_color": "#2B3445",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "14",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 17
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        },
+        {
+         "id": "88bd6407",
+         "elType": "widget",
+         "settings": {
+          "tabs": [
+           {
+            "tab_title": "What to bring with you",
+            "tab_content": "<p>For the best and most complete assessment, it is useful for patients to bring to their appointment recent tests, such as blood tests and imaging studies, as well as the results of any previous endoscopic examinations.</p><p>To complete the process, please bring your AMKA (Greek social security number) or, if you have one, your European Health Insurance Card.</p>",
+            "_id": "2bcfbe0"
+           }
+          ],
+          "selected_icon": {
+           "value": "fas fa-plus",
+           "library": "fa-solid"
+          },
+          "selected_active_icon": {
+           "value": "fas fa-minus",
+           "library": "fa-solid"
+          },
+          "title_color": "#1A3153",
+          "tab_active_color": "#C5B598",
+          "icon_color": "#1A3153",
+          "icon_active_color": "#C5B598",
+          "border_color": "#C5B598",
+          "content_color": "#2B3445",
+          "title_html_tag": "h3",
+          "title_typography_typography": "custom",
+          "title_typography_font_family": "Noto Serif",
+          "title_typography_font_size": {
+           "unit": "px",
+           "size": 18
+          },
+          "title_typography_font_weight": "700",
+          "content_typography_typography": "custom",
+          "content_typography_font_family": "Noto Sans",
+          "content_typography_font_size": {
+           "unit": "px",
+           "size": 16
+          },
+          "content_typography_font_weight": "400",
+          "content_typography_line_height": {
+           "unit": "em",
+           "size": 1.7
+          }
+         },
+         "elements": [],
+         "widgetType": "accordion"
+        },
+        {
+         "id": "baa80dd4",
+         "elType": "widget",
+         "settings": {
+          "text": "Book an appointment",
+          "link": {
+           "url": "tel:+302373025770",
+           "is_external": "",
+           "nofollow": "",
+           "custom_attributes": ""
+          },
+          "align": "left",
+          "size": "md",
+          "button_text_color": "#FFFFFF",
+          "background_color": "#1A3153",
+          "button_background_hover_color": "#C5B598",
+          "hover_color": "#1A3153",
+          "border_radius": {
+           "unit": "px",
+           "top": "50",
+           "right": "50",
+           "bottom": "50",
+           "left": "50",
+           "isLinked": false
+          },
+          "text_padding": {
+           "unit": "px",
+           "top": "16",
+           "right": "32",
+           "bottom": "16",
+           "left": "32",
+           "isLinked": false
+          },
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "8",
+           "bottom": "8",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "600",
+          "selected_icon": {
+           "value": "fas fa-phone-alt",
+           "library": "fa-solid"
+          },
+          "icon_align": "left",
+          "icon_indent": {
+           "unit": "px",
+           "size": 10
+          }
+         },
+         "elements": [],
+         "widgetType": "button"
+        }
+       ],
+       "isInner": true
+      }
+     ],
+     "isInner": true
+    }
+   ],
+   "isInner": false
+  },
+  {
+   "id": "ce177b4e",
+   "elType": "container",
+   "settings": {
+    "flex_direction": "column",
+    "flex_gap": {
+     "unit": "px",
+     "size": 28,
+     "column": "28",
+     "row": "28",
+     "isLinked": true
+    },
+    "content_width": "boxed",
+    "boxed_width": {
+     "unit": "px",
+     "size": 1180
+    },
+    "background_background": "classic",
+    "background_color": "#F4F0E8",
+    "padding": {
+     "unit": "px",
+     "top": "90",
+     "right": "20",
+     "bottom": "90",
+     "left": "20",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "55",
+     "right": "20",
+     "bottom": "55",
+     "left": "20",
+     "isLinked": false
+    },
+    "_element_id": "gastroskopisi"
+   },
+   "elements": [
+    {
+     "id": "0837b8a3",
+     "elType": "container",
+     "settings": {
+      "flex_direction": "row",
+      "flex_gap": {
+       "unit": "px",
+       "size": 40,
+       "column": "40",
+       "row": "40",
+       "isLinked": true
+      },
+      "flex_direction_mobile": "column",
+      "flex_wrap": "wrap",
+      "flex_align_items": "flex-start"
+     },
+     "elements": [
+      {
+       "id": "3aa2e4f9",
+       "elType": "container",
+       "settings": {
+        "flex_direction": "column",
+        "flex_gap": {
+         "unit": "px",
+         "size": 16,
+         "column": "16",
+         "row": "16",
+         "isLinked": true
+        },
+        "width": {
+         "unit": "%",
+         "size": 50
+        },
+        "width_mobile": {
+         "unit": "%",
+         "size": 100
+        },
+        "width_tablet": {
+         "unit": "%",
+         "size": 100
+        }
+       },
+       "elements": [
+        {
+         "id": "b02b61c4",
+         "elType": "widget",
+         "settings": {
+          "title": "Service",
+          "header_size": "p",
+          "title_color": "#C5B598",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "6",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 14
+          },
+          "typography_font_weight": "700",
+          "typography_letter_spacing": {
+           "unit": "px",
+           "size": 2
+          },
+          "typography_text_transform": "uppercase"
+         },
+         "elements": [],
+         "widgetType": "heading"
+        },
+        {
+         "id": "8e944239",
+         "elType": "widget",
+         "settings": {
+          "title": "Gastroscopy",
+          "header_size": "h2",
+          "align": "left",
+          "title_color": "#1A3153",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "16",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Serif",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 38
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 28
+          },
+          "typography_font_weight": "700",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.25
+          }
+         },
+         "elements": [],
+         "widgetType": "heading"
+        },
+        {
+         "id": "3838b326",
+         "elType": "widget",
+         "settings": {
+          "style": "solid",
+          "weight": {
+           "unit": "px",
+           "size": 3
+          },
+          "color": "#C5B598",
+          "width": {
+           "unit": "px",
+           "size": 60
+          },
+          "align": "left",
+          "gap": {
+           "unit": "px",
+           "size": 8
+          }
+         },
+         "elements": [],
+         "widgetType": "divider"
+        },
+        {
+         "id": "af42e12f",
+         "elType": "widget",
+         "settings": {
+          "editor": "Upper gastrointestinal endoscopy is performed at our center using modern methods, with an emphasis on safety, comfort and the quality of the examination.",
+          "text_color": "#2B3445",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "14",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 17
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        },
+        {
+         "id": "5304317f",
+         "elType": "widget",
+         "settings": {
+          "editor": "<strong>The examination is performed to the following standards:</strong>",
+          "text_color": "#2B3445",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "8",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 17
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        },
+        {
+         "id": "a3d70628",
+         "elType": "widget",
+         "settings": {
+          "icon_list": [
+           {
+            "text": "Modern intravenous sedation, aiming for a comfortable and painless experience for the patient.",
+            "selected_icon": {
+             "value": "fas fa-check-circle",
+             "library": "fa-solid"
+            },
+            "_id": "451b4cf"
+           },
+           {
+            "text": "Continuous monitoring of vital signs throughout the examination, with monitor, oximetry and capnography.",
+            "selected_icon": {
+             "value": "fas fa-check-circle",
+             "library": "fa-solid"
+            },
+            "_id": "fd5166e"
+           },
+           {
+            "text": "Latest-generation endoscopes, for high-quality imaging and a detailed examination of the upper digestive tract.",
+            "selected_icon": {
+             "value": "fas fa-check-circle",
+             "library": "fa-solid"
+            },
+            "_id": "ece66fa"
+           }
+          ],
+          "space_between": {
+           "unit": "px",
+           "size": 10
+          },
+          "icon_color": "#1A3153",
+          "text_color": "#2B3445",
+          "icon_size": {
+           "unit": "px",
+           "size": 16
+          },
+          "icon_typography_typography": "custom",
+          "icon_typography_font_family": "Noto Sans",
+          "icon_typography_font_size": {
+           "unit": "px",
+           "size": 17
+          },
+          "icon_typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "icon_typography_font_weight": "400"
+         },
+         "elements": [],
+         "widgetType": "icon-list"
+        }
+       ],
+       "isInner": true
+      },
+      {
+       "id": "d261a7ab",
+       "elType": "container",
+       "settings": {
+        "flex_direction": "column",
+        "flex_gap": {
+         "unit": "px",
+         "size": 16,
+         "column": "16",
+         "row": "16",
+         "isLinked": true
+        },
+        "width": {
+         "unit": "%",
+         "size": 50
+        },
+        "width_mobile": {
+         "unit": "%",
+         "size": 100
+        },
+        "width_tablet": {
+         "unit": "%",
+         "size": 100
+        }
+       },
+       "elements": [
+        {
+         "id": "d7c524a5",
+         "elType": "widget",
+         "settings": {
+          "editor": "Gastroscopy allows a detailed examination of the esophagus, stomach and duodenum. During the examination, samples may be taken to test for <em>Helicobacter pylori</em>, as well as biopsies of the mucosa when necessary.",
+          "text_color": "#2B3445",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "14",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 17
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        },
+        {
+         "id": "c4b032cc",
+         "elType": "widget",
+         "settings": {
+          "editor": "After the examination, once the patient has recovered from sedation, the doctor gives a detailed explanation of the findings. The patient can also view the images recorded during the examination.",
+          "text_color": "#2B3445",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "14",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 17
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        },
+        {
+         "id": "0e51f30d",
+         "elType": "widget",
+         "settings": {
+          "tabs": [
+           {
+            "tab_title": "Preparation for gastroscopy",
+            "tab_content": "<p>Gastroscopy requires fasting from solid food from the morning of the examination. Fluids must be stopped at least two hours before the examination, according to the instructions you will be given when scheduling your appointment.</p>",
+            "_id": "c6a7ee3"
+           }
+          ],
+          "selected_icon": {
+           "value": "fas fa-plus",
+           "library": "fa-solid"
+          },
+          "selected_active_icon": {
+           "value": "fas fa-minus",
+           "library": "fa-solid"
+          },
+          "title_color": "#1A3153",
+          "tab_active_color": "#C5B598",
+          "icon_color": "#1A3153",
+          "icon_active_color": "#C5B598",
+          "border_color": "#C5B598",
+          "content_color": "#2B3445",
+          "title_html_tag": "h3",
+          "title_typography_typography": "custom",
+          "title_typography_font_family": "Noto Serif",
+          "title_typography_font_size": {
+           "unit": "px",
+           "size": 18
+          },
+          "title_typography_font_weight": "700",
+          "content_typography_typography": "custom",
+          "content_typography_font_family": "Noto Sans",
+          "content_typography_font_size": {
+           "unit": "px",
+           "size": 16
+          },
+          "content_typography_font_weight": "400",
+          "content_typography_line_height": {
+           "unit": "em",
+           "size": 1.7
+          }
+         },
+         "elements": [],
+         "widgetType": "accordion"
+        }
+       ],
+       "isInner": true
+      }
+     ],
+     "isInner": true
+    }
+   ],
+   "isInner": false
+  },
+  {
+   "id": "a491f0b2",
+   "elType": "container",
+   "settings": {
+    "flex_direction": "column",
+    "flex_gap": {
+     "unit": "px",
+     "size": 28,
+     "column": "28",
+     "row": "28",
+     "isLinked": true
+    },
+    "content_width": "boxed",
+    "boxed_width": {
+     "unit": "px",
+     "size": 1180
+    },
+    "background_background": "classic",
+    "background_color": "#FFFFFF",
+    "padding": {
+     "unit": "px",
+     "top": "90",
+     "right": "20",
+     "bottom": "90",
+     "left": "20",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "55",
+     "right": "20",
+     "bottom": "55",
+     "left": "20",
+     "isLinked": false
+    },
+    "_element_id": "kolonoskopisi"
+   },
+   "elements": [
+    {
+     "id": "ea1fca65",
+     "elType": "container",
+     "settings": {
+      "flex_direction": "row",
+      "flex_gap": {
+       "unit": "px",
+       "size": 40,
+       "column": "40",
+       "row": "40",
+       "isLinked": true
+      },
+      "flex_direction_mobile": "column",
+      "flex_wrap": "wrap",
+      "flex_align_items": "flex-start"
+     },
+     "elements": [
+      {
+       "id": "654821d0",
+       "elType": "container",
+       "settings": {
+        "flex_direction": "column",
+        "flex_gap": {
+         "unit": "px",
+         "size": 16,
+         "column": "16",
+         "row": "16",
+         "isLinked": true
+        },
+        "width": {
+         "unit": "%",
+         "size": 50
+        },
+        "width_mobile": {
+         "unit": "%",
+         "size": 100
+        },
+        "width_tablet": {
+         "unit": "%",
+         "size": 100
+        }
+       },
+       "elements": [
+        {
+         "id": "3602f8ac",
+         "elType": "widget",
+         "settings": {
+          "title": "Service",
+          "header_size": "p",
+          "title_color": "#C5B598",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "6",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 14
+          },
+          "typography_font_weight": "700",
+          "typography_letter_spacing": {
+           "unit": "px",
+           "size": 2
+          },
+          "typography_text_transform": "uppercase"
+         },
+         "elements": [],
+         "widgetType": "heading"
+        },
+        {
+         "id": "e9c349e0",
+         "elType": "widget",
+         "settings": {
+          "title": "Colonoscopy",
+          "header_size": "h2",
+          "align": "left",
+          "title_color": "#1A3153",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "16",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Serif",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 38
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 28
+          },
+          "typography_font_weight": "700",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.25
+          }
+         },
+         "elements": [],
+         "widgetType": "heading"
+        },
+        {
+         "id": "f16287e4",
+         "elType": "widget",
+         "settings": {
+          "style": "solid",
+          "weight": {
+           "unit": "px",
+           "size": 3
+          },
+          "color": "#C5B598",
+          "width": {
+           "unit": "px",
+           "size": 60
+          },
+          "align": "left",
+          "gap": {
+           "unit": "px",
+           "size": 8
+          }
+         },
+         "elements": [],
+         "widgetType": "divider"
+        },
+        {
+         "id": "9132b63e",
+         "elType": "widget",
+         "settings": {
+          "editor": "Colonoscopy is performed at our center using modern methods, with an emphasis on safety, comfort and the quality of the examination.",
+          "text_color": "#2B3445",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "14",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 17
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        },
+        {
+         "id": "e059a0ee",
+         "elType": "widget",
+         "settings": {
+          "editor": "<strong>The examination is performed to the following standards:</strong>",
+          "text_color": "#2B3445",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "8",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 17
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        },
+        {
+         "id": "10f1bc81",
+         "elType": "widget",
+         "settings": {
+          "icon_list": [
+           {
+            "text": "Modern intravenous sedation, aiming for a comfortable and as painless an experience as possible for the patient.",
+            "selected_icon": {
+             "value": "fas fa-check-circle",
+             "library": "fa-solid"
+            },
+            "_id": "50c187f"
+           },
+           {
+            "text": "Continuous monitoring of vital signs throughout the examination, with monitor, oximetry and capnography.",
+            "selected_icon": {
+             "value": "fas fa-check-circle",
+             "library": "fa-solid"
+            },
+            "_id": "66b2bc5"
+           },
+           {
+            "text": "Latest-generation endoscopes, for high-quality imaging and a detailed examination of the large intestine.",
+            "selected_icon": {
+             "value": "fas fa-check-circle",
+             "library": "fa-solid"
+            },
+            "_id": "448aaa9"
+           }
+          ],
+          "space_between": {
+           "unit": "px",
+           "size": 10
+          },
+          "icon_color": "#1A3153",
+          "text_color": "#2B3445",
+          "icon_size": {
+           "unit": "px",
+           "size": 16
+          },
+          "icon_typography_typography": "custom",
+          "icon_typography_font_family": "Noto Sans",
+          "icon_typography_font_size": {
+           "unit": "px",
+           "size": 17
+          },
+          "icon_typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "icon_typography_font_weight": "400"
+         },
+         "elements": [],
+         "widgetType": "icon-list"
+        }
+       ],
+       "isInner": true
+      },
+      {
+       "id": "e27a984d",
+       "elType": "container",
+       "settings": {
+        "flex_direction": "column",
+        "flex_gap": {
+         "unit": "px",
+         "size": 16,
+         "column": "16",
+         "row": "16",
+         "isLinked": true
+        },
+        "width": {
+         "unit": "%",
+         "size": 50
+        },
+        "width_mobile": {
+         "unit": "%",
+         "size": 100
+        },
+        "width_tablet": {
+         "unit": "%",
+         "size": 100
+        }
+       },
+       "elements": [
+        {
+         "id": "b7c93acf",
+         "elType": "widget",
+         "settings": {
+          "editor": "Colonoscopy allows a detailed examination of the entire large intestine and the final part of the small intestine, with direct assessment of the mucosa. During the examination, biopsies can be taken from areas with abnormal findings, and polyps can be removed when necessary.",
+          "text_color": "#2B3445",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "14",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 17
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        },
+        {
+         "id": "508ebad7",
+         "elType": "widget",
+         "settings": {
+          "editor": "Colonoscopy is an important examination both for investigating symptoms and monitoring known bowel conditions, and for screening and early detection of precancerous lesions and colorectal cancer.",
+          "text_color": "#2B3445",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "14",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 17
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        },
+        {
+         "id": "366eb16f",
+         "elType": "widget",
+         "settings": {
+          "editor": "After the examination, once the patient has recovered from sedation, the doctor gives a detailed explanation of the findings. The patient can also view the images recorded during the examination and learn about any biopsies or other endoscopic procedures that were performed.",
+          "text_color": "#2B3445",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "14",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 17
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        },
+        {
+         "id": "7fcd9eb1",
+         "elType": "widget",
+         "settings": {
+          "tabs": [
+           {
+            "tab_title": "Preparation for colonoscopy",
+            "tab_content": "<p>Proper bowel preparation is an essential prerequisite for a safe and reliable colonoscopy. Preparation includes a special diet and a laxative preparation, following individualized instructions you will receive before the examination.</p><p>Following the preparation instructions exactly is especially important, since a well-cleansed bowel allows the best possible visualization of the mucosa and reduces the chance of missing small lesions or polyps.</p><p>On the day of the examination, the instructions on fasting and fluid intake must be followed, together with any special instructions regarding medication, especially for patients taking anticoagulants or diabetes medication.</p>",
+            "_id": "a7cad41"
+           }
+          ],
+          "selected_icon": {
+           "value": "fas fa-plus",
+           "library": "fa-solid"
+          },
+          "selected_active_icon": {
+           "value": "fas fa-minus",
+           "library": "fa-solid"
+          },
+          "title_color": "#1A3153",
+          "tab_active_color": "#C5B598",
+          "icon_color": "#1A3153",
+          "icon_active_color": "#C5B598",
+          "border_color": "#C5B598",
+          "content_color": "#2B3445",
+          "title_html_tag": "h3",
+          "title_typography_typography": "custom",
+          "title_typography_font_family": "Noto Serif",
+          "title_typography_font_size": {
+           "unit": "px",
+           "size": 18
+          },
+          "title_typography_font_weight": "700",
+          "content_typography_typography": "custom",
+          "content_typography_font_family": "Noto Sans",
+          "content_typography_font_size": {
+           "unit": "px",
+           "size": 16
+          },
+          "content_typography_font_weight": "400",
+          "content_typography_line_height": {
+           "unit": "em",
+           "size": 1.7
+          }
+         },
+         "elements": [],
+         "widgetType": "accordion"
+        }
+       ],
+       "isInner": true
+      }
+     ],
+     "isInner": true
+    }
+   ],
+   "isInner": false
+  },
+  {
+   "id": "e5d7b875",
+   "elType": "container",
+   "settings": {
+    "flex_direction": "column",
+    "flex_gap": {
+     "unit": "px",
+     "size": 28,
+     "column": "28",
+     "row": "28",
+     "isLinked": true
+    },
+    "content_width": "boxed",
+    "boxed_width": {
+     "unit": "px",
+     "size": 1180
+    },
+    "background_background": "classic",
+    "background_color": "#F4F0E8",
+    "padding": {
+     "unit": "px",
+     "top": "90",
+     "right": "20",
+     "bottom": "90",
+     "left": "20",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "55",
+     "right": "20",
+     "bottom": "55",
+     "left": "20",
+     "isLinked": false
+    },
+    "_element_id": "polypektomi"
+   },
+   "elements": [
+    {
+     "id": "6dadd6c7",
+     "elType": "container",
+     "settings": {
+      "flex_direction": "row",
+      "flex_gap": {
+       "unit": "px",
+       "size": 40,
+       "column": "40",
+       "row": "40",
+       "isLinked": true
+      },
+      "flex_direction_mobile": "column",
+      "flex_wrap": "wrap",
+      "flex_align_items": "flex-start"
+     },
+     "elements": [
+      {
+       "id": "bf3c4c06",
+       "elType": "container",
+       "settings": {
+        "flex_direction": "column",
+        "flex_gap": {
+         "unit": "px",
+         "size": 16,
+         "column": "16",
+         "row": "16",
+         "isLinked": true
+        },
+        "width": {
+         "unit": "%",
+         "size": 50
+        },
+        "width_mobile": {
+         "unit": "%",
+         "size": 100
+        },
+        "width_tablet": {
+         "unit": "%",
+         "size": 100
+        }
+       },
+       "elements": [
+        {
+         "id": "757750a9",
+         "elType": "widget",
+         "settings": {
+          "title": "Service",
+          "header_size": "p",
+          "title_color": "#C5B598",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "6",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 14
+          },
+          "typography_font_weight": "700",
+          "typography_letter_spacing": {
+           "unit": "px",
+           "size": 2
+          },
+          "typography_text_transform": "uppercase"
+         },
+         "elements": [],
+         "widgetType": "heading"
+        },
+        {
+         "id": "24933b83",
+         "elType": "widget",
+         "settings": {
+          "title": "Polypectomy",
+          "header_size": "h2",
+          "align": "left",
+          "title_color": "#1A3153",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "16",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Serif",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 38
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 28
+          },
+          "typography_font_weight": "700",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.25
+          }
+         },
+         "elements": [],
+         "widgetType": "heading"
+        },
+        {
+         "id": "43cf2fde",
+         "elType": "widget",
+         "settings": {
+          "style": "solid",
+          "weight": {
+           "unit": "px",
+           "size": 3
+          },
+          "color": "#C5B598",
+          "width": {
+           "unit": "px",
+           "size": 60
+          },
+          "align": "left",
+          "gap": {
+           "unit": "px",
+           "size": 8
+          }
+         },
+         "elements": [],
+         "widgetType": "divider"
+        },
+        {
+         "id": "23bed01d",
+         "elType": "widget",
+         "settings": {
+          "editor": "During colonoscopy, polyps may be found in the large intestine. Most polyps are benign, but some may, over time, develop into precancerous lesions and, more rarely, into colorectal cancer.",
+          "text_color": "#2B3445",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "14",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 17
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        },
+        {
+         "id": "3f22faf8",
+         "elType": "widget",
+         "settings": {
+          "editor": "At our center, polypectomy is possible for most polyps, either during the initial colonoscopy or at a second session, depending on the characteristics of the polyp and guided by convenience and, above all, the safety of the patient.",
+          "text_color": "#2B3445",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "14",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 17
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        }
+       ],
+       "isInner": true
+      },
+      {
+       "id": "95a76d79",
+       "elType": "container",
+       "settings": {
+        "flex_direction": "column",
+        "flex_gap": {
+         "unit": "px",
+         "size": 16,
+         "column": "16",
+         "row": "16",
+         "isLinked": true
+        },
+        "width": {
+         "unit": "%",
+         "size": 50
+        },
+        "width_mobile": {
+         "unit": "%",
+         "size": 100
+        },
+        "width_tablet": {
+         "unit": "%",
+         "size": 100
+        }
+       },
+       "elements": [
+        {
+         "id": "beb79919",
+         "elType": "widget",
+         "settings": {
+          "editor": "Polypectomy is the endoscopic removal of polyps during colonoscopy. Depending on the size, shape and location of the polyp, the appropriate endoscopic technique is chosen for its safe and complete removal.",
+          "text_color": "#2B3445",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "14",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 17
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        },
+        {
+         "id": "8fb5d27b",
+         "elType": "widget",
+         "settings": {
+          "editor": "The removed tissue is sent for histological examination, which allows precise determination of the type and characteristics of the polyp and helps determine further follow-up.",
+          "text_color": "#2B3445",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "14",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 17
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        },
+        {
+         "id": "89fa6a68",
+         "elType": "widget",
+         "settings": {
+          "editor": "Polypectomy is an important part of colorectal cancer prevention, since early detection and removal of precancerous polyps can prevent their progression to malignancy.",
+          "text_color": "#2B3445",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "14",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 17
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        },
+        {
+         "id": "434308bc",
+         "elType": "widget",
+         "settings": {
+          "editor": "After the examination, the patient receives a detailed explanation from the doctor about the findings, the polyps that were found and removed, and the need for further follow-up, depending on the results of the histological examination.",
+          "text_color": "#2B3445",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "14",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 17
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        }
+       ],
+       "isInner": true
+      }
+     ],
+     "isInner": true
+    }
+   ],
+   "isInner": false
+  },
+  {
+   "id": "28f49481",
+   "elType": "container",
+   "settings": {
+    "flex_direction": "column",
+    "flex_gap": {
+     "unit": "px",
+     "size": 28,
+     "column": "28",
+     "row": "28",
+     "isLinked": true
+    },
+    "content_width": "boxed",
+    "boxed_width": {
+     "unit": "px",
+     "size": 1180
+    },
+    "background_background": "classic",
+    "background_color": "#FFFFFF",
+    "padding": {
+     "unit": "px",
+     "top": "90",
+     "right": "20",
+     "bottom": "90",
+     "left": "20",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "55",
+     "right": "20",
+     "bottom": "55",
+     "left": "20",
+     "isLinked": false
+    },
+    "_element_id": "entheriko-yperixografima"
+   },
+   "elements": [
+    {
+     "id": "a0a04dc4",
+     "elType": "container",
+     "settings": {
+      "flex_direction": "row",
+      "flex_gap": {
+       "unit": "px",
+       "size": 40,
+       "column": "40",
+       "row": "40",
+       "isLinked": true
+      },
+      "flex_direction_mobile": "column",
+      "flex_wrap": "wrap",
+      "flex_align_items": "flex-start"
+     },
+     "elements": [
+      {
+       "id": "1c11f735",
+       "elType": "container",
+       "settings": {
+        "flex_direction": "column",
+        "flex_gap": {
+         "unit": "px",
+         "size": 16,
+         "column": "16",
+         "row": "16",
+         "isLinked": true
+        },
+        "width": {
+         "unit": "%",
+         "size": 50
+        },
+        "width_mobile": {
+         "unit": "%",
+         "size": 100
+        },
+        "width_tablet": {
+         "unit": "%",
+         "size": 100
+        }
+       },
+       "elements": [
+        {
+         "id": "956269f0",
+         "elType": "widget",
+         "settings": {
+          "title": "Service",
+          "header_size": "p",
+          "title_color": "#C5B598",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "6",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 14
+          },
+          "typography_font_weight": "700",
+          "typography_letter_spacing": {
+           "unit": "px",
+           "size": 2
+          },
+          "typography_text_transform": "uppercase"
+         },
+         "elements": [],
+         "widgetType": "heading"
+        },
+        {
+         "id": "663f1c97",
+         "elType": "widget",
+         "settings": {
+          "title": "Intestinal ultrasound",
+          "header_size": "h2",
+          "align": "left",
+          "title_color": "#1A3153",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "16",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Serif",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 38
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 28
+          },
+          "typography_font_weight": "700",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.25
+          }
+         },
+         "elements": [],
+         "widgetType": "heading"
+        },
+        {
+         "id": "5cabcc97",
+         "elType": "widget",
+         "settings": {
+          "style": "solid",
+          "weight": {
+           "unit": "px",
+           "size": 3
+          },
+          "color": "#C5B598",
+          "width": {
+           "unit": "px",
+           "size": 60
+          },
+          "align": "left",
+          "gap": {
+           "unit": "px",
+           "size": 8
+          }
+         },
+         "elements": [],
+         "widgetType": "divider"
+        },
+        {
+         "id": "382567b8",
+         "elType": "widget",
+         "settings": {
+          "editor": "Intestinal ultrasound (IUS) is a modern, non-invasive, radiation-free method for the immediate assessment of the bowel.",
+          "text_color": "#2B3445",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "14",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 17
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        },
+        {
+         "id": "ff50bde4",
+         "elType": "widget",
+         "settings": {
+          "editor": "With specialized ultrasound equipment, the bowel wall can be imaged in detail and the presence and extent of inflammation can be assessed. It is particularly useful in the diagnosis and monitoring of inflammatory bowel diseases, such as Crohn's disease and ulcerative colitis.",
+          "text_color": "#2B3445",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "14",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 17
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        },
+        {
+         "id": "ff5e9ff0",
+         "elType": "widget",
+         "settings": {
+          "editor": "One of the most important advantages of the method is that it is performed immediately at the clinic, without radiation and, in most cases, without any special preparation. It can therefore be repeated whenever necessary, allowing close monitoring of the course of the disease and the response to treatment.",
+          "text_color": "#2B3445",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "14",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 17
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        },
+        {
+         "id": "2369b584",
+         "elType": "widget",
+         "settings": {
+          "editor": "Intestinal ultrasound can be used in addition to clinical examination, laboratory tests and endoscopy, providing an immediate and objective assessment of the condition of the bowel.",
+          "text_color": "#2B3445",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "14",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 17
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        }
+       ],
+       "isInner": true
+      },
+      {
+       "id": "27209bdf",
+       "elType": "container",
+       "settings": {
+        "flex_direction": "column",
+        "flex_gap": {
+         "unit": "px",
+         "size": 16,
+         "column": "16",
+         "row": "16",
+         "isLinked": true
+        },
+        "width": {
+         "unit": "%",
+         "size": 50
+        },
+        "width_mobile": {
+         "unit": "%",
+         "size": 100
+        },
+        "width_tablet": {
+         "unit": "%",
+         "size": 100
+        }
+       },
+       "elements": [
+        {
+         "id": "dc713d96",
+         "elType": "container",
+         "settings": {
+          "flex_direction": "column",
+          "flex_gap": {
+           "unit": "px",
+           "size": 10,
+           "column": "10",
+           "row": "10",
+           "isLinked": true
+          },
+          "background_background": "classic",
+          "background_color": "#F4F0E8",
+          "padding": {
+           "unit": "px",
+           "top": "32",
+           "right": "30",
+           "bottom": "28",
+           "left": "30",
+           "isLinked": false
+          },
+          "border_radius": {
+           "unit": "px",
+           "top": "18",
+           "right": "18",
+           "bottom": "18",
+           "left": "18",
+           "isLinked": false
+          }
+         },
+         "elements": [
+          {
+           "id": "827050a8",
+           "elType": "widget",
+           "settings": {
+            "title": "Specialization in intestinal ultrasound – IBUS",
+            "header_size": "h3",
+            "align": "left",
+            "title_color": "#1A3153",
+            "_margin": {
+             "unit": "px",
+             "top": "0",
+             "right": "0",
+             "bottom": "16",
+             "left": "0",
+             "isLinked": false
+            },
+            "typography_typography": "custom",
+            "typography_font_family": "Noto Serif",
+            "typography_font_size": {
+             "unit": "px",
+             "size": 22
+            },
+            "typography_font_size_mobile": {
+             "unit": "px",
+             "size": 20
+            },
+            "typography_font_weight": "700",
+            "typography_line_height": {
+             "unit": "em",
+             "size": 1.25
+            }
+           },
+           "elements": [],
+           "widgetType": "heading"
+          },
+          {
+           "id": "7e570ddf",
+           "elType": "widget",
+           "settings": {
+            "editor": "The doctor has completed the full training program of the International Bowel Ultrasound Group (IBUS), an international scientific organization active in the education, research and clinical application of intestinal ultrasound.",
+            "text_color": "#2B3445",
+            "align": "left",
+            "_margin": {
+             "unit": "px",
+             "top": "0",
+             "right": "0",
+             "bottom": "14",
+             "left": "0",
+             "isLinked": false
+            },
+            "typography_typography": "custom",
+            "typography_font_family": "Noto Sans",
+            "typography_font_size": {
+             "unit": "px",
+             "size": 17
+            },
+            "typography_font_size_mobile": {
+             "unit": "px",
+             "size": 16
+            },
+            "typography_font_weight": "400",
+            "typography_line_height": {
+             "unit": "em",
+             "size": 1.75
+            }
+           },
+           "elements": [],
+           "widgetType": "text-editor"
+          },
+          {
+           "id": "1745d6d8",
+           "elType": "widget",
+           "settings": {
+            "editor": "The training includes theoretical and practical instruction, extensive hands-on training at a specialized center, and advanced training in the modern applications of intestinal ultrasound, with an emphasis on the diagnosis and monitoring of inflammatory bowel diseases.",
+            "text_color": "#2B3445",
+            "align": "left",
+            "_margin": {
+             "unit": "px",
+             "top": "0",
+             "right": "0",
+             "bottom": "14",
+             "left": "0",
+             "isLinked": false
+            },
+            "typography_typography": "custom",
+            "typography_font_family": "Noto Sans",
+            "typography_font_size": {
+             "unit": "px",
+             "size": 17
+            },
+            "typography_font_size_mobile": {
+             "unit": "px",
+             "size": 16
+            },
+            "typography_font_weight": "400",
+            "typography_line_height": {
+             "unit": "em",
+             "size": 1.75
+            }
+           },
+           "elements": [],
+           "widgetType": "text-editor"
+          },
+          {
+           "id": "c17af08a",
+           "elType": "widget",
+           "settings": {
+            "editor": "The doctor was also one of the first members of IBUS in Greece, taking part from the early stages in the development and dissemination of the method in the country.",
+            "text_color": "#2B3445",
+            "align": "left",
+            "_margin": {
+             "unit": "px",
+             "top": "0",
+             "right": "0",
+             "bottom": "14",
+             "left": "0",
+             "isLinked": false
+            },
+            "typography_typography": "custom",
+            "typography_font_family": "Noto Sans",
+            "typography_font_size": {
+             "unit": "px",
+             "size": 17
+            },
+            "typography_font_size_mobile": {
+             "unit": "px",
+             "size": 16
+            },
+            "typography_font_weight": "400",
+            "typography_line_height": {
+             "unit": "em",
+             "size": 1.75
+            }
+           },
+           "elements": [],
+           "widgetType": "text-editor"
+          },
+          {
+           "id": "0c0fd195",
+           "elType": "widget",
+           "settings": {
+            "editor": "This specialized training and experience make it possible to use intestinal ultrasound in everyday clinical practice, particularly for the objective and repeatable assessment of patients with Crohn's disease and ulcerative colitis, as well as other bowel conditions.",
+            "text_color": "#2B3445",
+            "align": "left",
+            "_margin": {
+             "unit": "px",
+             "top": "0",
+             "right": "0",
+             "bottom": "14",
+             "left": "0",
+             "isLinked": false
+            },
+            "typography_typography": "custom",
+            "typography_font_family": "Noto Sans",
+            "typography_font_size": {
+             "unit": "px",
+             "size": 17
+            },
+            "typography_font_size_mobile": {
+             "unit": "px",
+             "size": 16
+            },
+            "typography_font_weight": "400",
+            "typography_line_height": {
+             "unit": "em",
+             "size": 1.75
+            }
+           },
+           "elements": [],
+           "widgetType": "text-editor"
+          }
+         ],
+         "isInner": true
+        }
+       ],
+       "isInner": true
+      }
+     ],
+     "isInner": true
+    }
+   ],
+   "isInner": false
+  },
+  {
+   "id": "f89897b9",
+   "elType": "container",
+   "settings": {
+    "flex_direction": "column",
+    "flex_gap": {
+     "unit": "px",
+     "size": 28,
+     "column": "28",
+     "row": "28",
+     "isLinked": true
+    },
+    "content_width": "boxed",
+    "boxed_width": {
+     "unit": "px",
+     "size": 1180
+    },
+    "background_background": "classic",
+    "background_color": "#F4F0E8",
+    "padding": {
+     "unit": "px",
+     "top": "90",
+     "right": "20",
+     "bottom": "90",
+     "left": "20",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "55",
+     "right": "20",
+     "bottom": "55",
+     "left": "20",
+     "isLinked": false
+    },
+    "_element_id": "elastografia"
+   },
+   "elements": [
+    {
+     "id": "405cacec",
+     "elType": "container",
+     "settings": {
+      "flex_direction": "row",
+      "flex_gap": {
+       "unit": "px",
+       "size": 40,
+       "column": "40",
+       "row": "40",
+       "isLinked": true
+      },
+      "flex_direction_mobile": "column",
+      "flex_wrap": "wrap",
+      "flex_align_items": "flex-start"
+     },
+     "elements": [
+      {
+       "id": "77d21e02",
+       "elType": "container",
+       "settings": {
+        "flex_direction": "column",
+        "flex_gap": {
+         "unit": "px",
+         "size": 16,
+         "column": "16",
+         "row": "16",
+         "isLinked": true
+        },
+        "width": {
+         "unit": "%",
+         "size": 50
+        },
+        "width_mobile": {
+         "unit": "%",
+         "size": 100
+        },
+        "width_tablet": {
+         "unit": "%",
+         "size": 100
+        }
+       },
+       "elements": [
+        {
+         "id": "cac5b68c",
+         "elType": "widget",
+         "settings": {
+          "title": "Service",
+          "header_size": "p",
+          "title_color": "#C5B598",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "6",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 14
+          },
+          "typography_font_weight": "700",
+          "typography_letter_spacing": {
+           "unit": "px",
+           "size": 2
+          },
+          "typography_text_transform": "uppercase"
+         },
+         "elements": [],
+         "widgetType": "heading"
+        },
+        {
+         "id": "ae340454",
+         "elType": "widget",
+         "settings": {
+          "title": "Shear Wave Liver Elastography",
+          "header_size": "h2",
+          "align": "left",
+          "title_color": "#1A3153",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "16",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Serif",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 38
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 28
+          },
+          "typography_font_weight": "700",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.25
+          }
+         },
+         "elements": [],
+         "widgetType": "heading"
+        },
+        {
+         "id": "6c12ace8",
+         "elType": "widget",
+         "settings": {
+          "style": "solid",
+          "weight": {
+           "unit": "px",
+           "size": 3
+          },
+          "color": "#C5B598",
+          "width": {
+           "unit": "px",
+           "size": 60
+          },
+          "align": "left",
+          "gap": {
+           "unit": "px",
+           "size": 8
+          }
+         },
+         "elements": [],
+         "widgetType": "divider"
+        },
+        {
+         "id": "98ae4334",
+         "elType": "widget",
+         "settings": {
+          "editor": "Shear Wave Elastography (SWE) is a modern, non-invasive ultrasound method for estimating the stiffness of the liver tissue and, by extension, for the non-invasive assessment of the degree of liver fibrosis.",
+          "text_color": "#2B3445",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "14",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 17
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        },
+        {
+         "id": "10435a10",
+         "elType": "widget",
+         "settings": {
+          "editor": "Our center offers this examination as part of hepatological assessment and follow-up, since elastography is an essential tool of modern hepatology.",
+          "text_color": "#2B3445",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "14",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 17
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        },
+        {
+         "id": "62801c45",
+         "elType": "widget",
+         "settings": {
+          "editor": "During the examination, special ultrasound waves generate and detect shear waves within the liver tissue. Their propagation speed is used to calculate liver stiffness, providing quantitative information that can help stage fibrosis.",
+          "text_color": "#2B3445",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "14",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 17
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        }
+       ],
+       "isInner": true
+      },
+      {
+       "id": "877409a9",
+       "elType": "container",
+       "settings": {
+        "flex_direction": "column",
+        "flex_gap": {
+         "unit": "px",
+         "size": 16,
+         "column": "16",
+         "row": "16",
+         "isLinked": true
+        },
+        "width": {
+         "unit": "%",
+         "size": 50
+        },
+        "width_mobile": {
+         "unit": "%",
+         "size": 100
+        },
+        "width_tablet": {
+         "unit": "%",
+         "size": 100
+        }
+       },
+       "elements": [
+        {
+         "id": "61b1cd22",
+         "elType": "widget",
+         "settings": {
+          "editor": "The method is painless, quick and non-invasive, without radiation, and can be performed as part of the ultrasound examination of the liver. It is a useful tool in the assessment and monitoring of patients with chronic liver disease, such as metabolic dysfunction-associated steatotic liver disease (MASLD), viral hepatitis and other chronic liver conditions.",
+          "text_color": "#2B3445",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "14",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 17
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        },
+        {
+         "id": "988c24c9",
+         "elType": "widget",
+         "settings": {
+          "editor": "Elastography does not replace clinical assessment or laboratory tests, but is an important part of the modern non-invasive evaluation of liver fibrosis and can help identify patients at increased risk of advanced fibrosis.",
+          "text_color": "#2B3445",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "14",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 17
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        },
+        {
+         "id": "ff01cf99",
+         "elType": "widget",
+         "settings": {
+          "editor": "The examination can be repeated during follow-up when necessary, allowing the course of liver disease to be assessed together with the other clinical and laboratory data.",
+          "text_color": "#2B3445",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "14",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 17
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        }
+       ],
+       "isInner": true
+      }
+     ],
+     "isInner": true
+    }
+   ],
+   "isInner": false
+  },
+  {
+   "id": "8976e334",
+   "elType": "container",
+   "settings": {
+    "flex_direction": "column",
+    "flex_gap": {
+     "unit": "px",
+     "size": 14,
+     "column": "14",
+     "row": "14",
+     "isLinked": true
+    },
+    "content_width": "boxed",
+    "boxed_width": {
+     "unit": "px",
+     "size": 1180
+    },
+    "background_background": "classic",
+    "background_color": "#1A3153",
+    "padding": {
+     "unit": "px",
+     "top": "75",
+     "right": "20",
+     "bottom": "75",
+     "left": "20",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "50",
+     "right": "20",
+     "bottom": "50",
+     "left": "20",
+     "isLinked": false
+    },
+    "flex_align_items": "center"
+   },
+   "elements": [
+    {
+     "id": "ae270da7",
+     "elType": "widget",
+     "settings": {
+      "title": "Book your appointment",
+      "header_size": "h2",
+      "align": "center",
+      "title_color": "#FFFFFF",
+      "_margin": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "16",
+       "left": "0",
+       "isLinked": false
+      },
+      "typography_typography": "custom",
+      "typography_font_family": "Noto Serif",
+      "typography_font_size": {
+       "unit": "px",
+       "size": 34
+      },
+      "typography_font_size_mobile": {
+       "unit": "px",
+       "size": 26
+      },
+      "typography_font_weight": "700",
+      "typography_line_height": {
+       "unit": "em",
+       "size": 1.25
+      }
+     },
+     "elements": [],
+     "widgetType": "heading"
+    },
+    {
+     "id": "b88139b9",
+     "elType": "widget",
+     "settings": {
+      "editor": "The clinic operates by appointment only, so that every patient has the time they need and unnecessary waiting and crowding in the waiting room are avoided.",
+      "text_color": "#E8E2D4",
+      "align": "center",
+      "_margin": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "14",
+       "left": "0",
+       "isLinked": false
+      },
+      "typography_typography": "custom",
+      "typography_font_family": "Noto Sans",
+      "typography_font_size": {
+       "unit": "px",
+       "size": 17
+      },
+      "typography_font_size_mobile": {
+       "unit": "px",
+       "size": 16
+      },
+      "typography_font_weight": "400",
+      "typography_line_height": {
+       "unit": "em",
+       "size": 1.75
+      }
+     },
+     "elements": [],
+     "widgetType": "text-editor"
+    },
+    {
+     "id": "e2817efd",
+     "elType": "container",
+     "settings": {
+      "flex_direction": "row",
+      "flex_gap": {
+       "unit": "px",
+       "size": 8,
+       "column": "8",
+       "row": "8",
+       "isLinked": true
+      },
+      "flex_direction_mobile": "column",
+      "flex_wrap": "wrap",
+      "flex_justify_content": "center"
+     },
+     "elements": [
+      {
+       "id": "1d53434b",
+       "elType": "widget",
+       "settings": {
+        "text": "Book an appointment: 23730 25770",
+        "link": {
+         "url": "tel:+302373025770",
+         "is_external": "",
+         "nofollow": "",
+         "custom_attributes": ""
+        },
+        "align": "center",
+        "size": "md",
+        "button_text_color": "#1A3153",
+        "background_color": "#C5B598",
+        "button_background_hover_color": "#C5B598",
+        "hover_color": "#1A3153",
+        "border_radius": {
+         "unit": "px",
+         "top": "50",
+         "right": "50",
+         "bottom": "50",
+         "left": "50",
+         "isLinked": false
+        },
+        "text_padding": {
+         "unit": "px",
+         "top": "16",
+         "right": "32",
+         "bottom": "16",
+         "left": "32",
+         "isLinked": false
+        },
+        "_margin": {
+         "unit": "px",
+         "top": "0",
+         "right": "8",
+         "bottom": "8",
+         "left": "0",
+         "isLinked": false
+        },
+        "typography_typography": "custom",
+        "typography_font_family": "Noto Sans",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 16
+        },
+        "typography_font_weight": "600",
+        "selected_icon": {
+         "value": "fas fa-phone-alt",
+         "library": "fa-solid"
+        },
+        "icon_align": "left",
+        "icon_indent": {
+         "unit": "px",
+         "size": 10
+        }
+       },
+       "elements": [],
+       "widgetType": "button"
+      },
+      {
+       "id": "ae849217",
+       "elType": "widget",
+       "settings": {
+        "text": "Speak directly with the doctor: 697 293 1794",
+        "link": {
+         "url": "tel:+306972931794",
+         "is_external": "",
+         "nofollow": "",
+         "custom_attributes": ""
+        },
+        "align": "center",
+        "size": "md",
+        "button_text_color": "#FFFFFF",
+        "background_color": "rgba(255,255,255,0)",
+        "button_background_hover_color": "#FFFFFF",
+        "hover_color": "#1A3153",
+        "border_radius": {
+         "unit": "px",
+         "top": "50",
+         "right": "50",
+         "bottom": "50",
+         "left": "50",
+         "isLinked": false
+        },
+        "text_padding": {
+         "unit": "px",
+         "top": "16",
+         "right": "32",
+         "bottom": "16",
+         "left": "32",
+         "isLinked": false
+        },
+        "_margin": {
+         "unit": "px",
+         "top": "0",
+         "right": "8",
+         "bottom": "8",
+         "left": "0",
+         "isLinked": false
+        },
+        "typography_typography": "custom",
+        "typography_font_family": "Noto Sans",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 16
+        },
+        "typography_font_weight": "600",
+        "border_border": "solid",
+        "border_width": {
+         "unit": "px",
+         "top": "2",
+         "right": "2",
+         "bottom": "2",
+         "left": "2",
+         "isLinked": false
+        },
+        "border_color": "#FFFFFF"
+       },
+       "elements": [],
+       "widgetType": "button"
+      }
+     ],
+     "isInner": true
+    }
+   ],
+   "isInner": false
+  }
+ ]
+}
