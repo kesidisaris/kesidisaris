@@ -1,0 +1,1318 @@
+{
+ "title": "Ο Ιατρός",
+ "type": "page",
+ "version": "0.4",
+ "page_settings": [],
+ "content": [
+  {
+   "id": "ddd1dfb2",
+   "elType": "container",
+   "settings": {
+    "flex_direction": "column",
+    "flex_gap": {
+     "unit": "px",
+     "size": 8,
+     "column": "8",
+     "row": "8",
+     "isLinked": true
+    },
+    "content_width": "boxed",
+    "boxed_width": {
+     "unit": "px",
+     "size": 1180
+    },
+    "background_background": "classic",
+    "background_color": "#1A3153",
+    "padding": {
+     "unit": "px",
+     "top": "80",
+     "right": "20",
+     "bottom": "70",
+     "left": "20",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "50",
+     "right": "20",
+     "bottom": "45",
+     "left": "20",
+     "isLinked": false
+    }
+   },
+   "elements": [
+    {
+     "id": "daf61a26",
+     "elType": "widget",
+     "settings": {
+      "title": "Ο Ιατρός & η ομάδα",
+      "header_size": "p",
+      "title_color": "#C5B598",
+      "align": "left",
+      "_margin": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "6",
+       "left": "0",
+       "isLinked": false
+      },
+      "typography_typography": "custom",
+      "typography_font_family": "Noto Sans",
+      "typography_font_size": {
+       "unit": "px",
+       "size": 14
+      },
+      "typography_font_weight": "700",
+      "typography_letter_spacing": {
+       "unit": "px",
+       "size": 2
+      },
+      "typography_text_transform": "uppercase"
+     },
+     "elements": [],
+     "widgetType": "heading"
+    },
+    {
+     "id": "3b982ef8",
+     "elType": "widget",
+     "settings": {
+      "title": "Ο Ιατρός",
+      "header_size": "h1",
+      "align": "left",
+      "title_color": "#FFFFFF",
+      "_margin": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "12",
+       "left": "0",
+       "isLinked": false
+      },
+      "typography_typography": "custom",
+      "typography_font_family": "Noto Serif",
+      "typography_font_size": {
+       "unit": "px",
+       "size": 46
+      },
+      "typography_font_size_mobile": {
+       "unit": "px",
+       "size": 30
+      },
+      "typography_font_weight": "700",
+      "typography_line_height": {
+       "unit": "em",
+       "size": 1.25
+      }
+     },
+     "elements": [],
+     "widgetType": "heading"
+    }
+   ],
+   "isInner": false
+  },
+  {
+   "id": "f91e1d4c",
+   "elType": "container",
+   "settings": {
+    "flex_direction": "column",
+    "flex_gap": {
+     "unit": "px",
+     "size": 28,
+     "column": "28",
+     "row": "28",
+     "isLinked": true
+    },
+    "content_width": "boxed",
+    "boxed_width": {
+     "unit": "px",
+     "size": 1180
+    },
+    "background_background": "classic",
+    "background_color": "#FFFFFF",
+    "padding": {
+     "unit": "px",
+     "top": "90",
+     "right": "20",
+     "bottom": "90",
+     "left": "20",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "55",
+     "right": "20",
+     "bottom": "55",
+     "left": "20",
+     "isLinked": false
+    }
+   },
+   "elements": [
+    {
+     "id": "1ff49b78",
+     "elType": "container",
+     "settings": {
+      "flex_direction": "row",
+      "flex_gap": {
+       "unit": "px",
+       "size": 40,
+       "column": "40",
+       "row": "40",
+       "isLinked": true
+      },
+      "flex_direction_mobile": "column",
+      "flex_wrap": "wrap",
+      "flex_align_items": "flex-start"
+     },
+     "elements": [
+      {
+       "id": "759cde66",
+       "elType": "container",
+       "settings": {
+        "flex_direction": "column",
+        "flex_gap": {
+         "unit": "px",
+         "size": 16,
+         "column": "16",
+         "row": "16",
+         "isLinked": true
+        },
+        "width": {
+         "unit": "%",
+         "size": 36
+        },
+        "width_mobile": {
+         "unit": "%",
+         "size": 100
+        },
+        "width_tablet": {
+         "unit": "%",
+         "size": 100
+        }
+       },
+       "elements": [
+        {
+         "id": "18c26797",
+         "elType": "widget",
+         "settings": {
+          "image": {
+           "url": "",
+           "id": ""
+          },
+          "image_size": "large",
+          "align": "center",
+          "image_border_radius": {
+           "unit": "px",
+           "top": "20",
+           "right": "20",
+           "bottom": "20",
+           "left": "20",
+           "isLinked": false
+          }
+         },
+         "elements": [],
+         "widgetType": "image"
+        },
+        {
+         "id": "5be6128e",
+         "elType": "widget",
+         "settings": {
+          "editor": "<em>Προσθέστε εδώ τη φωτογραφία του ιατρού (Image widget → Choose Image).</em>",
+          "text_color": "#8A8F99",
+          "align": "center",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "14",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 13
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        }
+       ],
+       "isInner": true
+      },
+      {
+       "id": "89463e85",
+       "elType": "container",
+       "settings": {
+        "flex_direction": "column",
+        "flex_gap": {
+         "unit": "px",
+         "size": 16,
+         "column": "16",
+         "row": "16",
+         "isLinked": true
+        },
+        "width": {
+         "unit": "%",
+         "size": 64
+        },
+        "width_mobile": {
+         "unit": "%",
+         "size": 100
+        },
+        "width_tablet": {
+         "unit": "%",
+         "size": 100
+        }
+       },
+       "elements": [
+        {
+         "id": "d8f56413",
+         "elType": "widget",
+         "settings": {
+          "title": "Ο Ιατρός",
+          "header_size": "p",
+          "title_color": "#C5B598",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "6",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 14
+          },
+          "typography_font_weight": "700",
+          "typography_letter_spacing": {
+           "unit": "px",
+           "size": 2
+          },
+          "typography_text_transform": "uppercase"
+         },
+         "elements": [],
+         "widgetType": "heading"
+        },
+        {
+         "id": "580d7b71",
+         "elType": "widget",
+         "settings": {
+          "title": "Η διαδρομή μας",
+          "header_size": "h2",
+          "align": "left",
+          "title_color": "#1A3153",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "16",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Serif",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 38
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 28
+          },
+          "typography_font_weight": "700",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.25
+          }
+         },
+         "elements": [],
+         "widgetType": "heading"
+        },
+        {
+         "id": "9a8dca03",
+         "elType": "widget",
+         "settings": {
+          "editor": "Μεγαλωμένος στα Νέα Μουδανιά Χαλκιδικής, με καταγωγή από τα Σήμαντρα και τη Νέα Τρίγλια, ξεκίνησε τις σπουδές του στην Ιατρική Σχολή του Αριστοτελείου Πανεπιστημίου Θεσσαλονίκης το 2008.",
+          "text_color": "#2B3445",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "14",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 17
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        },
+        {
+         "id": "43b7a3a6",
+         "elType": "widget",
+         "settings": {
+          "editor": "Αποφοίτησε το 2014, ολοκληρώνοντας τις σπουδές του σε έξι έτη. Μετά την ολοκλήρωση της στρατιωτικής του θητείας ως ιατρός στην 31η Ταξιαρχία στον Έβρο, εργάστηκε για τέσσερα έτη στο Γενικό Νοσοκομείο Χαλκιδικής, όπου εκπαιδεύτηκε στην Παθολογική Κλινική.",
+          "text_color": "#2B3445",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "14",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 17
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        },
+        {
+         "id": "ce9ff57f",
+         "elType": "widget",
+         "settings": {
+          "editor": "Συνέχισε την εκπαίδευσή του στη Γαστρεντερολογία στο Γενικό Νοσοκομείο Θεσσαλονίκης «Γ. Παπανικολάου», όπου ολοκλήρωσε την ειδικότητά του μετά από τέσσερα έτη εκπαίδευσης και κλινικής εργασίας στη Γαστρεντερολογική Κλινική.",
+          "text_color": "#2B3445",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "14",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 17
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        },
+        {
+         "id": "0b1f9163",
+         "elType": "widget",
+         "settings": {
+          "editor": "Ακολούθησε η μετεκπαίδευσή του στη Γερμανία, με εξειδίκευση στον εντερικό υπέρηχο στο Πανεπιστημιακό Νοσοκομείο Carl Gustav Carus της Δρέσδης, διευρύνοντας περαιτέρω την κλινική και διαγνωστική του εμπειρία.",
+          "text_color": "#2B3445",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "14",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 17
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        },
+        {
+         "id": "bacfb3d0",
+         "elType": "widget",
+         "settings": {
+          "editor": "Το 2024 επέστρεψε στη Χαλκιδική, στον νομό όπου μεγάλωσε, με στόχο να μεταφέρει την εμπειρία και τις γνώσεις που απέκτησε όλα αυτά τα χρόνια στον τόπο του. Με αυτό το όραμα δημιουργήθηκε στα Νέα Μουδανιά ένα σύγχρονο Γαστρεντερολογικό – Ηπατολογικό Ιατρείο και Ενδοσκοπικό Κέντρο, με επίκεντρο τον ασθενή, τη σύγχρονη ιατρική και την παροχή ποιοτικών υπηρεσιών υγείας στον τόπο μας.",
+          "text_color": "#2B3445",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "14",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 17
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        }
+       ],
+       "isInner": true
+      }
+     ],
+     "isInner": true
+    }
+   ],
+   "isInner": false
+  },
+  {
+   "id": "5c941cf0",
+   "elType": "container",
+   "settings": {
+    "flex_direction": "column",
+    "flex_gap": {
+     "unit": "px",
+     "size": 28,
+     "column": "28",
+     "row": "28",
+     "isLinked": true
+    },
+    "content_width": "boxed",
+    "boxed_width": {
+     "unit": "px",
+     "size": 1180
+    },
+    "background_background": "classic",
+    "background_color": "#F4F0E8",
+    "padding": {
+     "unit": "px",
+     "top": "90",
+     "right": "20",
+     "bottom": "90",
+     "left": "20",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "55",
+     "right": "20",
+     "bottom": "55",
+     "left": "20",
+     "isLinked": false
+    }
+   },
+   "elements": [
+    {
+     "id": "ec1b8ca1",
+     "elType": "widget",
+     "settings": {
+      "title": "Εκπαίδευση",
+      "header_size": "p",
+      "title_color": "#C5B598",
+      "align": "left",
+      "_margin": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "6",
+       "left": "0",
+       "isLinked": false
+      },
+      "typography_typography": "custom",
+      "typography_font_family": "Noto Sans",
+      "typography_font_size": {
+       "unit": "px",
+       "size": 14
+      },
+      "typography_font_weight": "700",
+      "typography_letter_spacing": {
+       "unit": "px",
+       "size": 2
+      },
+      "typography_text_transform": "uppercase"
+     },
+     "elements": [],
+     "widgetType": "heading"
+    },
+    {
+     "id": "60e7a113",
+     "elType": "widget",
+     "settings": {
+      "title": "Σταθμοί σταδιοδρομίας",
+      "header_size": "h2",
+      "align": "left",
+      "title_color": "#1A3153",
+      "_margin": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "16",
+       "left": "0",
+       "isLinked": false
+      },
+      "typography_typography": "custom",
+      "typography_font_family": "Noto Serif",
+      "typography_font_size": {
+       "unit": "px",
+       "size": 38
+      },
+      "typography_font_size_mobile": {
+       "unit": "px",
+       "size": 28
+      },
+      "typography_font_weight": "700",
+      "typography_line_height": {
+       "unit": "em",
+       "size": 1.25
+      }
+     },
+     "elements": [],
+     "widgetType": "heading"
+    },
+    {
+     "id": "dc98d2c1",
+     "elType": "widget",
+     "settings": {
+      "icon_list": [
+       {
+        "text": "2008–2014 · Ιατρική Σχολή Αριστοτελείου Πανεπιστημίου Θεσσαλονίκης",
+        "selected_icon": {
+         "value": "fas fa-graduation-cap",
+         "library": "fa-solid"
+        },
+        "_id": "142c3fe"
+       },
+       {
+        "text": "Στρατιωτική θητεία ως ιατρός · 31η Ταξιαρχία, Έβρος",
+        "selected_icon": {
+         "value": "fas fa-graduation-cap",
+         "library": "fa-solid"
+        },
+        "_id": "8d5288f"
+       },
+       {
+        "text": "4 έτη · Παθολογική Κλινική, Γενικό Νοσοκομείο Χαλκιδικής",
+        "selected_icon": {
+         "value": "fas fa-graduation-cap",
+         "library": "fa-solid"
+        },
+        "_id": "4b0dbb4"
+       },
+       {
+        "text": "4 έτη · Ειδικότητα Γαστρεντερολογίας, ΓΝ Θεσσαλονίκης «Γ. Παπανικολάου»",
+        "selected_icon": {
+         "value": "fas fa-graduation-cap",
+         "library": "fa-solid"
+        },
+        "_id": "d453dd3"
+       },
+       {
+        "text": "Μετεκπαίδευση στον εντερικό υπέρηχο · Πανεπιστημιακό Νοσοκομείο Carl Gustav Carus, Δρέσδη",
+        "selected_icon": {
+         "value": "fas fa-graduation-cap",
+         "library": "fa-solid"
+        },
+        "_id": "a0ee89a"
+       },
+       {
+        "text": "Εκπαιδευτικό πρόγραμμα International Bowel Ultrasound Group (IBUS)",
+        "selected_icon": {
+         "value": "fas fa-graduation-cap",
+         "library": "fa-solid"
+        },
+        "_id": "9e574f7"
+       },
+       {
+        "text": "2024 · Επιστροφή στη Χαλκιδική και ίδρυση του ιατρείου στα Νέα Μουδανιά",
+        "selected_icon": {
+         "value": "fas fa-graduation-cap",
+         "library": "fa-solid"
+        },
+        "_id": "e2acf72"
+       }
+      ],
+      "space_between": {
+       "unit": "px",
+       "size": 16
+      },
+      "icon_color": "#1A3153",
+      "text_color": "#2B3445",
+      "icon_size": {
+       "unit": "px",
+       "size": 16
+      },
+      "icon_typography_typography": "custom",
+      "icon_typography_font_family": "Noto Sans",
+      "icon_typography_font_size": {
+       "unit": "px",
+       "size": 18
+      },
+      "icon_typography_font_size_mobile": {
+       "unit": "px",
+       "size": 16
+      },
+      "icon_typography_font_weight": "400"
+     },
+     "elements": [],
+     "widgetType": "icon-list"
+    }
+   ],
+   "isInner": false
+  },
+  {
+   "id": "146d3f31",
+   "elType": "container",
+   "settings": {
+    "flex_direction": "column",
+    "flex_gap": {
+     "unit": "px",
+     "size": 28,
+     "column": "28",
+     "row": "28",
+     "isLinked": true
+    },
+    "content_width": "boxed",
+    "boxed_width": {
+     "unit": "px",
+     "size": 1180
+    },
+    "background_background": "classic",
+    "background_color": "#FFFFFF",
+    "padding": {
+     "unit": "px",
+     "top": "90",
+     "right": "20",
+     "bottom": "90",
+     "left": "20",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "55",
+     "right": "20",
+     "bottom": "55",
+     "left": "20",
+     "isLinked": false
+    },
+    "_element_id": "prosopiko"
+   },
+   "elements": [
+    {
+     "id": "fc377a4c",
+     "elType": "container",
+     "settings": {
+      "flex_direction": "row",
+      "flex_gap": {
+       "unit": "px",
+       "size": 40,
+       "column": "40",
+       "row": "40",
+       "isLinked": true
+      },
+      "flex_direction_mobile": "column",
+      "flex_wrap": "wrap",
+      "flex_align_items": "flex-start"
+     },
+     "elements": [
+      {
+       "id": "c5e7ce8a",
+       "elType": "container",
+       "settings": {
+        "flex_direction": "column",
+        "flex_gap": {
+         "unit": "px",
+         "size": 16,
+         "column": "16",
+         "row": "16",
+         "isLinked": true
+        },
+        "width": {
+         "unit": "%",
+         "size": 36
+        },
+        "width_mobile": {
+         "unit": "%",
+         "size": 100
+        },
+        "width_tablet": {
+         "unit": "%",
+         "size": 100
+        }
+       },
+       "elements": [
+        {
+         "id": "93cd59bf",
+         "elType": "widget",
+         "settings": {
+          "title": "Το προσωπικό",
+          "header_size": "p",
+          "title_color": "#C5B598",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "6",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 14
+          },
+          "typography_font_weight": "700",
+          "typography_letter_spacing": {
+           "unit": "px",
+           "size": 2
+          },
+          "typography_text_transform": "uppercase"
+         },
+         "elements": [],
+         "widgetType": "heading"
+        },
+        {
+         "id": "3139d32c",
+         "elType": "widget",
+         "settings": {
+          "title": "Δίπλα σας σε κάθε στάδιο",
+          "header_size": "h2",
+          "align": "left",
+          "title_color": "#1A3153",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "16",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Serif",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 38
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 28
+          },
+          "typography_font_weight": "700",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.25
+          }
+         },
+         "elements": [],
+         "widgetType": "heading"
+        },
+        {
+         "id": "b45ed1f0",
+         "elType": "widget",
+         "settings": {
+          "style": "solid",
+          "weight": {
+           "unit": "px",
+           "size": 3
+          },
+          "color": "#C5B598",
+          "width": {
+           "unit": "px",
+           "size": 60
+          },
+          "align": "left",
+          "gap": {
+           "unit": "px",
+           "size": 8
+          }
+         },
+         "elements": [],
+         "widgetType": "divider"
+        }
+       ],
+       "isInner": true
+      },
+      {
+       "id": "4a15544d",
+       "elType": "container",
+       "settings": {
+        "flex_direction": "column",
+        "flex_gap": {
+         "unit": "px",
+         "size": 16,
+         "column": "16",
+         "row": "16",
+         "isLinked": true
+        },
+        "width": {
+         "unit": "%",
+         "size": 64
+        },
+        "width_mobile": {
+         "unit": "%",
+         "size": 100
+        },
+        "width_tablet": {
+         "unit": "%",
+         "size": 100
+        }
+       },
+       "elements": [
+        {
+         "id": "11ce5dd2",
+         "elType": "widget",
+         "settings": {
+          "editor": "Το νοσηλευτικό προσωπικό του κέντρου μας αποτελείται από επαγγελματίες υγείας με μακροχρόνια εμπειρία σε νοσηλευτικά ιδρύματα της Ελλάδας και του εξωτερικού, καθώς και εξειδικευμένη εμπειρία στον χώρο της γαστρεντερολογίας και των ενδοσκοπικών πράξεων.",
+          "text_color": "#2B3445",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "14",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 17
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        },
+        {
+         "id": "0bbb2599",
+         "elType": "widget",
+         "settings": {
+          "editor": "Βασική προτεραιότητα της ομάδας μας είναι η ασφάλεια, η φροντίδα και η άνεση του ασθενούς σε κάθε στάδιο της εξέτασης. Από την προετοιμασία και την υποδοχή του ασθενούς έως την παρακολούθηση κατά τη διάρκεια της ενδοσκόπησης και την ανάνηψη μετά τη μέθη, το νοσηλευτικό προσωπικό βρίσκεται διαρκώς δίπλα του.",
+          "text_color": "#2B3445",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "14",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 17
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        },
+        {
+         "id": "a9488d99",
+         "elType": "widget",
+         "settings": {
+          "editor": "Η στενή συνεργασία μεταξύ ιατρού και νοσηλευτικού προσωπικού συμβάλλει στην ομαλή και ασφαλή διενέργεια των ενδοσκοπικών εξετάσεων, με συνεχή παρακολούθηση και άμεση ανταπόκριση στις ανάγκες κάθε ασθενούς.",
+          "text_color": "#2B3445",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "14",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 17
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        },
+        {
+         "id": "3a578a8e",
+         "elType": "widget",
+         "settings": {
+          "editor": "Με επαγγελματισμό, διακριτικότητα και ανθρώπινη προσέγγιση, στόχος είναι κάθε ασθενής να αισθάνεται ότι βρίσκεται σε ένα ασφαλές και οργανωμένο περιβάλλον, όπου η ποιότητα της ιατρικής φροντίδας συνδυάζεται με τον σεβασμό και την προσωπική του ανάγκη.",
+          "text_color": "#2B3445",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "14",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 17
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        }
+       ],
+       "isInner": true
+      }
+     ],
+     "isInner": true
+    }
+   ],
+   "isInner": false
+  },
+  {
+   "id": "d58842de",
+   "elType": "container",
+   "settings": {
+    "flex_direction": "column",
+    "flex_gap": {
+     "unit": "px",
+     "size": 14,
+     "column": "14",
+     "row": "14",
+     "isLinked": true
+    },
+    "content_width": "boxed",
+    "boxed_width": {
+     "unit": "px",
+     "size": 1180
+    },
+    "background_background": "classic",
+    "background_color": "#1A3153",
+    "padding": {
+     "unit": "px",
+     "top": "75",
+     "right": "20",
+     "bottom": "75",
+     "left": "20",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "50",
+     "right": "20",
+     "bottom": "50",
+     "left": "20",
+     "isLinked": false
+    },
+    "flex_align_items": "center"
+   },
+   "elements": [
+    {
+     "id": "19db3ad0",
+     "elType": "widget",
+     "settings": {
+      "title": "Κλείστε το ραντεβού σας",
+      "header_size": "h2",
+      "align": "center",
+      "title_color": "#FFFFFF",
+      "_margin": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "16",
+       "left": "0",
+       "isLinked": false
+      },
+      "typography_typography": "custom",
+      "typography_font_family": "Noto Serif",
+      "typography_font_size": {
+       "unit": "px",
+       "size": 34
+      },
+      "typography_font_size_mobile": {
+       "unit": "px",
+       "size": 26
+      },
+      "typography_font_weight": "700",
+      "typography_line_height": {
+       "unit": "em",
+       "size": 1.25
+      }
+     },
+     "elements": [],
+     "widgetType": "heading"
+    },
+    {
+     "id": "614ff3d7",
+     "elType": "widget",
+     "settings": {
+      "editor": "Το ιατρείο λειτουργεί αποκλειστικά κατόπιν ραντεβού, ώστε να εξασφαλίζεται ο απαραίτητος χρόνος για κάθε ασθενή και να αποφεύγεται η αναμονή.",
+      "text_color": "#E8E2D4",
+      "align": "center",
+      "_margin": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "14",
+       "left": "0",
+       "isLinked": false
+      },
+      "typography_typography": "custom",
+      "typography_font_family": "Noto Sans",
+      "typography_font_size": {
+       "unit": "px",
+       "size": 17
+      },
+      "typography_font_size_mobile": {
+       "unit": "px",
+       "size": 16
+      },
+      "typography_font_weight": "400",
+      "typography_line_height": {
+       "unit": "em",
+       "size": 1.75
+      }
+     },
+     "elements": [],
+     "widgetType": "text-editor"
+    },
+    {
+     "id": "a2bc372f",
+     "elType": "container",
+     "settings": {
+      "flex_direction": "row",
+      "flex_gap": {
+       "unit": "px",
+       "size": 8,
+       "column": "8",
+       "row": "8",
+       "isLinked": true
+      },
+      "flex_direction_mobile": "column",
+      "flex_wrap": "wrap",
+      "flex_justify_content": "center"
+     },
+     "elements": [
+      {
+       "id": "47294739",
+       "elType": "widget",
+       "settings": {
+        "text": "Κλείστε ραντεβού: 23730 25770",
+        "link": {
+         "url": "tel:+302373025770",
+         "is_external": "",
+         "nofollow": "",
+         "custom_attributes": ""
+        },
+        "align": "center",
+        "size": "md",
+        "button_text_color": "#1A3153",
+        "background_color": "#C5B598",
+        "button_background_hover_color": "#C5B598",
+        "hover_color": "#1A3153",
+        "border_radius": {
+         "unit": "px",
+         "top": "50",
+         "right": "50",
+         "bottom": "50",
+         "left": "50",
+         "isLinked": false
+        },
+        "text_padding": {
+         "unit": "px",
+         "top": "16",
+         "right": "32",
+         "bottom": "16",
+         "left": "32",
+         "isLinked": false
+        },
+        "_margin": {
+         "unit": "px",
+         "top": "0",
+         "right": "8",
+         "bottom": "8",
+         "left": "0",
+         "isLinked": false
+        },
+        "typography_typography": "custom",
+        "typography_font_family": "Noto Sans",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 16
+        },
+        "typography_font_weight": "600",
+        "selected_icon": {
+         "value": "fas fa-phone-alt",
+         "library": "fa-solid"
+        },
+        "icon_align": "left",
+        "icon_indent": {
+         "unit": "px",
+         "size": 10
+        }
+       },
+       "elements": [],
+       "widgetType": "button"
+      },
+      {
+       "id": "7412b293",
+       "elType": "widget",
+       "settings": {
+        "text": "Απευθείας με τον ιατρό: 697 293 1794",
+        "link": {
+         "url": "tel:+306972931794",
+         "is_external": "",
+         "nofollow": "",
+         "custom_attributes": ""
+        },
+        "align": "center",
+        "size": "md",
+        "button_text_color": "#FFFFFF",
+        "background_color": "rgba(255,255,255,0)",
+        "button_background_hover_color": "#FFFFFF",
+        "hover_color": "#1A3153",
+        "border_radius": {
+         "unit": "px",
+         "top": "50",
+         "right": "50",
+         "bottom": "50",
+         "left": "50",
+         "isLinked": false
+        },
+        "text_padding": {
+         "unit": "px",
+         "top": "16",
+         "right": "32",
+         "bottom": "16",
+         "left": "32",
+         "isLinked": false
+        },
+        "_margin": {
+         "unit": "px",
+         "top": "0",
+         "right": "8",
+         "bottom": "8",
+         "left": "0",
+         "isLinked": false
+        },
+        "typography_typography": "custom",
+        "typography_font_family": "Noto Sans",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 16
+        },
+        "typography_font_weight": "600",
+        "border_border": "solid",
+        "border_width": {
+         "unit": "px",
+         "top": "2",
+         "right": "2",
+         "bottom": "2",
+         "left": "2",
+         "isLinked": false
+        },
+        "border_color": "#FFFFFF"
+       },
+       "elements": [],
+       "widgetType": "button"
+      }
+     ],
+     "isInner": true
+    }
+   ],
+   "isInner": false
+  }
+ ]
+}

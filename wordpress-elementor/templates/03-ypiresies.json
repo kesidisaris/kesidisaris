@@ -1,0 +1,3501 @@
+{
+ "title": "Υπηρεσίες",
+ "type": "page",
+ "version": "0.4",
+ "page_settings": [],
+ "content": [
+  {
+   "id": "02f06b90",
+   "elType": "container",
+   "settings": {
+    "flex_direction": "column",
+    "flex_gap": {
+     "unit": "px",
+     "size": 8,
+     "column": "8",
+     "row": "8",
+     "isLinked": true
+    },
+    "content_width": "boxed",
+    "boxed_width": {
+     "unit": "px",
+     "size": 1180
+    },
+    "background_background": "classic",
+    "background_color": "#1A3153",
+    "padding": {
+     "unit": "px",
+     "top": "80",
+     "right": "20",
+     "bottom": "70",
+     "left": "20",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "50",
+     "right": "20",
+     "bottom": "45",
+     "left": "20",
+     "isLinked": false
+    }
+   },
+   "elements": [
+    {
+     "id": "8da0365b",
+     "elType": "widget",
+     "settings": {
+      "title": "Υπηρεσίες",
+      "header_size": "p",
+      "title_color": "#C5B598",
+      "align": "left",
+      "_margin": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "6",
+       "left": "0",
+       "isLinked": false
+      },
+      "typography_typography": "custom",
+      "typography_font_family": "Noto Sans",
+      "typography_font_size": {
+       "unit": "px",
+       "size": 14
+      },
+      "typography_font_weight": "700",
+      "typography_letter_spacing": {
+       "unit": "px",
+       "size": 2
+      },
+      "typography_text_transform": "uppercase"
+     },
+     "elements": [],
+     "widgetType": "heading"
+    },
+    {
+     "id": "dc5c0eed",
+     "elType": "widget",
+     "settings": {
+      "title": "Υπηρεσίες",
+      "header_size": "h1",
+      "align": "left",
+      "title_color": "#FFFFFF",
+      "_margin": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "12",
+       "left": "0",
+       "isLinked": false
+      },
+      "typography_typography": "custom",
+      "typography_font_family": "Noto Serif",
+      "typography_font_size": {
+       "unit": "px",
+       "size": 46
+      },
+      "typography_font_size_mobile": {
+       "unit": "px",
+       "size": 30
+      },
+      "typography_font_weight": "700",
+      "typography_line_height": {
+       "unit": "em",
+       "size": 1.25
+      }
+     },
+     "elements": [],
+     "widgetType": "heading"
+    },
+    {
+     "id": "f143262f",
+     "elType": "widget",
+     "settings": {
+      "editor": "Σύγχρονες διαγνωστικές και ενδοσκοπικές εξετάσεις, με έμφαση στην ασφάλεια, την άνεση και την ποιότητα.",
+      "text_color": "#E8E2D4",
+      "align": "left",
+      "_margin": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "14",
+       "left": "0",
+       "isLinked": false
+      },
+      "typography_typography": "custom",
+      "typography_font_family": "Noto Sans",
+      "typography_font_size": {
+       "unit": "px",
+       "size": 18
+      },
+      "typography_font_size_mobile": {
+       "unit": "px",
+       "size": 16
+      },
+      "typography_font_weight": "400",
+      "typography_line_height": {
+       "unit": "em",
+       "size": 1.75
+      }
+     },
+     "elements": [],
+     "widgetType": "text-editor"
+    }
+   ],
+   "isInner": false
+  },
+  {
+   "id": "b3aa7efe",
+   "elType": "container",
+   "settings": {
+    "flex_direction": "column",
+    "flex_gap": {
+     "unit": "px",
+     "size": 24,
+     "column": "24",
+     "row": "24",
+     "isLinked": true
+    },
+    "content_width": "boxed",
+    "boxed_width": {
+     "unit": "px",
+     "size": 1180
+    },
+    "background_background": "classic",
+    "background_color": "#FFFFFF",
+    "padding": {
+     "unit": "px",
+     "top": "26",
+     "right": "20",
+     "bottom": "18",
+     "left": "20",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "20",
+     "right": "12",
+     "bottom": "12",
+     "left": "12",
+     "isLinked": false
+    }
+   },
+   "elements": [
+    {
+     "id": "4458a885",
+     "elType": "container",
+     "settings": {
+      "flex_direction": "row",
+      "flex_gap": {
+       "unit": "px",
+       "size": 4,
+       "column": "4",
+       "row": "4",
+       "isLinked": true
+      },
+      "flex_direction_mobile": "column",
+      "flex_wrap": "wrap",
+      "flex_justify_content": "center"
+     },
+     "elements": [
+      {
+       "id": "5d65a441",
+       "elType": "widget",
+       "settings": {
+        "text": "Κλινική εξέταση",
+        "link": {
+         "url": "#klinikh",
+         "is_external": "",
+         "nofollow": "",
+         "custom_attributes": ""
+        },
+        "align": "left",
+        "size": "md",
+        "button_text_color": "#1A3153",
+        "background_color": "#F4F0E8",
+        "button_background_hover_color": "#C5B598",
+        "hover_color": "#1A3153",
+        "border_radius": {
+         "unit": "px",
+         "top": "50",
+         "right": "50",
+         "bottom": "50",
+         "left": "50",
+         "isLinked": false
+        },
+        "text_padding": {
+         "unit": "px",
+         "top": "16",
+         "right": "32",
+         "bottom": "16",
+         "left": "32",
+         "isLinked": false
+        },
+        "_margin": {
+         "unit": "px",
+         "top": "0",
+         "right": "8",
+         "bottom": "8",
+         "left": "0",
+         "isLinked": false
+        },
+        "typography_typography": "custom",
+        "typography_font_family": "Noto Sans",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 16
+        },
+        "typography_font_weight": "600"
+       },
+       "elements": [],
+       "widgetType": "button"
+      },
+      {
+       "id": "29a3b2e9",
+       "elType": "widget",
+       "settings": {
+        "text": "Γαστροσκόπηση",
+        "link": {
+         "url": "#gastroskopisi",
+         "is_external": "",
+         "nofollow": "",
+         "custom_attributes": ""
+        },
+        "align": "left",
+        "size": "md",
+        "button_text_color": "#1A3153",
+        "background_color": "#F4F0E8",
+        "button_background_hover_color": "#C5B598",
+        "hover_color": "#1A3153",
+        "border_radius": {
+         "unit": "px",
+         "top": "50",
+         "right": "50",
+         "bottom": "50",
+         "left": "50",
+         "isLinked": false
+        },
+        "text_padding": {
+         "unit": "px",
+         "top": "16",
+         "right": "32",
+         "bottom": "16",
+         "left": "32",
+         "isLinked": false
+        },
+        "_margin": {
+         "unit": "px",
+         "top": "0",
+         "right": "8",
+         "bottom": "8",
+         "left": "0",
+         "isLinked": false
+        },
+        "typography_typography": "custom",
+        "typography_font_family": "Noto Sans",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 16
+        },
+        "typography_font_weight": "600"
+       },
+       "elements": [],
+       "widgetType": "button"
+      },
+      {
+       "id": "5ec42e08",
+       "elType": "widget",
+       "settings": {
+        "text": "Κολονοσκόπηση",
+        "link": {
+         "url": "#kolonoskopisi",
+         "is_external": "",
+         "nofollow": "",
+         "custom_attributes": ""
+        },
+        "align": "left",
+        "size": "md",
+        "button_text_color": "#1A3153",
+        "background_color": "#F4F0E8",
+        "button_background_hover_color": "#C5B598",
+        "hover_color": "#1A3153",
+        "border_radius": {
+         "unit": "px",
+         "top": "50",
+         "right": "50",
+         "bottom": "50",
+         "left": "50",
+         "isLinked": false
+        },
+        "text_padding": {
+         "unit": "px",
+         "top": "16",
+         "right": "32",
+         "bottom": "16",
+         "left": "32",
+         "isLinked": false
+        },
+        "_margin": {
+         "unit": "px",
+         "top": "0",
+         "right": "8",
+         "bottom": "8",
+         "left": "0",
+         "isLinked": false
+        },
+        "typography_typography": "custom",
+        "typography_font_family": "Noto Sans",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 16
+        },
+        "typography_font_weight": "600"
+       },
+       "elements": [],
+       "widgetType": "button"
+      },
+      {
+       "id": "5af30553",
+       "elType": "widget",
+       "settings": {
+        "text": "Πολυπεκτομή",
+        "link": {
+         "url": "#polypektomi",
+         "is_external": "",
+         "nofollow": "",
+         "custom_attributes": ""
+        },
+        "align": "left",
+        "size": "md",
+        "button_text_color": "#1A3153",
+        "background_color": "#F4F0E8",
+        "button_background_hover_color": "#C5B598",
+        "hover_color": "#1A3153",
+        "border_radius": {
+         "unit": "px",
+         "top": "50",
+         "right": "50",
+         "bottom": "50",
+         "left": "50",
+         "isLinked": false
+        },
+        "text_padding": {
+         "unit": "px",
+         "top": "16",
+         "right": "32",
+         "bottom": "16",
+         "left": "32",
+         "isLinked": false
+        },
+        "_margin": {
+         "unit": "px",
+         "top": "0",
+         "right": "8",
+         "bottom": "8",
+         "left": "0",
+         "isLinked": false
+        },
+        "typography_typography": "custom",
+        "typography_font_family": "Noto Sans",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 16
+        },
+        "typography_font_weight": "600"
+       },
+       "elements": [],
+       "widgetType": "button"
+      },
+      {
+       "id": "35a240ae",
+       "elType": "widget",
+       "settings": {
+        "text": "Εντερικό υπερηχογράφημα",
+        "link": {
+         "url": "#entheriko-yperixografima",
+         "is_external": "",
+         "nofollow": "",
+         "custom_attributes": ""
+        },
+        "align": "left",
+        "size": "md",
+        "button_text_color": "#1A3153",
+        "background_color": "#F4F0E8",
+        "button_background_hover_color": "#C5B598",
+        "hover_color": "#1A3153",
+        "border_radius": {
+         "unit": "px",
+         "top": "50",
+         "right": "50",
+         "bottom": "50",
+         "left": "50",
+         "isLinked": false
+        },
+        "text_padding": {
+         "unit": "px",
+         "top": "16",
+         "right": "32",
+         "bottom": "16",
+         "left": "32",
+         "isLinked": false
+        },
+        "_margin": {
+         "unit": "px",
+         "top": "0",
+         "right": "8",
+         "bottom": "8",
+         "left": "0",
+         "isLinked": false
+        },
+        "typography_typography": "custom",
+        "typography_font_family": "Noto Sans",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 16
+        },
+        "typography_font_weight": "600"
+       },
+       "elements": [],
+       "widgetType": "button"
+      },
+      {
+       "id": "ab9099a4",
+       "elType": "widget",
+       "settings": {
+        "text": "Ελαστογραφία ήπατος",
+        "link": {
+         "url": "#elastografia",
+         "is_external": "",
+         "nofollow": "",
+         "custom_attributes": ""
+        },
+        "align": "left",
+        "size": "md",
+        "button_text_color": "#1A3153",
+        "background_color": "#F4F0E8",
+        "button_background_hover_color": "#C5B598",
+        "hover_color": "#1A3153",
+        "border_radius": {
+         "unit": "px",
+         "top": "50",
+         "right": "50",
+         "bottom": "50",
+         "left": "50",
+         "isLinked": false
+        },
+        "text_padding": {
+         "unit": "px",
+         "top": "16",
+         "right": "32",
+         "bottom": "16",
+         "left": "32",
+         "isLinked": false
+        },
+        "_margin": {
+         "unit": "px",
+         "top": "0",
+         "right": "8",
+         "bottom": "8",
+         "left": "0",
+         "isLinked": false
+        },
+        "typography_typography": "custom",
+        "typography_font_family": "Noto Sans",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 16
+        },
+        "typography_font_weight": "600"
+       },
+       "elements": [],
+       "widgetType": "button"
+      }
+     ],
+     "isInner": true
+    }
+   ],
+   "isInner": false
+  },
+  {
+   "id": "6123fdf7",
+   "elType": "container",
+   "settings": {
+    "flex_direction": "column",
+    "flex_gap": {
+     "unit": "px",
+     "size": 28,
+     "column": "28",
+     "row": "28",
+     "isLinked": true
+    },
+    "content_width": "boxed",
+    "boxed_width": {
+     "unit": "px",
+     "size": 1180
+    },
+    "background_background": "classic",
+    "background_color": "#FFFFFF",
+    "padding": {
+     "unit": "px",
+     "top": "90",
+     "right": "20",
+     "bottom": "90",
+     "left": "20",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "55",
+     "right": "20",
+     "bottom": "55",
+     "left": "20",
+     "isLinked": false
+    },
+    "_element_id": "klinikh"
+   },
+   "elements": [
+    {
+     "id": "7656af72",
+     "elType": "container",
+     "settings": {
+      "flex_direction": "row",
+      "flex_gap": {
+       "unit": "px",
+       "size": 40,
+       "column": "40",
+       "row": "40",
+       "isLinked": true
+      },
+      "flex_direction_mobile": "column",
+      "flex_wrap": "wrap",
+      "flex_align_items": "flex-start"
+     },
+     "elements": [
+      {
+       "id": "3eabedcb",
+       "elType": "container",
+       "settings": {
+        "flex_direction": "column",
+        "flex_gap": {
+         "unit": "px",
+         "size": 16,
+         "column": "16",
+         "row": "16",
+         "isLinked": true
+        },
+        "width": {
+         "unit": "%",
+         "size": 50
+        },
+        "width_mobile": {
+         "unit": "%",
+         "size": 100
+        },
+        "width_tablet": {
+         "unit": "%",
+         "size": 100
+        }
+       },
+       "elements": [
+        {
+         "id": "efc89849",
+         "elType": "widget",
+         "settings": {
+          "title": "Υπηρεσία",
+          "header_size": "p",
+          "title_color": "#C5B598",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "6",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 14
+          },
+          "typography_font_weight": "700",
+          "typography_letter_spacing": {
+           "unit": "px",
+           "size": 2
+          },
+          "typography_text_transform": "uppercase"
+         },
+         "elements": [],
+         "widgetType": "heading"
+        },
+        {
+         "id": "aefcfad8",
+         "elType": "widget",
+         "settings": {
+          "title": "Κλινική εξέταση – Ραντεβού",
+          "header_size": "h2",
+          "align": "left",
+          "title_color": "#1A3153",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "16",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Serif",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 38
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 28
+          },
+          "typography_font_weight": "700",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.25
+          }
+         },
+         "elements": [],
+         "widgetType": "heading"
+        },
+        {
+         "id": "a5e5a5ab",
+         "elType": "widget",
+         "settings": {
+          "style": "solid",
+          "weight": {
+           "unit": "px",
+           "size": 3
+          },
+          "color": "#C5B598",
+          "width": {
+           "unit": "px",
+           "size": 60
+          },
+          "align": "left",
+          "gap": {
+           "unit": "px",
+           "size": 8
+          }
+         },
+         "elements": [],
+         "widgetType": "divider"
+        },
+        {
+         "id": "12476f57",
+         "elType": "widget",
+         "settings": {
+          "editor": "Ξεκινώντας με τη λήψη ενός πλήρους ιατρικού ιστορικού και την κλινική εξέταση, μπορούμε να διερευνήσουμε οξείες, υποξείες και χρόνιες παθήσεις του γαστρεντερικού συστήματος και του ήπατος.",
+          "text_color": "#2B3445",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "14",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 17
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        },
+        {
+         "id": "9bf00273",
+         "elType": "widget",
+         "settings": {
+          "editor": "Η κλινική εξέταση συμπληρώνεται, όπου κρίνεται απαραίτητο, με τη χρήση υπερηχογραφικής εξέτασης στο σημείο φροντίδας (Point-of-Care Ultrasound – POCUS), παρέχοντας τη δυνατότητα άμεσης συμπληρωματικής αξιολόγησης.",
+          "text_color": "#2B3445",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "14",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 17
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        }
+       ],
+       "isInner": true
+      },
+      {
+       "id": "29d4beef",
+       "elType": "container",
+       "settings": {
+        "flex_direction": "column",
+        "flex_gap": {
+         "unit": "px",
+         "size": 16,
+         "column": "16",
+         "row": "16",
+         "isLinked": true
+        },
+        "width": {
+         "unit": "%",
+         "size": 50
+        },
+        "width_mobile": {
+         "unit": "%",
+         "size": 100
+        },
+        "width_tablet": {
+         "unit": "%",
+         "size": 100
+        }
+       },
+       "elements": [
+        {
+         "id": "a28defe3",
+         "elType": "widget",
+         "settings": {
+          "editor": "Το ιατρείο μας λειτουργεί <strong>αποκλειστικά κατόπιν ραντεβού</strong>, ώστε να εξασφαλίζεται ο απαραίτητος χρόνος για κάθε ασθενή, αλλά και να αποφεύγεται η άσκοπη αναμονή και ο συνωστισμός στον χώρο αναμονής.",
+          "text_color": "#2B3445",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "14",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 17
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        },
+        {
+         "id": "88bd6407",
+         "elType": "widget",
+         "settings": {
+          "tabs": [
+           {
+            "tab_title": "Τι να έχετε μαζί σας",
+            "tab_content": "<p>Για την καλύτερη και πληρέστερη αξιολόγηση, είναι χρήσιμο οι ασθενείς να προσκομίζουν στο ραντεβού τους πρόσφατες εξετάσεις, όπως αιματολογικές και απεικονιστικές, καθώς και τα αποτελέσματα προηγούμενων ενδοσκοπικών εξετάσεων.</p><p>Για την ολοκλήρωση της διαδικασίας, παρακαλείστε να έχετε μαζί σας τον ΑΜΚΑ σας ή, για όσους διαθέτουν, την Ευρωπαϊκή Κάρτα Ασφάλισης Ασθενείας.</p>",
+            "_id": "2bcfbe0"
+           }
+          ],
+          "selected_icon": {
+           "value": "fas fa-plus",
+           "library": "fa-solid"
+          },
+          "selected_active_icon": {
+           "value": "fas fa-minus",
+           "library": "fa-solid"
+          },
+          "title_color": "#1A3153",
+          "tab_active_color": "#C5B598",
+          "icon_color": "#1A3153",
+          "icon_active_color": "#C5B598",
+          "border_color": "#C5B598",
+          "content_color": "#2B3445",
+          "title_html_tag": "h3",
+          "title_typography_typography": "custom",
+          "title_typography_font_family": "Noto Serif",
+          "title_typography_font_size": {
+           "unit": "px",
+           "size": 18
+          },
+          "title_typography_font_weight": "700",
+          "content_typography_typography": "custom",
+          "content_typography_font_family": "Noto Sans",
+          "content_typography_font_size": {
+           "unit": "px",
+           "size": 16
+          },
+          "content_typography_font_weight": "400",
+          "content_typography_line_height": {
+           "unit": "em",
+           "size": 1.7
+          }
+         },
+         "elements": [],
+         "widgetType": "accordion"
+        },
+        {
+         "id": "baa80dd4",
+         "elType": "widget",
+         "settings": {
+          "text": "Κλείστε ραντεβού",
+          "link": {
+           "url": "tel:+302373025770",
+           "is_external": "",
+           "nofollow": "",
+           "custom_attributes": ""
+          },
+          "align": "left",
+          "size": "md",
+          "button_text_color": "#FFFFFF",
+          "background_color": "#1A3153",
+          "button_background_hover_color": "#C5B598",
+          "hover_color": "#1A3153",
+          "border_radius": {
+           "unit": "px",
+           "top": "50",
+           "right": "50",
+           "bottom": "50",
+           "left": "50",
+           "isLinked": false
+          },
+          "text_padding": {
+           "unit": "px",
+           "top": "16",
+           "right": "32",
+           "bottom": "16",
+           "left": "32",
+           "isLinked": false
+          },
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "8",
+           "bottom": "8",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "600",
+          "selected_icon": {
+           "value": "fas fa-phone-alt",
+           "library": "fa-solid"
+          },
+          "icon_align": "left",
+          "icon_indent": {
+           "unit": "px",
+           "size": 10
+          }
+         },
+         "elements": [],
+         "widgetType": "button"
+        }
+       ],
+       "isInner": true
+      }
+     ],
+     "isInner": true
+    }
+   ],
+   "isInner": false
+  },
+  {
+   "id": "ce177b4e",
+   "elType": "container",
+   "settings": {
+    "flex_direction": "column",
+    "flex_gap": {
+     "unit": "px",
+     "size": 28,
+     "column": "28",
+     "row": "28",
+     "isLinked": true
+    },
+    "content_width": "boxed",
+    "boxed_width": {
+     "unit": "px",
+     "size": 1180
+    },
+    "background_background": "classic",
+    "background_color": "#F4F0E8",
+    "padding": {
+     "unit": "px",
+     "top": "90",
+     "right": "20",
+     "bottom": "90",
+     "left": "20",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "55",
+     "right": "20",
+     "bottom": "55",
+     "left": "20",
+     "isLinked": false
+    },
+    "_element_id": "gastroskopisi"
+   },
+   "elements": [
+    {
+     "id": "0837b8a3",
+     "elType": "container",
+     "settings": {
+      "flex_direction": "row",
+      "flex_gap": {
+       "unit": "px",
+       "size": 40,
+       "column": "40",
+       "row": "40",
+       "isLinked": true
+      },
+      "flex_direction_mobile": "column",
+      "flex_wrap": "wrap",
+      "flex_align_items": "flex-start"
+     },
+     "elements": [
+      {
+       "id": "3aa2e4f9",
+       "elType": "container",
+       "settings": {
+        "flex_direction": "column",
+        "flex_gap": {
+         "unit": "px",
+         "size": 16,
+         "column": "16",
+         "row": "16",
+         "isLinked": true
+        },
+        "width": {
+         "unit": "%",
+         "size": 50
+        },
+        "width_mobile": {
+         "unit": "%",
+         "size": 100
+        },
+        "width_tablet": {
+         "unit": "%",
+         "size": 100
+        }
+       },
+       "elements": [
+        {
+         "id": "b02b61c4",
+         "elType": "widget",
+         "settings": {
+          "title": "Υπηρεσία",
+          "header_size": "p",
+          "title_color": "#C5B598",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "6",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 14
+          },
+          "typography_font_weight": "700",
+          "typography_letter_spacing": {
+           "unit": "px",
+           "size": 2
+          },
+          "typography_text_transform": "uppercase"
+         },
+         "elements": [],
+         "widgetType": "heading"
+        },
+        {
+         "id": "8e944239",
+         "elType": "widget",
+         "settings": {
+          "title": "Γαστροσκόπηση",
+          "header_size": "h2",
+          "align": "left",
+          "title_color": "#1A3153",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "16",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Serif",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 38
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 28
+          },
+          "typography_font_weight": "700",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.25
+          }
+         },
+         "elements": [],
+         "widgetType": "heading"
+        },
+        {
+         "id": "3838b326",
+         "elType": "widget",
+         "settings": {
+          "style": "solid",
+          "weight": {
+           "unit": "px",
+           "size": 3
+          },
+          "color": "#C5B598",
+          "width": {
+           "unit": "px",
+           "size": 60
+          },
+          "align": "left",
+          "gap": {
+           "unit": "px",
+           "size": 8
+          }
+         },
+         "elements": [],
+         "widgetType": "divider"
+        },
+        {
+         "id": "af42e12f",
+         "elType": "widget",
+         "settings": {
+          "editor": "Στο κέντρο μας πραγματοποιείται ενδοσκόπηση ανώτερου πεπτικού με σύγχρονες μεθόδους και έμφαση στην ασφάλεια, την άνεση και την ποιότητα της εξέτασης.",
+          "text_color": "#2B3445",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "14",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 17
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        },
+        {
+         "id": "5304317f",
+         "elType": "widget",
+         "settings": {
+          "editor": "<strong>Η εξέταση πραγματοποιείται με τις ακόλουθες προδιαγραφές:</strong>",
+          "text_color": "#2B3445",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "8",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 17
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        },
+        {
+         "id": "a3d70628",
+         "elType": "widget",
+         "settings": {
+          "icon_list": [
+           {
+            "text": "Σύγχρονη ενδοφλέβια μέθη, με στόχο μια άνετη και ανώδυνη εμπειρία για τον ασθενή.",
+            "selected_icon": {
+             "value": "fas fa-check-circle",
+             "library": "fa-solid"
+            },
+            "_id": "451b4cf"
+           },
+           {
+            "text": "Συνεχής παρακολούθηση των ζωτικών σημείων καθ’ όλη τη διάρκεια της εξέτασης, με monitor, οξυμετρία και καπνογραφία.",
+            "selected_icon": {
+             "value": "fas fa-check-circle",
+             "library": "fa-solid"
+            },
+            "_id": "fd5166e"
+           },
+           {
+            "text": "Ενδοσκόπια τελευταίας γενιάς, για υψηλής ποιότητας απεικόνιση και λεπτομερή έλεγχο του ανώτερου πεπτικού.",
+            "selected_icon": {
+             "value": "fas fa-check-circle",
+             "library": "fa-solid"
+            },
+            "_id": "ece66fa"
+           }
+          ],
+          "space_between": {
+           "unit": "px",
+           "size": 10
+          },
+          "icon_color": "#1A3153",
+          "text_color": "#2B3445",
+          "icon_size": {
+           "unit": "px",
+           "size": 16
+          },
+          "icon_typography_typography": "custom",
+          "icon_typography_font_family": "Noto Sans",
+          "icon_typography_font_size": {
+           "unit": "px",
+           "size": 17
+          },
+          "icon_typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "icon_typography_font_weight": "400"
+         },
+         "elements": [],
+         "widgetType": "icon-list"
+        }
+       ],
+       "isInner": true
+      },
+      {
+       "id": "d261a7ab",
+       "elType": "container",
+       "settings": {
+        "flex_direction": "column",
+        "flex_gap": {
+         "unit": "px",
+         "size": 16,
+         "column": "16",
+         "row": "16",
+         "isLinked": true
+        },
+        "width": {
+         "unit": "%",
+         "size": 50
+        },
+        "width_mobile": {
+         "unit": "%",
+         "size": 100
+        },
+        "width_tablet": {
+         "unit": "%",
+         "size": 100
+        }
+       },
+       "elements": [
+        {
+         "id": "d7c524a5",
+         "elType": "widget",
+         "settings": {
+          "editor": "Με τη γαστροσκόπηση είναι δυνατός ο λεπτομερής έλεγχος του οισοφάγου, του στομάχου και του δωδεκαδακτύλου. Κατά τη διάρκεια της εξέτασης μπορεί να πραγματοποιηθεί λήψη δειγμάτων για την ανίχνευση του <em>Helicobacter pylori</em>, καθώς και λήψη βιοψιών από τον βλεννογόνο, όταν αυτό κρίνεται απαραίτητο.",
+          "text_color": "#2B3445",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "14",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 17
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        },
+        {
+         "id": "c4b032cc",
+         "elType": "widget",
+         "settings": {
+          "editor": "Μετά την ολοκλήρωση της εξέτασης και αφού ο ασθενής ανανήψει από τη μέθη, ενημερώνεται αναλυτικά από τον ιατρό για τα ευρήματα. Παράλληλα, έχει τη δυνατότητα να δει τις εικόνες που καταγράφηκαν κατά τη διάρκεια της εξέτασης.",
+          "text_color": "#2B3445",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "14",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 17
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        },
+        {
+         "id": "0e51f30d",
+         "elType": "widget",
+         "settings": {
+          "tabs": [
+           {
+            "tab_title": "Προετοιμασία για τη γαστροσκόπηση",
+            "tab_content": "<p>Για τη γαστροσκόπηση απαιτείται νηστεία από στερεά τροφή από το πρωί της ημέρας της εξέτασης. Η κατανάλωση υγρών θα πρέπει να έχει διακοπεί τουλάχιστον δύο ώρες πριν από την εξέταση, σύμφωνα με τις οδηγίες που θα σας δοθούν κατά τον προγραμματισμό του ραντεβού.</p>",
+            "_id": "c6a7ee3"
+           }
+          ],
+          "selected_icon": {
+           "value": "fas fa-plus",
+           "library": "fa-solid"
+          },
+          "selected_active_icon": {
+           "value": "fas fa-minus",
+           "library": "fa-solid"
+          },
+          "title_color": "#1A3153",
+          "tab_active_color": "#C5B598",
+          "icon_color": "#1A3153",
+          "icon_active_color": "#C5B598",
+          "border_color": "#C5B598",
+          "content_color": "#2B3445",
+          "title_html_tag": "h3",
+          "title_typography_typography": "custom",
+          "title_typography_font_family": "Noto Serif",
+          "title_typography_font_size": {
+           "unit": "px",
+           "size": 18
+          },
+          "title_typography_font_weight": "700",
+          "content_typography_typography": "custom",
+          "content_typography_font_family": "Noto Sans",
+          "content_typography_font_size": {
+           "unit": "px",
+           "size": 16
+          },
+          "content_typography_font_weight": "400",
+          "content_typography_line_height": {
+           "unit": "em",
+           "size": 1.7
+          }
+         },
+         "elements": [],
+         "widgetType": "accordion"
+        }
+       ],
+       "isInner": true
+      }
+     ],
+     "isInner": true
+    }
+   ],
+   "isInner": false
+  },
+  {
+   "id": "a491f0b2",
+   "elType": "container",
+   "settings": {
+    "flex_direction": "column",
+    "flex_gap": {
+     "unit": "px",
+     "size": 28,
+     "column": "28",
+     "row": "28",
+     "isLinked": true
+    },
+    "content_width": "boxed",
+    "boxed_width": {
+     "unit": "px",
+     "size": 1180
+    },
+    "background_background": "classic",
+    "background_color": "#FFFFFF",
+    "padding": {
+     "unit": "px",
+     "top": "90",
+     "right": "20",
+     "bottom": "90",
+     "left": "20",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "55",
+     "right": "20",
+     "bottom": "55",
+     "left": "20",
+     "isLinked": false
+    },
+    "_element_id": "kolonoskopisi"
+   },
+   "elements": [
+    {
+     "id": "ea1fca65",
+     "elType": "container",
+     "settings": {
+      "flex_direction": "row",
+      "flex_gap": {
+       "unit": "px",
+       "size": 40,
+       "column": "40",
+       "row": "40",
+       "isLinked": true
+      },
+      "flex_direction_mobile": "column",
+      "flex_wrap": "wrap",
+      "flex_align_items": "flex-start"
+     },
+     "elements": [
+      {
+       "id": "654821d0",
+       "elType": "container",
+       "settings": {
+        "flex_direction": "column",
+        "flex_gap": {
+         "unit": "px",
+         "size": 16,
+         "column": "16",
+         "row": "16",
+         "isLinked": true
+        },
+        "width": {
+         "unit": "%",
+         "size": 50
+        },
+        "width_mobile": {
+         "unit": "%",
+         "size": 100
+        },
+        "width_tablet": {
+         "unit": "%",
+         "size": 100
+        }
+       },
+       "elements": [
+        {
+         "id": "3602f8ac",
+         "elType": "widget",
+         "settings": {
+          "title": "Υπηρεσία",
+          "header_size": "p",
+          "title_color": "#C5B598",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "6",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 14
+          },
+          "typography_font_weight": "700",
+          "typography_letter_spacing": {
+           "unit": "px",
+           "size": 2
+          },
+          "typography_text_transform": "uppercase"
+         },
+         "elements": [],
+         "widgetType": "heading"
+        },
+        {
+         "id": "e9c349e0",
+         "elType": "widget",
+         "settings": {
+          "title": "Κολονοσκόπηση",
+          "header_size": "h2",
+          "align": "left",
+          "title_color": "#1A3153",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "16",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Serif",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 38
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 28
+          },
+          "typography_font_weight": "700",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.25
+          }
+         },
+         "elements": [],
+         "widgetType": "heading"
+        },
+        {
+         "id": "f16287e4",
+         "elType": "widget",
+         "settings": {
+          "style": "solid",
+          "weight": {
+           "unit": "px",
+           "size": 3
+          },
+          "color": "#C5B598",
+          "width": {
+           "unit": "px",
+           "size": 60
+          },
+          "align": "left",
+          "gap": {
+           "unit": "px",
+           "size": 8
+          }
+         },
+         "elements": [],
+         "widgetType": "divider"
+        },
+        {
+         "id": "9132b63e",
+         "elType": "widget",
+         "settings": {
+          "editor": "Στο κέντρο μας πραγματοποιείται κολονοσκόπηση με σύγχρονες μεθόδους και έμφαση στην ασφάλεια, την άνεση και την ποιότητα της εξέτασης.",
+          "text_color": "#2B3445",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "14",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 17
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        },
+        {
+         "id": "e059a0ee",
+         "elType": "widget",
+         "settings": {
+          "editor": "<strong>Η εξέταση πραγματοποιείται με τις ακόλουθες προδιαγραφές:</strong>",
+          "text_color": "#2B3445",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "8",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 17
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        },
+        {
+         "id": "10f1bc81",
+         "elType": "widget",
+         "settings": {
+          "icon_list": [
+           {
+            "text": "Σύγχρονη ενδοφλέβια μέθη, με στόχο μια άνετη και όσο το δυνατόν ανώδυνη εμπειρία για τον ασθενή.",
+            "selected_icon": {
+             "value": "fas fa-check-circle",
+             "library": "fa-solid"
+            },
+            "_id": "50c187f"
+           },
+           {
+            "text": "Συνεχής παρακολούθηση των ζωτικών σημείων καθ’ όλη τη διάρκεια της εξέτασης, με monitor, οξυμετρία και καπνογραφία.",
+            "selected_icon": {
+             "value": "fas fa-check-circle",
+             "library": "fa-solid"
+            },
+            "_id": "66b2bc5"
+           },
+           {
+            "text": "Ενδοσκόπια τελευταίας γενιάς, για υψηλής ποιότητας απεικόνιση και λεπτομερή έλεγχο του παχέος εντέρου.",
+            "selected_icon": {
+             "value": "fas fa-check-circle",
+             "library": "fa-solid"
+            },
+            "_id": "448aaa9"
+           }
+          ],
+          "space_between": {
+           "unit": "px",
+           "size": 10
+          },
+          "icon_color": "#1A3153",
+          "text_color": "#2B3445",
+          "icon_size": {
+           "unit": "px",
+           "size": 16
+          },
+          "icon_typography_typography": "custom",
+          "icon_typography_font_family": "Noto Sans",
+          "icon_typography_font_size": {
+           "unit": "px",
+           "size": 17
+          },
+          "icon_typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "icon_typography_font_weight": "400"
+         },
+         "elements": [],
+         "widgetType": "icon-list"
+        }
+       ],
+       "isInner": true
+      },
+      {
+       "id": "e27a984d",
+       "elType": "container",
+       "settings": {
+        "flex_direction": "column",
+        "flex_gap": {
+         "unit": "px",
+         "size": 16,
+         "column": "16",
+         "row": "16",
+         "isLinked": true
+        },
+        "width": {
+         "unit": "%",
+         "size": 50
+        },
+        "width_mobile": {
+         "unit": "%",
+         "size": 100
+        },
+        "width_tablet": {
+         "unit": "%",
+         "size": 100
+        }
+       },
+       "elements": [
+        {
+         "id": "b7c93acf",
+         "elType": "widget",
+         "settings": {
+          "editor": "Με την κολονοσκόπηση είναι δυνατός ο λεπτομερής έλεγχος ολόκληρου του παχέος εντέρου και του τελικού τμήματος του λεπτού εντέρου με άμεση αξιολόγηση του βλεννογόνου. Κατά τη διάρκεια της εξέτασης μπορούν να ληφθούν βιοψίες από περιοχές που παρουσιάζουν παθολογικά ευρήματα, καθώς και να πραγματοποιηθεί αφαίρεση πολυπόδων, όταν αυτό κρίνεται απαραίτητο.",
+          "text_color": "#2B3445",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "14",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 17
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        },
+        {
+         "id": "508ebad7",
+         "elType": "widget",
+         "settings": {
+          "editor": "Η κολονοσκόπηση αποτελεί σημαντική εξέταση τόσο για τη διερεύνηση συμπτωμάτων και την παρακολούθηση γνωστών παθήσεων του εντέρου, όσο και για τον προληπτικό έλεγχο και την έγκαιρη ανίχνευση προκαρκινικών αλλοιώσεων και καρκίνου του παχέος εντέρου.",
+          "text_color": "#2B3445",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "14",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 17
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        },
+        {
+         "id": "366eb16f",
+         "elType": "widget",
+         "settings": {
+          "editor": "Μετά την ολοκλήρωση της εξέτασης και αφού ο ασθενής ανανήψει από τη μέθη, ενημερώνεται αναλυτικά από τον ιατρό για τα ευρήματα. Παράλληλα, έχει τη δυνατότητα να δει τις εικόνες που καταγράφηκαν κατά τη διάρκεια της εξέτασης και να ενημερωθεί για τυχόν βιοψίες ή άλλες ενδοσκοπικές πράξεις που πραγματοποιήθηκαν.",
+          "text_color": "#2B3445",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "14",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 17
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        },
+        {
+         "id": "7fcd9eb1",
+         "elType": "widget",
+         "settings": {
+          "tabs": [
+           {
+            "tab_title": "Προετοιμασία για την κολονοσκόπηση",
+            "tab_content": "<p>Η σωστή προετοιμασία του εντέρου αποτελεί απαραίτητη προϋπόθεση για μια ασφαλή και αξιόπιστη κολονοσκόπηση. Η προετοιμασία περιλαμβάνει ειδική διατροφή και τη λήψη καθαρτικού σκευάσματος, σύμφωνα με εξατομικευμένες οδηγίες που θα σας δοθούν πριν από την εξέταση.</p><p>Η ακριβής τήρηση των οδηγιών προετοιμασίας είναι ιδιαίτερα σημαντική, καθώς ένα καλά καθαρισμένο έντερο επιτρέπει την καλύτερη δυνατή απεικόνιση του βλεννογόνου και μειώνει την πιθανότητα να μην εντοπιστούν μικρές αλλοιώσεις ή πολύποδες.</p><p>Την ημέρα της εξέτασης θα πρέπει να τηρηθούν οι οδηγίες σχετικά με τη νηστεία και την κατανάλωση υγρών, καθώς και τυχόν ειδικές οδηγίες που αφορούν φαρμακευτική αγωγή, ιδιαίτερα σε ασθενείς που λαμβάνουν αντιπηκτικά ή αντιδιαβητική αγωγή.</p>",
+            "_id": "a7cad41"
+           }
+          ],
+          "selected_icon": {
+           "value": "fas fa-plus",
+           "library": "fa-solid"
+          },
+          "selected_active_icon": {
+           "value": "fas fa-minus",
+           "library": "fa-solid"
+          },
+          "title_color": "#1A3153",
+          "tab_active_color": "#C5B598",
+          "icon_color": "#1A3153",
+          "icon_active_color": "#C5B598",
+          "border_color": "#C5B598",
+          "content_color": "#2B3445",
+          "title_html_tag": "h3",
+          "title_typography_typography": "custom",
+          "title_typography_font_family": "Noto Serif",
+          "title_typography_font_size": {
+           "unit": "px",
+           "size": 18
+          },
+          "title_typography_font_weight": "700",
+          "content_typography_typography": "custom",
+          "content_typography_font_family": "Noto Sans",
+          "content_typography_font_size": {
+           "unit": "px",
+           "size": 16
+          },
+          "content_typography_font_weight": "400",
+          "content_typography_line_height": {
+           "unit": "em",
+           "size": 1.7
+          }
+         },
+         "elements": [],
+         "widgetType": "accordion"
+        }
+       ],
+       "isInner": true
+      }
+     ],
+     "isInner": true
+    }
+   ],
+   "isInner": false
+  },
+  {
+   "id": "e5d7b875",
+   "elType": "container",
+   "settings": {
+    "flex_direction": "column",
+    "flex_gap": {
+     "unit": "px",
+     "size": 28,
+     "column": "28",
+     "row": "28",
+     "isLinked": true
+    },
+    "content_width": "boxed",
+    "boxed_width": {
+     "unit": "px",
+     "size": 1180
+    },
+    "background_background": "classic",
+    "background_color": "#F4F0E8",
+    "padding": {
+     "unit": "px",
+     "top": "90",
+     "right": "20",
+     "bottom": "90",
+     "left": "20",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "55",
+     "right": "20",
+     "bottom": "55",
+     "left": "20",
+     "isLinked": false
+    },
+    "_element_id": "polypektomi"
+   },
+   "elements": [
+    {
+     "id": "6dadd6c7",
+     "elType": "container",
+     "settings": {
+      "flex_direction": "row",
+      "flex_gap": {
+       "unit": "px",
+       "size": 40,
+       "column": "40",
+       "row": "40",
+       "isLinked": true
+      },
+      "flex_direction_mobile": "column",
+      "flex_wrap": "wrap",
+      "flex_align_items": "flex-start"
+     },
+     "elements": [
+      {
+       "id": "bf3c4c06",
+       "elType": "container",
+       "settings": {
+        "flex_direction": "column",
+        "flex_gap": {
+         "unit": "px",
+         "size": 16,
+         "column": "16",
+         "row": "16",
+         "isLinked": true
+        },
+        "width": {
+         "unit": "%",
+         "size": 50
+        },
+        "width_mobile": {
+         "unit": "%",
+         "size": 100
+        },
+        "width_tablet": {
+         "unit": "%",
+         "size": 100
+        }
+       },
+       "elements": [
+        {
+         "id": "757750a9",
+         "elType": "widget",
+         "settings": {
+          "title": "Υπηρεσία",
+          "header_size": "p",
+          "title_color": "#C5B598",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "6",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 14
+          },
+          "typography_font_weight": "700",
+          "typography_letter_spacing": {
+           "unit": "px",
+           "size": 2
+          },
+          "typography_text_transform": "uppercase"
+         },
+         "elements": [],
+         "widgetType": "heading"
+        },
+        {
+         "id": "24933b83",
+         "elType": "widget",
+         "settings": {
+          "title": "Πολυπεκτομή",
+          "header_size": "h2",
+          "align": "left",
+          "title_color": "#1A3153",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "16",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Serif",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 38
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 28
+          },
+          "typography_font_weight": "700",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.25
+          }
+         },
+         "elements": [],
+         "widgetType": "heading"
+        },
+        {
+         "id": "43cf2fde",
+         "elType": "widget",
+         "settings": {
+          "style": "solid",
+          "weight": {
+           "unit": "px",
+           "size": 3
+          },
+          "color": "#C5B598",
+          "width": {
+           "unit": "px",
+           "size": 60
+          },
+          "align": "left",
+          "gap": {
+           "unit": "px",
+           "size": 8
+          }
+         },
+         "elements": [],
+         "widgetType": "divider"
+        },
+        {
+         "id": "23bed01d",
+         "elType": "widget",
+         "settings": {
+          "editor": "Κατά τη διάρκεια της κολονοσκόπησης μπορεί να εντοπιστούν πολύποδες στο παχύ έντερο. Οι περισσότεροι πολύποδες είναι καλοήθεις, ορισμένοι όμως μπορεί, με την πάροδο του χρόνου, να εξελιχθούν σε προκαρκινικές αλλοιώσεις και, σπανιότερα, σε καρκίνο του παχέος εντέρου.",
+          "text_color": "#2B3445",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "14",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 17
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        },
+        {
+         "id": "3f22faf8",
+         "elType": "widget",
+         "settings": {
+          "editor": "Στο κέντρο μας, η πολυπεκτομή είναι δυνατή για τους περισσότερους πολύποδες, είτε κατά τη διάρκεια της αρχικής κολονοσκόπησης είτε σε δεύτερο χρόνο, ανάλογα με τα χαρακτηριστικά του πολύποδα και με γνώμονα την ευκολία και, κυρίως, την ασφάλεια του ασθενούς.",
+          "text_color": "#2B3445",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "14",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 17
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        }
+       ],
+       "isInner": true
+      },
+      {
+       "id": "95a76d79",
+       "elType": "container",
+       "settings": {
+        "flex_direction": "column",
+        "flex_gap": {
+         "unit": "px",
+         "size": 16,
+         "column": "16",
+         "row": "16",
+         "isLinked": true
+        },
+        "width": {
+         "unit": "%",
+         "size": 50
+        },
+        "width_mobile": {
+         "unit": "%",
+         "size": 100
+        },
+        "width_tablet": {
+         "unit": "%",
+         "size": 100
+        }
+       },
+       "elements": [
+        {
+         "id": "beb79919",
+         "elType": "widget",
+         "settings": {
+          "editor": "Η πολυπεκτομή είναι η ενδοσκοπική αφαίρεση των πολυπόδων κατά τη διάρκεια της κολονοσκόπησης. Ανάλογα με το μέγεθος, τη μορφολογία και τη θέση του πολύποδα, επιλέγεται η κατάλληλη ενδοσκοπική τεχνική για την ασφαλή και πλήρη αφαίρεσή του.",
+          "text_color": "#2B3445",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "14",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 17
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        },
+        {
+         "id": "8fb5d27b",
+         "elType": "widget",
+         "settings": {
+          "editor": "Το υλικό που αφαιρείται αποστέλλεται για ιστολογική εξέταση, η οποία επιτρέπει τον ακριβή προσδιορισμό του τύπου και των χαρακτηριστικών του πολύποδα και συμβάλλει στον καθορισμό της περαιτέρω παρακολούθησης.",
+          "text_color": "#2B3445",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "14",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 17
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        },
+        {
+         "id": "89fa6a68",
+         "elType": "widget",
+         "settings": {
+          "editor": "Η πολυπεκτομή αποτελεί σημαντικό μέρος της πρόληψης του καρκίνου του παχέος εντέρου, καθώς η έγκαιρη ανίχνευση και αφαίρεση προκαρκινικών πολυπόδων μπορεί να αποτρέψει την εξέλιξή τους σε κακοήθεια.",
+          "text_color": "#2B3445",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "14",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 17
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        },
+        {
+         "id": "434308bc",
+         "elType": "widget",
+         "settings": {
+          "editor": "Μετά την ολοκλήρωση της εξέτασης, ο ασθενής ενημερώνεται αναλυτικά από τον ιατρό για τα ευρήματα, τους πολύποδες που εντοπίστηκαν και αφαιρέθηκαν, καθώς και για την ανάγκη περαιτέρω παρακολούθησης, ανάλογα με τα αποτελέσματα της ιστολογικής εξέτασης.",
+          "text_color": "#2B3445",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "14",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 17
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        }
+       ],
+       "isInner": true
+      }
+     ],
+     "isInner": true
+    }
+   ],
+   "isInner": false
+  },
+  {
+   "id": "28f49481",
+   "elType": "container",
+   "settings": {
+    "flex_direction": "column",
+    "flex_gap": {
+     "unit": "px",
+     "size": 28,
+     "column": "28",
+     "row": "28",
+     "isLinked": true
+    },
+    "content_width": "boxed",
+    "boxed_width": {
+     "unit": "px",
+     "size": 1180
+    },
+    "background_background": "classic",
+    "background_color": "#FFFFFF",
+    "padding": {
+     "unit": "px",
+     "top": "90",
+     "right": "20",
+     "bottom": "90",
+     "left": "20",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "55",
+     "right": "20",
+     "bottom": "55",
+     "left": "20",
+     "isLinked": false
+    },
+    "_element_id": "entheriko-yperixografima"
+   },
+   "elements": [
+    {
+     "id": "a0a04dc4",
+     "elType": "container",
+     "settings": {
+      "flex_direction": "row",
+      "flex_gap": {
+       "unit": "px",
+       "size": 40,
+       "column": "40",
+       "row": "40",
+       "isLinked": true
+      },
+      "flex_direction_mobile": "column",
+      "flex_wrap": "wrap",
+      "flex_align_items": "flex-start"
+     },
+     "elements": [
+      {
+       "id": "1c11f735",
+       "elType": "container",
+       "settings": {
+        "flex_direction": "column",
+        "flex_gap": {
+         "unit": "px",
+         "size": 16,
+         "column": "16",
+         "row": "16",
+         "isLinked": true
+        },
+        "width": {
+         "unit": "%",
+         "size": 50
+        },
+        "width_mobile": {
+         "unit": "%",
+         "size": 100
+        },
+        "width_tablet": {
+         "unit": "%",
+         "size": 100
+        }
+       },
+       "elements": [
+        {
+         "id": "956269f0",
+         "elType": "widget",
+         "settings": {
+          "title": "Υπηρεσία",
+          "header_size": "p",
+          "title_color": "#C5B598",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "6",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 14
+          },
+          "typography_font_weight": "700",
+          "typography_letter_spacing": {
+           "unit": "px",
+           "size": 2
+          },
+          "typography_text_transform": "uppercase"
+         },
+         "elements": [],
+         "widgetType": "heading"
+        },
+        {
+         "id": "663f1c97",
+         "elType": "widget",
+         "settings": {
+          "title": "Εντερικό υπερηχογράφημα",
+          "header_size": "h2",
+          "align": "left",
+          "title_color": "#1A3153",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "16",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Serif",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 38
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 28
+          },
+          "typography_font_weight": "700",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.25
+          }
+         },
+         "elements": [],
+         "widgetType": "heading"
+        },
+        {
+         "id": "5cabcc97",
+         "elType": "widget",
+         "settings": {
+          "style": "solid",
+          "weight": {
+           "unit": "px",
+           "size": 3
+          },
+          "color": "#C5B598",
+          "width": {
+           "unit": "px",
+           "size": 60
+          },
+          "align": "left",
+          "gap": {
+           "unit": "px",
+           "size": 8
+          }
+         },
+         "elements": [],
+         "widgetType": "divider"
+        },
+        {
+         "id": "382567b8",
+         "elType": "widget",
+         "settings": {
+          "editor": "Το εντερικό υπερηχογράφημα (Intestinal Ultrasound – IUS) αποτελεί μια σύγχρονη, μη επεμβατική και χωρίς ακτινοβολία μέθοδο για την άμεση αξιολόγηση του εντέρου.",
+          "text_color": "#2B3445",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "14",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 17
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        },
+        {
+         "id": "ff50bde4",
+         "elType": "widget",
+         "settings": {
+          "editor": "Με τη χρήση ειδικού υπερηχογραφικού εξοπλισμού είναι δυνατή η λεπτομερής απεικόνιση του εντερικού τοιχώματος, καθώς και η αξιολόγηση της παρουσίας και της έκτασης φλεγμονής. Ιδιαίτερη χρησιμότητα έχει στη διάγνωση και παρακολούθηση των ιδιοπαθών φλεγμονωδών νόσων του εντέρου, όπως η νόσος Crohn και η ελκώδης κολίτιδα.",
+          "text_color": "#2B3445",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "14",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 17
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        },
+        {
+         "id": "ff5e9ff0",
+         "elType": "widget",
+         "settings": {
+          "editor": "Ένα από τα σημαντικότερα πλεονεκτήματα της μεθόδου είναι ότι πραγματοποιείται άμεσα στο ιατρείο, χωρίς ακτινοβολία και χωρίς την ανάγκη ειδικής προετοιμασίας στις περισσότερες περιπτώσεις. Μπορεί, επομένως, να επαναλαμβάνεται όταν κρίνεται απαραίτητο, επιτρέποντας τη στενή παρακολούθηση της πορείας της νόσου και της ανταπόκρισης στη θεραπεία.",
+          "text_color": "#2B3445",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "14",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 17
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        },
+        {
+         "id": "2369b584",
+         "elType": "widget",
+         "settings": {
+          "editor": "Το εντερικό υπερηχογράφημα μπορεί να χρησιμοποιηθεί συμπληρωματικά προς την κλινική εξέταση, τις εργαστηριακές εξετάσεις και την ενδοσκόπηση, προσφέροντας άμεση και αντικειμενική αξιολόγηση της κατάστασης του εντέρου.",
+          "text_color": "#2B3445",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "14",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 17
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        }
+       ],
+       "isInner": true
+      },
+      {
+       "id": "27209bdf",
+       "elType": "container",
+       "settings": {
+        "flex_direction": "column",
+        "flex_gap": {
+         "unit": "px",
+         "size": 16,
+         "column": "16",
+         "row": "16",
+         "isLinked": true
+        },
+        "width": {
+         "unit": "%",
+         "size": 50
+        },
+        "width_mobile": {
+         "unit": "%",
+         "size": 100
+        },
+        "width_tablet": {
+         "unit": "%",
+         "size": 100
+        }
+       },
+       "elements": [
+        {
+         "id": "dc713d96",
+         "elType": "container",
+         "settings": {
+          "flex_direction": "column",
+          "flex_gap": {
+           "unit": "px",
+           "size": 10,
+           "column": "10",
+           "row": "10",
+           "isLinked": true
+          },
+          "background_background": "classic",
+          "background_color": "#F4F0E8",
+          "padding": {
+           "unit": "px",
+           "top": "32",
+           "right": "30",
+           "bottom": "28",
+           "left": "30",
+           "isLinked": false
+          },
+          "border_radius": {
+           "unit": "px",
+           "top": "18",
+           "right": "18",
+           "bottom": "18",
+           "left": "18",
+           "isLinked": false
+          }
+         },
+         "elements": [
+          {
+           "id": "827050a8",
+           "elType": "widget",
+           "settings": {
+            "title": "Εξειδίκευση στο εντερικό υπερηχογράφημα – IBUS",
+            "header_size": "h3",
+            "align": "left",
+            "title_color": "#1A3153",
+            "_margin": {
+             "unit": "px",
+             "top": "0",
+             "right": "0",
+             "bottom": "16",
+             "left": "0",
+             "isLinked": false
+            },
+            "typography_typography": "custom",
+            "typography_font_family": "Noto Serif",
+            "typography_font_size": {
+             "unit": "px",
+             "size": 22
+            },
+            "typography_font_size_mobile": {
+             "unit": "px",
+             "size": 20
+            },
+            "typography_font_weight": "700",
+            "typography_line_height": {
+             "unit": "em",
+             "size": 1.25
+            }
+           },
+           "elements": [],
+           "widgetType": "heading"
+          },
+          {
+           "id": "7e570ddf",
+           "elType": "widget",
+           "settings": {
+            "editor": "Ο ιατρός έχει ολοκληρώσει το πλήρες εκπαιδευτικό πρόγραμμα του International Bowel Ultrasound Group (IBUS), ενός διεθνούς επιστημονικού οργανισμού που δραστηριοποιείται στην εκπαίδευση, την έρευνα και την κλινική εφαρμογή του εντερικού υπερηχογραφήματος.",
+            "text_color": "#2B3445",
+            "align": "left",
+            "_margin": {
+             "unit": "px",
+             "top": "0",
+             "right": "0",
+             "bottom": "14",
+             "left": "0",
+             "isLinked": false
+            },
+            "typography_typography": "custom",
+            "typography_font_family": "Noto Sans",
+            "typography_font_size": {
+             "unit": "px",
+             "size": 17
+            },
+            "typography_font_size_mobile": {
+             "unit": "px",
+             "size": 16
+            },
+            "typography_font_weight": "400",
+            "typography_line_height": {
+             "unit": "em",
+             "size": 1.75
+            }
+           },
+           "elements": [],
+           "widgetType": "text-editor"
+          },
+          {
+           "id": "1745d6d8",
+           "elType": "widget",
+           "settings": {
+            "editor": "Η εκπαίδευση περιλαμβάνει θεωρητική και πρακτική κατάρτιση, εκτεταμένη hands-on εκπαίδευση σε εξειδικευμένο κέντρο και προχωρημένη εκπαίδευση στις σύγχρονες εφαρμογές του εντερικού υπερηχογραφήματος, με έμφαση στη διάγνωση και παρακολούθηση των φλεγμονωδών νόσων του εντέρου.",
+            "text_color": "#2B3445",
+            "align": "left",
+            "_margin": {
+             "unit": "px",
+             "top": "0",
+             "right": "0",
+             "bottom": "14",
+             "left": "0",
+             "isLinked": false
+            },
+            "typography_typography": "custom",
+            "typography_font_family": "Noto Sans",
+            "typography_font_size": {
+             "unit": "px",
+             "size": 17
+            },
+            "typography_font_size_mobile": {
+             "unit": "px",
+             "size": 16
+            },
+            "typography_font_weight": "400",
+            "typography_line_height": {
+             "unit": "em",
+             "size": 1.75
+            }
+           },
+           "elements": [],
+           "widgetType": "text-editor"
+          },
+          {
+           "id": "c17af08a",
+           "elType": "widget",
+           "settings": {
+            "editor": "Παράλληλα, ο ιατρός υπήρξε ένα από τα πρώτα μέλη του IBUS στην Ελλάδα, συμμετέχοντας από τα πρώτα στάδια στην ανάπτυξη και διάδοση της μεθόδου στη χώρα.",
+            "text_color": "#2B3445",
+            "align": "left",
+            "_margin": {
+             "unit": "px",
+             "top": "0",
+             "right": "0",
+             "bottom": "14",
+             "left": "0",
+             "isLinked": false
+            },
+            "typography_typography": "custom",
+            "typography_font_family": "Noto Sans",
+            "typography_font_size": {
+             "unit": "px",
+             "size": 17
+            },
+            "typography_font_size_mobile": {
+             "unit": "px",
+             "size": 16
+            },
+            "typography_font_weight": "400",
+            "typography_line_height": {
+             "unit": "em",
+             "size": 1.75
+            }
+           },
+           "elements": [],
+           "widgetType": "text-editor"
+          },
+          {
+           "id": "0c0fd195",
+           "elType": "widget",
+           "settings": {
+            "editor": "Η εξειδικευμένη αυτή εκπαίδευση και εμπειρία επιτρέπει την αξιοποίηση του εντερικού υπερηχογραφήματος στην καθημερινή κλινική πράξη, ιδιαίτερα για την αντικειμενική και επαναλαμβανόμενη αξιολόγηση ασθενών με νόσο Crohn και ελκώδη κολίτιδα αλλά και άλλων εντερικών παθήσεων.",
+            "text_color": "#2B3445",
+            "align": "left",
+            "_margin": {
+             "unit": "px",
+             "top": "0",
+             "right": "0",
+             "bottom": "14",
+             "left": "0",
+             "isLinked": false
+            },
+            "typography_typography": "custom",
+            "typography_font_family": "Noto Sans",
+            "typography_font_size": {
+             "unit": "px",
+             "size": 17
+            },
+            "typography_font_size_mobile": {
+             "unit": "px",
+             "size": 16
+            },
+            "typography_font_weight": "400",
+            "typography_line_height": {
+             "unit": "em",
+             "size": 1.75
+            }
+           },
+           "elements": [],
+           "widgetType": "text-editor"
+          }
+         ],
+         "isInner": true
+        }
+       ],
+       "isInner": true
+      }
+     ],
+     "isInner": true
+    }
+   ],
+   "isInner": false
+  },
+  {
+   "id": "f89897b9",
+   "elType": "container",
+   "settings": {
+    "flex_direction": "column",
+    "flex_gap": {
+     "unit": "px",
+     "size": 28,
+     "column": "28",
+     "row": "28",
+     "isLinked": true
+    },
+    "content_width": "boxed",
+    "boxed_width": {
+     "unit": "px",
+     "size": 1180
+    },
+    "background_background": "classic",
+    "background_color": "#F4F0E8",
+    "padding": {
+     "unit": "px",
+     "top": "90",
+     "right": "20",
+     "bottom": "90",
+     "left": "20",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "55",
+     "right": "20",
+     "bottom": "55",
+     "left": "20",
+     "isLinked": false
+    },
+    "_element_id": "elastografia"
+   },
+   "elements": [
+    {
+     "id": "405cacec",
+     "elType": "container",
+     "settings": {
+      "flex_direction": "row",
+      "flex_gap": {
+       "unit": "px",
+       "size": 40,
+       "column": "40",
+       "row": "40",
+       "isLinked": true
+      },
+      "flex_direction_mobile": "column",
+      "flex_wrap": "wrap",
+      "flex_align_items": "flex-start"
+     },
+     "elements": [
+      {
+       "id": "77d21e02",
+       "elType": "container",
+       "settings": {
+        "flex_direction": "column",
+        "flex_gap": {
+         "unit": "px",
+         "size": 16,
+         "column": "16",
+         "row": "16",
+         "isLinked": true
+        },
+        "width": {
+         "unit": "%",
+         "size": 50
+        },
+        "width_mobile": {
+         "unit": "%",
+         "size": 100
+        },
+        "width_tablet": {
+         "unit": "%",
+         "size": 100
+        }
+       },
+       "elements": [
+        {
+         "id": "cac5b68c",
+         "elType": "widget",
+         "settings": {
+          "title": "Υπηρεσία",
+          "header_size": "p",
+          "title_color": "#C5B598",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "6",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 14
+          },
+          "typography_font_weight": "700",
+          "typography_letter_spacing": {
+           "unit": "px",
+           "size": 2
+          },
+          "typography_text_transform": "uppercase"
+         },
+         "elements": [],
+         "widgetType": "heading"
+        },
+        {
+         "id": "ae340454",
+         "elType": "widget",
+         "settings": {
+          "title": "Shear Wave Ελαστογραφία ήπατος",
+          "header_size": "h2",
+          "align": "left",
+          "title_color": "#1A3153",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "16",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Serif",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 38
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 28
+          },
+          "typography_font_weight": "700",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.25
+          }
+         },
+         "elements": [],
+         "widgetType": "heading"
+        },
+        {
+         "id": "6c12ace8",
+         "elType": "widget",
+         "settings": {
+          "style": "solid",
+          "weight": {
+           "unit": "px",
+           "size": 3
+          },
+          "color": "#C5B598",
+          "width": {
+           "unit": "px",
+           "size": 60
+          },
+          "align": "left",
+          "gap": {
+           "unit": "px",
+           "size": 8
+          }
+         },
+         "elements": [],
+         "widgetType": "divider"
+        },
+        {
+         "id": "98ae4334",
+         "elType": "widget",
+         "settings": {
+          "editor": "Η Shear Wave Ελαστογραφία (SWE) αποτελεί μια σύγχρονη, μη επεμβατική υπερηχογραφική μέθοδο για την εκτίμηση της σκληρότητας του ηπατικού παρεγχύματος και, κατ’ επέκταση, τη μη επεμβατική αξιολόγηση του βαθμού ηπατικής ίνωσης.",
+          "text_color": "#2B3445",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "14",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 17
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        },
+        {
+         "id": "10435a10",
+         "elType": "widget",
+         "settings": {
+          "editor": "Στο κέντρο μας προσφέρεται η εξέταση αυτή στο πλαίσιο της ηπατολογικής εξέτασης και παρακολούθησης, καθώς η ελαστογραφία αποτελεί απαραίτητο βοήθημα της σύγχρονης ηπατολογίας.",
+          "text_color": "#2B3445",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "14",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 17
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        },
+        {
+         "id": "62801c45",
+         "elType": "widget",
+         "settings": {
+          "editor": "Κατά την εξέταση, ειδικά υπερηχογραφικά κύματα δημιουργούν και ανιχνεύουν κύματα διάτμησης (shear waves) μέσα στον ηπατικό ιστό. Η ταχύτητα διάδοσής τους χρησιμοποιείται για τον υπολογισμό της ηπατικής σκληρότητας, παρέχοντας ποσοτική πληροφορία που μπορεί να συμβάλει στη σταδιοποίηση της ίνωσης.",
+          "text_color": "#2B3445",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "14",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 17
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        }
+       ],
+       "isInner": true
+      },
+      {
+       "id": "877409a9",
+       "elType": "container",
+       "settings": {
+        "flex_direction": "column",
+        "flex_gap": {
+         "unit": "px",
+         "size": 16,
+         "column": "16",
+         "row": "16",
+         "isLinked": true
+        },
+        "width": {
+         "unit": "%",
+         "size": 50
+        },
+        "width_mobile": {
+         "unit": "%",
+         "size": 100
+        },
+        "width_tablet": {
+         "unit": "%",
+         "size": 100
+        }
+       },
+       "elements": [
+        {
+         "id": "61b1cd22",
+         "elType": "widget",
+         "settings": {
+          "editor": "Η μέθοδος είναι ανώδυνη, γρήγορη και μη επεμβατική, χωρίς ακτινοβολία, και μπορεί να πραγματοποιηθεί στο πλαίσιο του υπερηχογραφικού ελέγχου του ήπατος. Αποτελεί χρήσιμο εργαλείο στην αξιολόγηση και παρακολούθηση ασθενών με χρόνια ηπατική νόσο, όπως η μεταβολικά σχετιζόμενη λιπώδης νόσος του ήπατος (MASLD), η ιογενής ηπατίτιδα και άλλες χρόνιες ηπατοπάθειες.",
+          "text_color": "#2B3445",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "14",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 17
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        },
+        {
+         "id": "988c24c9",
+         "elType": "widget",
+         "settings": {
+          "editor": "Η ελαστογραφία δεν αντικαθιστά την κλινική εκτίμηση ή τις εργαστηριακές εξετάσεις, αλλά αποτελεί σημαντικό μέρος της σύγχρονης μη επεμβατικής αξιολόγησης της ηπατικής ίνωσης και μπορεί να συμβάλει στην αναγνώριση ασθενών με αυξημένο κίνδυνο προχωρημένης ίνωσης.",
+          "text_color": "#2B3445",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "14",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 17
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        },
+        {
+         "id": "ff01cf99",
+         "elType": "widget",
+         "settings": {
+          "editor": "Η εξέταση μπορεί να επαναλαμβάνεται κατά την παρακολούθηση, όταν αυτό κρίνεται απαραίτητο, επιτρέποντας την αξιολόγηση της πορείας της ηπατικής νόσου σε συνδυασμό με τα υπόλοιπα κλινικά και εργαστηριακά δεδομένα.",
+          "text_color": "#2B3445",
+          "align": "left",
+          "_margin": {
+           "unit": "px",
+           "top": "0",
+           "right": "0",
+           "bottom": "14",
+           "left": "0",
+           "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Noto Sans",
+          "typography_font_size": {
+           "unit": "px",
+           "size": 17
+          },
+          "typography_font_size_mobile": {
+           "unit": "px",
+           "size": 16
+          },
+          "typography_font_weight": "400",
+          "typography_line_height": {
+           "unit": "em",
+           "size": 1.75
+          }
+         },
+         "elements": [],
+         "widgetType": "text-editor"
+        }
+       ],
+       "isInner": true
+      }
+     ],
+     "isInner": true
+    }
+   ],
+   "isInner": false
+  },
+  {
+   "id": "8976e334",
+   "elType": "container",
+   "settings": {
+    "flex_direction": "column",
+    "flex_gap": {
+     "unit": "px",
+     "size": 14,
+     "column": "14",
+     "row": "14",
+     "isLinked": true
+    },
+    "content_width": "boxed",
+    "boxed_width": {
+     "unit": "px",
+     "size": 1180
+    },
+    "background_background": "classic",
+    "background_color": "#1A3153",
+    "padding": {
+     "unit": "px",
+     "top": "75",
+     "right": "20",
+     "bottom": "75",
+     "left": "20",
+     "isLinked": false
+    },
+    "padding_mobile": {
+     "unit": "px",
+     "top": "50",
+     "right": "20",
+     "bottom": "50",
+     "left": "20",
+     "isLinked": false
+    },
+    "flex_align_items": "center"
+   },
+   "elements": [
+    {
+     "id": "ae270da7",
+     "elType": "widget",
+     "settings": {
+      "title": "Κλείστε το ραντεβού σας",
+      "header_size": "h2",
+      "align": "center",
+      "title_color": "#FFFFFF",
+      "_margin": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "16",
+       "left": "0",
+       "isLinked": false
+      },
+      "typography_typography": "custom",
+      "typography_font_family": "Noto Serif",
+      "typography_font_size": {
+       "unit": "px",
+       "size": 34
+      },
+      "typography_font_size_mobile": {
+       "unit": "px",
+       "size": 26
+      },
+      "typography_font_weight": "700",
+      "typography_line_height": {
+       "unit": "em",
+       "size": 1.25
+      }
+     },
+     "elements": [],
+     "widgetType": "heading"
+    },
+    {
+     "id": "b88139b9",
+     "elType": "widget",
+     "settings": {
+      "editor": "Το ιατρείο λειτουργεί αποκλειστικά κατόπιν ραντεβού, ώστε να εξασφαλίζεται ο απαραίτητος χρόνος για κάθε ασθενή και να αποφεύγεται η αναμονή.",
+      "text_color": "#E8E2D4",
+      "align": "center",
+      "_margin": {
+       "unit": "px",
+       "top": "0",
+       "right": "0",
+       "bottom": "14",
+       "left": "0",
+       "isLinked": false
+      },
+      "typography_typography": "custom",
+      "typography_font_family": "Noto Sans",
+      "typography_font_size": {
+       "unit": "px",
+       "size": 17
+      },
+      "typography_font_size_mobile": {
+       "unit": "px",
+       "size": 16
+      },
+      "typography_font_weight": "400",
+      "typography_line_height": {
+       "unit": "em",
+       "size": 1.75
+      }
+     },
+     "elements": [],
+     "widgetType": "text-editor"
+    },
+    {
+     "id": "e2817efd",
+     "elType": "container",
+     "settings": {
+      "flex_direction": "row",
+      "flex_gap": {
+       "unit": "px",
+       "size": 8,
+       "column": "8",
+       "row": "8",
+       "isLinked": true
+      },
+      "flex_direction_mobile": "column",
+      "flex_wrap": "wrap",
+      "flex_justify_content": "center"
+     },
+     "elements": [
+      {
+       "id": "1d53434b",
+       "elType": "widget",
+       "settings": {
+        "text": "Κλείστε ραντεβού: 23730 25770",
+        "link": {
+         "url": "tel:+302373025770",
+         "is_external": "",
+         "nofollow": "",
+         "custom_attributes": ""
+        },
+        "align": "center",
+        "size": "md",
+        "button_text_color": "#1A3153",
+        "background_color": "#C5B598",
+        "button_background_hover_color": "#C5B598",
+        "hover_color": "#1A3153",
+        "border_radius": {
+         "unit": "px",
+         "top": "50",
+         "right": "50",
+         "bottom": "50",
+         "left": "50",
+         "isLinked": false
+        },
+        "text_padding": {
+         "unit": "px",
+         "top": "16",
+         "right": "32",
+         "bottom": "16",
+         "left": "32",
+         "isLinked": false
+        },
+        "_margin": {
+         "unit": "px",
+         "top": "0",
+         "right": "8",
+         "bottom": "8",
+         "left": "0",
+         "isLinked": false
+        },
+        "typography_typography": "custom",
+        "typography_font_family": "Noto Sans",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 16
+        },
+        "typography_font_weight": "600",
+        "selected_icon": {
+         "value": "fas fa-phone-alt",
+         "library": "fa-solid"
+        },
+        "icon_align": "left",
+        "icon_indent": {
+         "unit": "px",
+         "size": 10
+        }
+       },
+       "elements": [],
+       "widgetType": "button"
+      },
+      {
+       "id": "ae849217",
+       "elType": "widget",
+       "settings": {
+        "text": "Απευθείας με τον ιατρό: 697 293 1794",
+        "link": {
+         "url": "tel:+306972931794",
+         "is_external": "",
+         "nofollow": "",
+         "custom_attributes": ""
+        },
+        "align": "center",
+        "size": "md",
+        "button_text_color": "#FFFFFF",
+        "background_color": "rgba(255,255,255,0)",
+        "button_background_hover_color": "#FFFFFF",
+        "hover_color": "#1A3153",
+        "border_radius": {
+         "unit": "px",
+         "top": "50",
+         "right": "50",
+         "bottom": "50",
+         "left": "50",
+         "isLinked": false
+        },
+        "text_padding": {
+         "unit": "px",
+         "top": "16",
+         "right": "32",
+         "bottom": "16",
+         "left": "32",
+         "isLinked": false
+        },
+        "_margin": {
+         "unit": "px",
+         "top": "0",
+         "right": "8",
+         "bottom": "8",
+         "left": "0",
+         "isLinked": false
+        },
+        "typography_typography": "custom",
+        "typography_font_family": "Noto Sans",
+        "typography_font_size": {
+         "unit": "px",
+         "size": 16
+        },
+        "typography_font_weight": "600",
+        "border_border": "solid",
+        "border_width": {
+         "unit": "px",
+         "top": "2",
+         "right": "2",
+         "bottom": "2",
+         "left": "2",
+         "isLinked": false
+        },
+        "border_color": "#FFFFFF"
+       },
+       "elements": [],
+       "widgetType": "button"
+      }
+     ],
+     "isInner": true
+    }
+   ],
+   "isInner": false
+  }
+ ]
+}
